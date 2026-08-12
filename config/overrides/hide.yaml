@@ -1,0 +1,6 @@
+# Manual override: hide these item ids or story ids from output.
+# hide:
+#   itemIds:
+#     - <item_id>
+#   storyIds:
+#     - <story_id>
