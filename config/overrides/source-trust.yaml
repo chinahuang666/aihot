@@ -1,0 +1,4 @@
+# Manual override: adjust source trust tier.
+# source-trust:
+#   <source_id>:
+#     trustTier: 1
