@@ -1,0 +1,6 @@
+# Manual override: merge these stories into one (by story id).
+# merge:
+#   into:
+#     <target_story_id>:
+#       - <source_story_id_1>
+#       - <source_story_id_2>
