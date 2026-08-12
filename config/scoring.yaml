@@ -1,0 +1,44 @@
+# Scoring configuration (task book §9).
+# Weights are readable config. Algorithm version is bumped when formulas change.
+algoVersion: rule-1.0.0
+schemaVersion: "1.0.0"
+
+weights:
+  heat:
+    velocity: 0.35        # 来源归一化后的传播增速
+    coverage: 0.25        # 独立平台覆盖
+    interaction: 0.20      # 高质量互动信号
+    freshness: 0.20       # 时间新鲜度
+  importance:
+    industryImpact: 0.35   # 潜在行业影响
+    originality: 0.25      # 原创性与一手程度
+    authority: 0.20        # 来源权威性
+    endurance: 0.20        # 持续价值
+  confidence:
+    firsthand: 0.40       # 一手证据
+    crossConfirm: 0.30     # 独立来源交叉确认
+    histQuality: 0.20      # 来源历史质量
+    metaComplete: 0.10     # 元数据完整性
+    # penalties applied when conditions met:
+    #   contradiction: -0.20
+    #   single source / single repost chain: -0.15
+
+# Category-specific time half-lives (hours) for freshness decay.
+halfLifeHours:
+  model: 18
+  product: 18
+  developer: 30
+  research: 72
+  industry: 36
+  safety: 48
+
+# Status thresholds.
+status:
+  hot: 0.70
+  warming: 0.45
+  archivedDays: 7
+
+# Ingest focus window (task book §1: past 24h product framing).
+ingest:
+  windowHours: 72      # drop items published older than this (undated items kept)
+  perSourceLimit: 20   # cap entries kept per source per run
