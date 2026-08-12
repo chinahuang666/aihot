@@ -1,0 +1,743 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-08-11T17:23:05Z",
+  "window": {
+    "start": "2026-08-08T17:23:05Z",
+    "end": "2026-08-11T17:23:05Z"
+  },
+  "storyCount": 20,
+  "data": [
+    {
+      "id": "ba12f3f9d645",
+      "slug": "amie-our-research-medical-ai-system-demonstrates-real-time-c",
+      "headline": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "whatHappened": "AMIE, our research medical AI system, demonstrates real-time…",
+      "whyItMatters": "AMIE promotional video",
+      "category": "model",
+      "entities": [],
+      "firstSeenAt": "2026-08-11T17:00:00Z",
+      "lastUpdatedAt": "2026-08-11T17:21:48Z",
+      "status": "new",
+      "heatScore": 0.3021,
+      "importanceScore": 0.49,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "f603f32464799b24"
+      ],
+      "primaryItemId": "f603f32464799b24",
+      "claims": [
+        {
+          "text": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+          "supporting_item_ids": [
+            "f603f32464799b24"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study."
+    },
+    {
+      "id": "bf3b697614af",
+      "slug": "testing-ads-in-chatgpt",
+      "headline": "Testing ads in ChatGPT",
+      "whatHappened": "Testing ads in ChatGPT",
+      "whyItMatters": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy pr…",
+      "category": "model",
+      "entities": [
+        "org:openai",
+        "prod:chatgpt",
+        "prod:gpt"
+      ],
+      "firstSeenAt": "2026-08-11T10:00:00Z",
+      "lastUpdatedAt": "2026-08-11T17:21:48Z",
+      "status": "new",
+      "heatScore": 0.2555,
+      "importanceScore": 0.49,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "964e727b05a9e4f8"
+      ],
+      "primaryItemId": "964e727b05a9e4f8",
+      "claims": [
+        {
+          "text": "Testing ads in ChatGPT",
+          "supporting_item_ids": [
+            "964e727b05a9e4f8"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Testing ads in ChatGPT"
+    },
+    {
+      "id": "c1512d40f7a9",
+      "slug": "llama-cpp-releases-发布-b10361",
+      "headline": "llama.cpp Releases 发布 b10361",
+      "whatHappened": "llama.cpp Releases 发布 b10361",
+      "whyItMatters": "model : fix SWA not being enabled for EXAONE 4.5 ( #26848 ) model : fix SWA not being enabled for EXAONE 4.5 load_arch_h…",
+      "category": "developer",
+      "entities": [
+        "prod:llama",
+        "prod:llama.cpp",
+        "ver:4.5"
+      ],
+      "firstSeenAt": "2026-08-11T17:14:55Z",
+      "lastUpdatedAt": "2026-08-11T17:21:48Z",
+      "status": "new",
+      "heatScore": 0.3044,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "包含 GitHub Release / 官方发布",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "3290417ed9cf0c75"
+      ],
+      "primaryItemId": "3290417ed9cf0c75",
+      "claims": [
+        {
+          "text": "llama.cpp Releases 发布 b10361",
+          "supporting_item_ids": [
+            "3290417ed9cf0c75"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "llama.cpp Releases 发布 b10361"
+    },
+    {
+      "id": "6afa570595f5",
+      "slug": "the-ultimate-guide-to-contributing-to-open-source-projects",
+      "headline": "The Ultimate Guide to Contributing to Open Source Projects",
+      "whatHappened": "The Ultimate Guide to Contributing to Open Source Projects",
+      "whyItMatters": "This guide walks through what contributing to open source projects actually covers, how to pick a project that will actu…",
+      "category": "developer",
+      "entities": [],
+      "firstSeenAt": "2026-08-11T14:00:17Z",
+      "lastUpdatedAt": "2026-08-11T17:21:48Z",
+      "status": "new",
+      "heatScore": 0.29,
+      "importanceScore": 0.47,
+      "confidenceScore": 0.27,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "ded7c985f37f8d06"
+      ],
+      "primaryItemId": "ded7c985f37f8d06",
+      "claims": [
+        {
+          "text": "The Ultimate Guide to Contributing to Open Source Projects",
+          "supporting_item_ids": [
+            "ded7c985f37f8d06"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "The Ultimate Guide to Contributing to Open Source Projects"
+    },
+    {
+      "id": "c107acd0b182",
+      "slug": "3-visual-proofs-of-the-central-limit-theorem-to-build-your-i",
+      "headline": "3 Visual Proofs of the Central Limit Theorem to Build Your Intuition",
+      "whatHappened": "3 Visual Proofs of the Central Limit Theorem to Build Your I…",
+      "whyItMatters": "To build your intuition, this article shows three visual proofs that the classic bell curve appears in myriad situations…",
+      "category": "developer",
+      "entities": [],
+      "firstSeenAt": "2026-08-11T12:00:45Z",
+      "lastUpdatedAt": "2026-08-11T17:21:48Z",
+      "status": "new",
+      "heatScore": 0.2817,
+      "importanceScore": 0.47,
+      "confidenceScore": 0.27,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "1161ad4a6ed0db6e"
+      ],
+      "primaryItemId": "1161ad4a6ed0db6e",
+      "claims": [
+        {
+          "text": "3 Visual Proofs of the Central Limit Theorem to Build Your Intuition",
+          "supporting_item_ids": [
+            "1161ad4a6ed0db6e"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "3 Visual Proofs of the Central Limit Theorem to Build Your Intuition"
+    },
+    {
+      "id": "fc8dcdd9e793",
+      "slug": "ollama-releases-发布-v0-32-9",
+      "headline": "Ollama Releases 发布 v0.32.9",
+      "whatHappened": "Ollama Releases 发布 v0.32.9",
+      "whyItMatters": "NVIDIA Nemotron 3.5 Lightning NVIDIA Nemotron 3.5 Lightning is an open 30B mixture-of-experts (MoE) model with 3B active…",
+      "category": "developer",
+      "entities": [
+        "org:nvidia",
+        "prod:llama",
+        "prod:nemotron",
+        "prod:ollama",
+        "ver:0.32.9",
+        "ver:3.5"
+      ],
+      "firstSeenAt": "2026-08-11T13:24:14Z",
+      "lastUpdatedAt": "2026-08-11T17:21:48Z",
+      "status": "new",
+      "heatScore": 0.2874,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "包含 GitHub Release / 官方发布",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "399f779ce18dfda2"
+      ],
+      "primaryItemId": "399f779ce18dfda2",
+      "claims": [
+        {
+          "text": "Ollama Releases 发布 v0.32.9",
+          "supporting_item_ids": [
+            "399f779ce18dfda2"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Ollama Releases 发布 v0.32.9"
+    },
+    {
+      "id": "45e9fcf4fb2f",
+      "slug": "llama-cpp-releases-发布-b10360",
+      "headline": "llama.cpp Releases 发布 b10360",
+      "whatHappened": "llama.cpp Releases 发布 b10360",
+      "whyItMatters": "common/peg : suppress incomplete escape sequences ( #26780 ) Website: https://llama.app macOS/iOS: macOS Apple Silicon (…",
+      "category": "developer",
+      "entities": [
+        "org:apple",
+        "org:intel",
+        "prod:llama",
+        "prod:llama.cpp",
+        "ver:7.14"
+      ],
+      "firstSeenAt": "2026-08-11T13:19:20Z",
+      "lastUpdatedAt": "2026-08-11T17:21:48Z",
+      "status": "new",
+      "heatScore": 0.2871,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "包含 GitHub Release / 官方发布",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "668db1b5c0d1cb0e"
+      ],
+      "primaryItemId": "668db1b5c0d1cb0e",
+      "claims": [
+        {
+          "text": "llama.cpp Releases 发布 b10360",
+          "supporting_item_ids": [
+            "668db1b5c0d1cb0e"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "llama.cpp Releases 发布 b10360"
+    },
+    {
+      "id": "3044abd6892c",
+      "slug": "llama-cpp-releases-发布-b10359",
+      "headline": "llama.cpp Releases 发布 b10359",
+      "whatHappened": "llama.cpp Releases 发布 b10359",
+      "whyItMatters": "ggml-webgpu: fix CI errors from #25025 and #25262 ( #26566 ) test new flash_attn test rebase and fix to disable subgrou …",
+      "category": "developer",
+      "entities": [
+        "org:apple",
+        "prod:llama",
+        "prod:llama.cpp"
+      ],
+      "firstSeenAt": "2026-08-11T10:51:07Z",
+      "lastUpdatedAt": "2026-08-11T17:21:48Z",
+      "status": "new",
+      "heatScore": 0.277,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "包含 GitHub Release / 官方发布",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "44242ac257be96d1"
+      ],
+      "primaryItemId": "44242ac257be96d1",
+      "claims": [
+        {
+          "text": "llama.cpp Releases 发布 b10359",
+          "supporting_item_ids": [
+            "44242ac257be96d1"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "llama.cpp Releases 发布 b10359"
+    },
+    {
+      "id": "740c01e43ab8",
+      "slug": "vllm-releases-发布-v0-27-1",
+      "headline": "vLLM Releases 发布 v0.27.1",
+      "whatHappened": "vLLM Releases 发布 v0.27.1",
+      "whyItMatters": "This is a patch release on top of v0.27.0. Support quantized DSpark Markov heads ( #50424 )",
+      "category": "developer",
+      "entities": [
+        "prod:vllm",
+        "ver:0.27.0",
+        "ver:0.27.1"
+      ],
+      "firstSeenAt": "2026-08-11T10:49:10Z",
+      "lastUpdatedAt": "2026-08-11T17:21:48Z",
+      "status": "new",
+      "heatScore": 0.2768,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "包含 GitHub Release / 官方发布",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "d019d825ee032d2e"
+      ],
+      "primaryItemId": "d019d825ee032d2e",
+      "claims": [
+        {
+          "text": "vLLM Releases 发布 v0.27.1",
+          "supporting_item_ids": [
+            "d019d825ee032d2e"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "vLLM Releases 发布 v0.27.1"
+    },
+    {
+      "id": "bf87dac89354",
+      "slug": "llama-cpp-releases-发布-b10358",
+      "headline": "llama.cpp Releases 发布 b10358",
+      "whatHappened": "llama.cpp Releases 发布 b10358",
+      "whyItMatters": "Address review comment of PR 25532 ( #26852 ) Website: https://llama.app macOS/iOS: macOS Apple Silicon (arm64) macOS Ap…",
+      "category": "developer",
+      "entities": [
+        "org:apple",
+        "org:intel",
+        "prod:llama",
+        "prod:llama.cpp",
+        "ver:7.14"
+      ],
+      "firstSeenAt": "2026-08-11T09:06:33Z",
+      "lastUpdatedAt": "2026-08-11T17:21:48Z",
+      "status": "new",
+      "heatScore": 0.2702,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "包含 GitHub Release / 官方发布",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "70973b5e1c35cc78"
+      ],
+      "primaryItemId": "70973b5e1c35cc78",
+      "claims": [
+        {
+          "text": "llama.cpp Releases 发布 b10358",
+          "supporting_item_ids": [
+            "70973b5e1c35cc78"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "llama.cpp Releases 发布 b10358"
+    },
+    {
+      "id": "1ab5feb9ffd1",
+      "slug": "beyond-naturalness-probing-automated-text-to-speech-evaluato",
+      "headline": "Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Grounded Dimensions",
+      "whatHappened": "Beyond Naturalness: Probing Automated Text-To-Speech Evaluat…",
+      "whyItMatters": "Automated Text-to-Speech (TTS) evaluation methods (Mean Opinion Score (MOS) predictors and Audio Large Language Models (…",
+      "category": "research",
+      "entities": [
+        "cs.AI",
+        "cs.CL",
+        "cs.SD"
+      ],
+      "firstSeenAt": "2026-08-10T17:59:51Z",
+      "lastUpdatedAt": "2026-08-11T17:21:48Z",
+      "status": "new",
+      "heatScore": 0.2647,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "7e07e4a2dfce2efe"
+      ],
+      "primaryItemId": "7e07e4a2dfce2efe",
+      "claims": [
+        {
+          "text": "Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Grounded Dimensions",
+          "supporting_item_ids": [
+            "7e07e4a2dfce2efe"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Grounded Dimensions"
+    },
+    {
+      "id": "8c36358eb818",
+      "slug": "multimodal-model-diffing-for-feature-discovery-and-control",
+      "headline": "Multimodal Model Diffing for Feature Discovery and Control",
+      "whatHappened": "Multimodal Model Diffing for Feature Discovery and Control",
+      "whyItMatters": "Multimodal Large Language Models (MLLMs) exhibit strong visual understanding, yet the internal features that cause these…",
+      "category": "research",
+      "entities": [
+        "cs.AI",
+        "cs.CL",
+        "cs.CV",
+        "cs.LG"
+      ],
+      "firstSeenAt": "2026-08-10T17:59:30Z",
+      "lastUpdatedAt": "2026-08-11T17:21:48Z",
+      "status": "new",
+      "heatScore": 0.2647,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "e4abc1f6320d9eb4"
+      ],
+      "primaryItemId": "e4abc1f6320d9eb4",
+      "claims": [
+        {
+          "text": "Multimodal Model Diffing for Feature Discovery and Control",
+          "supporting_item_ids": [
+            "e4abc1f6320d9eb4"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Multimodal Model Diffing for Feature Discovery and Control"
+    },
+    {
+      "id": "b464aa1be2d5",
+      "slug": "from-values-to-benchmarks-evaluating-large-language-models-f",
+      "headline": "From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch",
+      "whatHappened": "From Values to Benchmarks: Evaluating Large Language Models …",
+      "whyItMatters": "Large language models are increasingly being deployed in governmental settings, yet few existing evaluation frameworks j…",
+      "category": "research",
+      "entities": [
+        "cs.AI",
+        "cs.CL"
+      ],
+      "firstSeenAt": "2026-08-10T17:59:05Z",
+      "lastUpdatedAt": "2026-08-11T17:21:48Z",
+      "status": "new",
+      "heatScore": 0.2647,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "fc3aa0fa92e3df92"
+      ],
+      "primaryItemId": "fc3aa0fa92e3df92",
+      "claims": [
+        {
+          "text": "From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch",
+          "supporting_item_ids": [
+            "fc3aa0fa92e3df92"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch"
+    },
+    {
+      "id": "37fa55dad271",
+      "slug": "genco-a-unified-neural-solver-embedded-in-a-development-fram",
+      "headline": "GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis",
+      "whatHappened": "GENCO - A Unified Neural Solver Embedded in a Development Fr…",
+      "whyItMatters": "Foundation models are transforming business workflows and boosting productivity, yet they remain largely absent from eng…",
+      "category": "research",
+      "entities": [
+        "cs.AI"
+      ],
+      "firstSeenAt": "2026-08-10T17:57:49Z",
+      "lastUpdatedAt": "2026-08-11T17:21:48Z",
+      "status": "new",
+      "heatScore": 0.2646,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "7567f9192119c9f6"
+      ],
+      "primaryItemId": "7567f9192119c9f6",
+      "claims": [
+        {
+          "text": "GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis",
+          "supporting_item_ids": [
+            "7567f9192119c9f6"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis"
+    },
+    {
+      "id": "4bc97c5ac879",
+      "slug": "dsle-a-learning-environment-for-dark-souls-boss-encounters",
+      "headline": "DSLE: A Learning Environment for Dark Souls Boss Encounters",
+      "whatHappened": "DSLE: A Learning Environment for Dark Souls Boss Encounters",
+      "whyItMatters": "We introduce the Dark Souls Learning Environment (DSLE), a containerized platform that presents all 22 boss encounters o…",
+      "category": "research",
+      "entities": [
+        "cs.AI",
+        "cs.NE"
+      ],
+      "firstSeenAt": "2026-08-10T17:48:45Z",
+      "lastUpdatedAt": "2026-08-11T17:21:48Z",
+      "status": "new",
+      "heatScore": 0.2644,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "0ebbc0c7288fde86"
+      ],
+      "primaryItemId": "0ebbc0c7288fde86",
+      "claims": [
+        {
+          "text": "DSLE: A Learning Environment for Dark Souls Boss Encounters",
+          "supporting_item_ids": [
+            "0ebbc0c7288fde86"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "DSLE: A Learning Environment for Dark Souls Boss Encounters"
+    },
+    {
+      "id": "c6350ed44c5c",
+      "slug": "decoding-level-taboo-a-diagnostic-stress-test-for-llm-robust",
+      "headline": "Decoding-Level Taboo: A Diagnostic Stress Test for LLM Robustness",
+      "whatHappened": "Decoding-Level Taboo: A Diagnostic Stress Test for LLM Robus…",
+      "whyItMatters": "Large language model evaluations typically focus on performance under nominal conditions, creating an illusion of capabi…",
+      "category": "research",
+      "entities": [
+        "cs.CL"
+      ],
+      "firstSeenAt": "2026-08-10T17:47:24Z",
+      "lastUpdatedAt": "2026-08-11T17:21:48Z",
+      "status": "new",
+      "heatScore": 0.2644,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "e97fbe32dca607c6"
+      ],
+      "primaryItemId": "e97fbe32dca607c6",
+      "claims": [
+        {
+          "text": "Decoding-Level Taboo: A Diagnostic Stress Test for LLM Robustness",
+          "supporting_item_ids": [
+            "e97fbe32dca607c6"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Decoding-Level Taboo: A Diagnostic Stress Test for LLM Robustness"
+    },
+    {
+      "id": "5e090f8b1bfa",
+      "slug": "consilience-for-verifier-free-test-time-scaling",
+      "headline": "Consilience for Verifier-Free Test-Time Scaling",
+      "whatHappened": "Consilience for Verifier-Free Test-Time Scaling",
+      "whyItMatters": "Test-time scaling often uses an external verifier, such as compilers and test cases in coding or trained value functions…",
+      "category": "research",
+      "entities": [
+        "cs.CL",
+        "cs.LG"
+      ],
+      "firstSeenAt": "2026-08-10T17:45:44Z",
+      "lastUpdatedAt": "2026-08-11T17:21:48Z",
+      "status": "new",
+      "heatScore": 0.2643,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "acc93176c07d6291"
+      ],
+      "primaryItemId": "acc93176c07d6291",
+      "claims": [
+        {
+          "text": "Consilience for Verifier-Free Test-Time Scaling",
+          "supporting_item_ids": [
+            "acc93176c07d6291"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Consilience for Verifier-Free Test-Time Scaling"
+    },
+    {
+      "id": "20f7b779ecdb",
+      "slug": "fusion-training-for-mathematical-generalization-in-large-lan",
+      "headline": "Fusion Training for Mathematical Generalization in Large Language Models",
+      "whatHappened": "Fusion Training for Mathematical Generalization in Large Lan…",
+      "whyItMatters": "Thinking Mode Fusion (TMF) enables large language models to support both concise responses and long-form reasoning by un…",
+      "category": "research",
+      "entities": [
+        "cs.AI",
+        "cs.CL"
+      ],
+      "firstSeenAt": "2026-08-10T17:41:19Z",
+      "lastUpdatedAt": "2026-08-11T17:21:48Z",
+      "status": "new",
+      "heatScore": 0.2642,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "286ae8441bdb8927"
+      ],
+      "primaryItemId": "286ae8441bdb8927",
+      "claims": [
+        {
+          "text": "Fusion Training for Mathematical Generalization in Large Language Models",
+          "supporting_item_ids": [
+            "286ae8441bdb8927"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Fusion Training for Mathematical Generalization in Large Language Models"
+    },
+    {
+      "id": "8deb06fee381",
+      "slug": "bdh-cq-in-context-learning-with-recurrent-latent-reasoning",
+      "headline": "BDH-CQ: In-Context Learning with Recurrent Latent Reasoning",
+      "whatHappened": "BDH-CQ: In-Context Learning with Recurrent Latent Reasoning",
+      "whyItMatters": "We introduce BDH-CQ, a reasoning model that combines in-context learning with recurrent latent reasoning. Inputs present…",
+      "category": "research",
+      "entities": [
+        "cs.AI",
+        "cs.LG",
+        "cs.NE",
+        "stat.ML"
+      ],
+      "firstSeenAt": "2026-08-10T17:39:16Z",
+      "lastUpdatedAt": "2026-08-11T17:21:48Z",
+      "status": "new",
+      "heatScore": 0.2642,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "8e38319845defc93"
+      ],
+      "primaryItemId": "8e38319845defc93",
+      "claims": [
+        {
+          "text": "BDH-CQ: In-Context Learning with Recurrent Latent Reasoning",
+          "supporting_item_ids": [
+            "8e38319845defc93"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "BDH-CQ: In-Context Learning with Recurrent Latent Reasoning"
+    },
+    {
+      "id": "42eeb15ac284",
+      "slug": "she-trajectory-driven-safety-harness-evolution-for-llm-agent",
+      "headline": "SHE: Trajectory-driven Safety Harness Evolution for LLM Agents",
+      "whatHappened": "SHE: Trajectory-driven Safety Harness Evolution for LLM Agen…",
+      "whyItMatters": "The safety of large language model (LLM) agents depends not only on model weights but also on the agent harness that man…",
+      "category": "research",
+      "entities": [
+        "cs.AI",
+        "cs.CV"
+      ],
+      "firstSeenAt": "2026-08-10T17:35:08Z",
+      "lastUpdatedAt": "2026-08-11T17:21:48Z",
+      "status": "new",
+      "heatScore": 0.264,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "0222286ff3cbd750"
+      ],
+      "primaryItemId": "0222286ff3cbd750",
+      "claims": [
+        {
+          "text": "SHE: Trajectory-driven Safety Harness Evolution for LLM Agents",
+          "supporting_item_ids": [
+            "0222286ff3cbd750"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "SHE: Trajectory-driven Safety Harness Evolution for LLM Agents"
+    }
+  ]
+}
