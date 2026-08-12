@@ -1,0 +1,4964 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-08-12T04:12:31Z",
+  "window": {
+    "start": "2026-08-09T04:12:31Z",
+    "end": "2026-08-12T04:12:31Z"
+  },
+  "storyCount": 142,
+  "data": [
+    {
+      "id": "0d27f5ca5f4f",
+      "slug": "google-s-gemini-app-surges-to-1-billion-users",
+      "headline": "Google’s Gemini app surges to 1 billion users",
+      "whatHappened": "Google’s Gemini app surges to 1 billion users",
+      "whyItMatters": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to th…",
+      "category": "industry",
+      "entities": [
+        "org:google",
+        "org:openai",
+        "prod:chatgpt",
+        "prod:gemini",
+        "prod:gpt"
+      ],
+      "firstSeenAt": "2026-08-11T18:49:12Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.5669,
+      "importanceScore": 0.4425,
+      "confidenceScore": 0.42,
+      "rankingReasons": [
+        "2 小时内出现 2 个独立来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "a7da00d346c25ca8",
+        "c725b62d5d61c59f"
+      ],
+      "primaryItemId": "a7da00d346c25ca8",
+      "claims": [
+        {
+          "text": "Google’s Gemini app surges to 1 billion users",
+          "supporting_item_ids": [
+            "a7da00d346c25ca8"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Google’s Gemini app surges to 1 billion users"
+    },
+    {
+      "id": "ba12f3f9d645",
+      "slug": "amie-our-research-medical-ai-system-demonstrates-real-time-c",
+      "headline": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "whatHappened": "AMIE, our research medical AI system, demonstrates real-time…",
+      "whyItMatters": "AMIE promotional video",
+      "category": "model",
+      "entities": [],
+      "firstSeenAt": "2026-08-11T17:00:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2349,
+      "importanceScore": 0.49,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "f603f32464799b24"
+      ],
+      "primaryItemId": "f603f32464799b24",
+      "claims": [
+        {
+          "text": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+          "supporting_item_ids": [
+            "f603f32464799b24"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study."
+    },
+    {
+      "id": "5bc6655b6c00",
+      "slug": "surgical-wam-a-world-action-model-for-data-efficient-surgica",
+      "headline": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning",
+      "whatHappened": "Surgical WAM: A World-Action Model for Data-Efficient Surgic…",
+      "whyItMatters": "Learning reliable surgical manipulation policies is bottlenecked by the scarcity of action-labeled demonstrations: teleo…",
+      "category": "research",
+      "entities": [
+        "cs.AI",
+        "cs.CV",
+        "cs.RO"
+      ],
+      "firstSeenAt": "2026-08-11T17:59:13Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2863,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "7fc667b24c62e80a"
+      ],
+      "primaryItemId": "7fc667b24c62e80a",
+      "claims": [
+        {
+          "text": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning",
+          "supporting_item_ids": [
+            "7fc667b24c62e80a"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning"
+    },
+    {
+      "id": "0c7e9afc9629",
+      "slug": "convawg-a-retrieval-grounded-framework-for-controlled-synthe",
+      "headline": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls",
+      "whatHappened": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synth…",
+      "whyItMatters": "Synthetic dialogue generation offers a way to study conversational dynamics in sensitive domains where real data are dif…",
+      "category": "research",
+      "entities": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG"
+      ],
+      "firstSeenAt": "2026-08-11T17:57:34Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2862,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "0c6c947d1dc99189"
+      ],
+      "primaryItemId": "0c6c947d1dc99189",
+      "claims": [
+        {
+          "text": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls",
+          "supporting_item_ids": [
+            "0c6c947d1dc99189"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls"
+    },
+    {
+      "id": "29d2e295f9b6",
+      "slug": "beyond-a-bag-of-features-set-level-instability-in-sparse-aut",
+      "headline": "Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders",
+      "whatHappened": "Beyond a Bag of Features: Set-Level Instability in Sparse Au…",
+      "whyItMatters": "Shani et al. (2026) show that LLM representations broadly recover human category boundaries, while failing to reflect fi…",
+      "category": "research",
+      "entities": [
+        "cs.CL",
+        "cs.LG"
+      ],
+      "firstSeenAt": "2026-08-11T17:55:59Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2862,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "9adea61aa56e080c"
+      ],
+      "primaryItemId": "9adea61aa56e080c",
+      "claims": [
+        {
+          "text": "Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders",
+          "supporting_item_ids": [
+            "9adea61aa56e080c"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders"
+    },
+    {
+      "id": "30c3e0bb1e4a",
+      "slug": "long-horizon-ai-research-for-grothendieck-constant-a-case-st",
+      "headline": "Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration",
+      "whatHappened": "Long-Horizon AI Research for Grothendieck Constant: A Case S…",
+      "whyItMatters": "AI agents are increasingly used in mathematics research, but it is often unclear how to use them effectively. Towards th…",
+      "category": "research",
+      "entities": [
+        "cs.AI",
+        "cs.CC",
+        "cs.HC",
+        "math.FA"
+      ],
+      "firstSeenAt": "2026-08-11T17:53:48Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2861,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "6fa72760659d1235"
+      ],
+      "primaryItemId": "6fa72760659d1235",
+      "claims": [
+        {
+          "text": "Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration",
+          "supporting_item_ids": [
+            "6fa72760659d1235"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration"
+    },
+    {
+      "id": "2d0c200537af",
+      "slug": "test-time-self-evolving-gui-visual-grounding-via-reflection-",
+      "headline": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation",
+      "whatHappened": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-…",
+      "whyItMatters": "GUI Visual Grounding is a fundamental capability for GUI agents. Existing models typically freeze their parameters after…",
+      "category": "research",
+      "entities": [
+        "cs.AI",
+        "cs.CL",
+        "cs.CV"
+      ],
+      "firstSeenAt": "2026-08-11T17:50:25Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.286,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "c3cbc10956a6c328"
+      ],
+      "primaryItemId": "c3cbc10956a6c328",
+      "claims": [
+        {
+          "text": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation",
+          "supporting_item_ids": [
+            "c3cbc10956a6c328"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation"
+    },
+    {
+      "id": "e2862dfba54a",
+      "slug": "how-to-verify-consistency-of-probabilistic-claims",
+      "headline": "How to Verify Consistency of Probabilistic Claims",
+      "whatHappened": "How to Verify Consistency of Probabilistic Claims",
+      "whyItMatters": "When a probabilistic predictor answers many conditional-probability queries, are its answers self-consistent, and can th…",
+      "category": "research",
+      "entities": [
+        "cs.AI",
+        "cs.CC",
+        "cs.LG"
+      ],
+      "firstSeenAt": "2026-08-11T17:41:39Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2857,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "f337d91f7c88c2dd"
+      ],
+      "primaryItemId": "f337d91f7c88c2dd",
+      "claims": [
+        {
+          "text": "How to Verify Consistency of Probabilistic Claims",
+          "supporting_item_ids": [
+            "f337d91f7c88c2dd"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "How to Verify Consistency of Probabilistic Claims"
+    },
+    {
+      "id": "733cf5ba1b6b",
+      "slug": "from-interpretability-to-control-insights-from-six-years-of-",
+      "headline": "From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop",
+      "whatHappened": "From Interpretability to Control: Insights from Six Years of…",
+      "whyItMatters": "The Workshop on Trustworthy Natural Language Processing (TrustNLP), co-located with major ACL conferences since 2021, ha…",
+      "category": "research",
+      "entities": [
+        "cs.AI",
+        "cs.CL",
+        "cs.CY"
+      ],
+      "firstSeenAt": "2026-08-11T17:30:16Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2854,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "cee97260a36f331c"
+      ],
+      "primaryItemId": "cee97260a36f331c",
+      "claims": [
+        {
+          "text": "From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop",
+          "supporting_item_ids": [
+            "cee97260a36f331c"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop"
+    },
+    {
+      "id": "b3222dfb8497",
+      "slug": "multimodal-code-switching-interleaving-visual-objects-into-l",
+      "headline": "MultiModal Code-Switching: Interleaving Visual Objects into Language for Explicit Object-Level Alignment",
+      "whatHappened": "MultiModal Code-Switching: Interleaving Visual Objects into …",
+      "whyItMatters": "Existing Multimodal Large Language Models (MLLMs) predominantly rely on image-text pairs for modality alignment pretrain…",
+      "category": "research",
+      "entities": [
+        "cs.CL",
+        "cs.CV",
+        "cs.LG"
+      ],
+      "firstSeenAt": "2026-08-11T17:28:52Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2854,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "dd2e52c8fcf503cc"
+      ],
+      "primaryItemId": "dd2e52c8fcf503cc",
+      "claims": [
+        {
+          "text": "MultiModal Code-Switching: Interleaving Visual Objects into Language for Explicit Object-Level Alignment",
+          "supporting_item_ids": [
+            "dd2e52c8fcf503cc"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "MultiModal Code-Switching: Interleaving Visual Objects into Language for Explicit Object-Level Alignment"
+    },
+    {
+      "id": "3f36ff4e418b",
+      "slug": "the-illusion-of-cross-lingual-safety-in-low-resource-languag",
+      "headline": "The Illusion of Cross-Lingual Safety in Low-Resource Languages",
+      "whatHappened": "The Illusion of Cross-Lingual Safety in Low-Resource Languag…",
+      "whyItMatters": "Safety alignment in large language models (LLMs) is largely developed in English, assuming these safeguards generalize a…",
+      "category": "research",
+      "entities": [
+        "cs.CL"
+      ],
+      "firstSeenAt": "2026-08-11T17:05:26Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2847,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "249f70f884813a6a"
+      ],
+      "primaryItemId": "249f70f884813a6a",
+      "claims": [
+        {
+          "text": "The Illusion of Cross-Lingual Safety in Low-Resource Languages",
+          "supporting_item_ids": [
+            "249f70f884813a6a"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "The Illusion of Cross-Lingual Safety in Low-Resource Languages"
+    },
+    {
+      "id": "76fe80986fb9",
+      "slug": "attention-path-fragility-as-an-uncertainty-signal-in-large-l",
+      "headline": "Attention-Path Fragility as an Uncertainty Signal in Large Language Models",
+      "whatHappened": "Attention-Path Fragility as an Uncertainty Signal in Large L…",
+      "whyItMatters": "We propose that a model's uncertainty about a token is reflected not only in the breadth of its output distribution but …",
+      "category": "research",
+      "entities": [
+        "cs.AI",
+        "cs.CL"
+      ],
+      "firstSeenAt": "2026-08-11T16:59:02Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2845,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "780b2015df4c7570"
+      ],
+      "primaryItemId": "780b2015df4c7570",
+      "claims": [
+        {
+          "text": "Attention-Path Fragility as an Uncertainty Signal in Large Language Models",
+          "supporting_item_ids": [
+            "780b2015df4c7570"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Attention-Path Fragility as an Uncertainty Signal in Large Language Models"
+    },
+    {
+      "id": "1e45b8761139",
+      "slug": "sltn-structural-logic-tensor-networks",
+      "headline": "sLTN: Structural Logic Tensor Networks",
+      "whatHappened": "sLTN: Structural Logic Tensor Networks",
+      "whyItMatters": "Logic Tensor Networks (LTN) provide a neurosymbolic framework in which first-order logic is interpreted through tensor o…",
+      "category": "research",
+      "entities": [
+        "cs.AI"
+      ],
+      "firstSeenAt": "2026-08-11T16:58:38Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2845,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "aff58729f577ff72"
+      ],
+      "primaryItemId": "aff58729f577ff72",
+      "claims": [
+        {
+          "text": "sLTN: Structural Logic Tensor Networks",
+          "supporting_item_ids": [
+            "aff58729f577ff72"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "sLTN: Structural Logic Tensor Networks"
+    },
+    {
+      "id": "b2cad2eba32e",
+      "slug": "two-stage-odd-residual-flows-for-mean-preserving-probabilist",
+      "headline": "Two-stage Odd Residual Flows for Mean-Preserving Probabilistic Time Series Forecasting",
+      "whatHappened": "Two-stage Odd Residual Flows for Mean-Preserving Probabilist…",
+      "whyItMatters": "Probabilistic forecasting plays an essential role in risk-sensitive decision-making, particularly in long-horizon settin…",
+      "category": "research",
+      "entities": [
+        "cs.AI",
+        "cs.LG"
+      ],
+      "firstSeenAt": "2026-08-11T16:22:47Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2835,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "61f2888d14ee505f"
+      ],
+      "primaryItemId": "61f2888d14ee505f",
+      "claims": [
+        {
+          "text": "Two-stage Odd Residual Flows for Mean-Preserving Probabilistic Time Series Forecasting",
+          "supporting_item_ids": [
+            "61f2888d14ee505f"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Two-stage Odd Residual Flows for Mean-Preserving Probabilistic Time Series Forecasting"
+    },
+    {
+      "id": "6442a4f14148",
+      "slug": "actions-speak-louder-than-words-measuring-cross-lingual-poli",
+      "headline": "Actions Speak Louder than Words: Measuring Cross-Lingual Policy Retention in Tool-Using Agents",
+      "whatHappened": "Actions Speak Louder than Words: Measuring Cross-Lingual Pol…",
+      "whyItMatters": "When a tool-using agent is given the same task in a different language, does it still take the same steps? Multilingual …",
+      "category": "research",
+      "entities": [
+        "cs.CL",
+        "prod:sam"
+      ],
+      "firstSeenAt": "2026-08-11T16:18:34Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2834,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "e1e2b54d2ddbb36c"
+      ],
+      "primaryItemId": "e1e2b54d2ddbb36c",
+      "claims": [
+        {
+          "text": "Actions Speak Louder than Words: Measuring Cross-Lingual Policy Retention in Tool-Using Agents",
+          "supporting_item_ids": [
+            "e1e2b54d2ddbb36c"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Actions Speak Louder than Words: Measuring Cross-Lingual Policy Retention in Tool-Using Agents"
+    },
+    {
+      "id": "0bf25baf2cbf",
+      "slug": "why-does-claude-md-keep-growing-catastrophic-remembering-in-",
+      "headline": "Why Does CLAUDE.md Keep Growing? Catastrophic Remembering in Agentic Coding",
+      "whatHappened": "Why Does CLAUDE.md Keep Growing? Catastrophic Remembering in…",
+      "whyItMatters": "Agentic coding READMEs like CLAUDE.md grow without bound in real repositories, stopping only when the repository retires…",
+      "category": "research",
+      "entities": [
+        "cs.AI",
+        "cs.LG",
+        "cs.SE",
+        "prod:claude",
+        "prod:phi"
+      ],
+      "firstSeenAt": "2026-08-11T16:00:55Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2828,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "6102150fcbc9257e"
+      ],
+      "primaryItemId": "6102150fcbc9257e",
+      "claims": [
+        {
+          "text": "Why Does CLAUDE.md Keep Growing? Catastrophic Remembering in Agentic Coding",
+          "supporting_item_ids": [
+            "6102150fcbc9257e"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Why Does CLAUDE.md Keep Growing? Catastrophic Remembering in Agentic Coding"
+    },
+    {
+      "id": "9ce842173333",
+      "slug": "llama-cpp-releases-发布-b10362",
+      "headline": "llama.cpp Releases 发布 b10362",
+      "whatHappened": "llama.cpp Releases 发布 b10362",
+      "whyItMatters": "tests : disable backend sampler hip multi output ( #26878 ) test-backend-sampler: skip multi_output_sampling_chain on HI…",
+      "category": "developer",
+      "entities": [
+        "prod:llama",
+        "prod:llama.cpp",
+        "prod:sam"
+      ],
+      "firstSeenAt": "2026-08-11T22:59:42Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2823,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "包含 GitHub Release / 官方发布",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "f140f6a08757db25"
+      ],
+      "primaryItemId": "f140f6a08757db25",
+      "claims": [
+        {
+          "text": "llama.cpp Releases 发布 b10362",
+          "supporting_item_ids": [
+            "f140f6a08757db25"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "llama.cpp Releases 发布 b10362"
+    },
+    {
+      "id": "760fffb25b35",
+      "slug": "rtskg-building-a-rail-transit-station-knowledge-graph-datase",
+      "headline": "RTSKG: Building a Rail Transit Station Knowledge Graph Dataset",
+      "whatHappened": "RTSKG: Building a Rail Transit Station Knowledge Graph Datas…",
+      "whyItMatters": "Rail transit systems play a vital role in urban mobility and economic development. As key components of such systems, ra…",
+      "category": "research",
+      "entities": [
+        "cs.AI"
+      ],
+      "firstSeenAt": "2026-08-11T15:41:34Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2823,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "d274a04049a0f445"
+      ],
+      "primaryItemId": "d274a04049a0f445",
+      "claims": [
+        {
+          "text": "RTSKG: Building a Rail Transit Station Knowledge Graph Dataset",
+          "supporting_item_ids": [
+            "d274a04049a0f445"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "RTSKG: Building a Rail Transit Station Knowledge Graph Dataset"
+    },
+    {
+      "id": "1c9fe464a59c",
+      "slug": "skillzip-evaluation-free-skill-compression-for-self-evolving",
+      "headline": "SkillZip: Evaluation-Free Skill Compression for Self-Evolving Agents by Discovering Reusable Structure",
+      "whatHappened": "SkillZip: Evaluation-Free Skill Compression for Self-Evolvin…",
+      "whyItMatters": "Self-evolving agents accumulate reusable skills by appending successful procedures and failure fixes. Over time, the sam…",
+      "category": "research",
+      "entities": [
+        "cs.AI",
+        "prod:sam"
+      ],
+      "firstSeenAt": "2026-08-11T15:41:19Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2823,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "eee50a8599fbae8f"
+      ],
+      "primaryItemId": "eee50a8599fbae8f",
+      "claims": [
+        {
+          "text": "SkillZip: Evaluation-Free Skill Compression for Self-Evolving Agents by Discovering Reusable Structure",
+          "supporting_item_ids": [
+            "eee50a8599fbae8f"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "SkillZip: Evaluation-Free Skill Compression for Self-Evolving Agents by Discovering Reusable Structure"
+    },
+    {
+      "id": "ec58742dc5fa",
+      "slug": "quantum-coordination-advantages-in-ai-state-tracking-tasks-s",
+      "headline": "Quantum Coordination Advantages in AI State-Tracking Tasks: Semantic Compilation and Latent Memory",
+      "whatHappened": "Quantum Coordination Advantages in AI State-Tracking Tasks: …",
+      "whyItMatters": "We prove inference-time quantum coordination advantages for specified AI state-tracking tasks. A solver compresses seman…",
+      "category": "research",
+      "entities": [
+        "cs.AI",
+        "cs.CC",
+        "quant-ph"
+      ],
+      "firstSeenAt": "2026-08-11T15:32:15Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.282,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "2ff17bbae29737ea"
+      ],
+      "primaryItemId": "2ff17bbae29737ea",
+      "claims": [
+        {
+          "text": "Quantum Coordination Advantages in AI State-Tracking Tasks: Semantic Compilation and Latent Memory",
+          "supporting_item_ids": [
+            "2ff17bbae29737ea"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Quantum Coordination Advantages in AI State-Tracking Tasks: Semantic Compilation and Latent Memory"
+    },
+    {
+      "id": "d20223c090c5",
+      "slug": "entropy-centric-explainable-ai-for-remote-sensing-image-segm",
+      "headline": "Entropy-Centric Explainable AI for Remote Sensing Image Segmentation",
+      "whatHappened": "Entropy-Centric Explainable AI for Remote Sensing Image Segm…",
+      "whyItMatters": "Artificial intelligence (AI) has become a powerful approach to solving complex problems in critical domains. Many concer…",
+      "category": "research",
+      "entities": [
+        "cs.AI",
+        "cs.CV",
+        "org:intel"
+      ],
+      "firstSeenAt": "2026-08-11T15:31:07Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.282,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "fc0a138dd7879f0d"
+      ],
+      "primaryItemId": "fc0a138dd7879f0d",
+      "claims": [
+        {
+          "text": "Entropy-Centric Explainable AI for Remote Sensing Image Segmentation",
+          "supporting_item_ids": [
+            "fc0a138dd7879f0d"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Entropy-Centric Explainable AI for Remote Sensing Image Segmentation"
+    },
+    {
+      "id": "0da70a17159a",
+      "slug": "a-comparative-evaluation-of-deep-learning-object-detection-m",
+      "headline": "A Comparative Evaluation of Deep Learning Object Detection Models on a Real-World Multi-Plant Dataset from Africa",
+      "whatHappened": "A Comparative Evaluation of Deep Learning Object Detection M…",
+      "whyItMatters": "The application of computer vision in agriculture has shown significant potential for improving crop monitoring and prec…",
+      "category": "research",
+      "entities": [
+        "cs.AI",
+        "cs.CV"
+      ],
+      "firstSeenAt": "2026-08-11T15:22:58Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2818,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "168b159dd60c9961"
+      ],
+      "primaryItemId": "168b159dd60c9961",
+      "claims": [
+        {
+          "text": "A Comparative Evaluation of Deep Learning Object Detection Models on a Real-World Multi-Plant Dataset from Africa",
+          "supporting_item_ids": [
+            "168b159dd60c9961"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "A Comparative Evaluation of Deep Learning Object Detection Models on a Real-World Multi-Plant Dataset from Africa"
+    },
+    {
+      "id": "f9bae492edf5",
+      "slug": "3d-weighted-geometric-graph-neural-networks-for-sheep-facial",
+      "headline": "3D Weighted Geometric Graph Neural Networks for Sheep Facial Pain Assessment",
+      "whatHappened": "3D Weighted Geometric Graph Neural Networks for Sheep Facial…",
+      "whyItMatters": "Deep learning systems perform mainly within the 2D for a single image domain and take the face as a single-dimension rep…",
+      "category": "research",
+      "entities": [
+        "cs.AI",
+        "cs.CV"
+      ],
+      "firstSeenAt": "2026-08-11T15:21:36Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2817,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "78c8b25c8761a37f"
+      ],
+      "primaryItemId": "78c8b25c8761a37f",
+      "claims": [
+        {
+          "text": "3D Weighted Geometric Graph Neural Networks for Sheep Facial Pain Assessment",
+          "supporting_item_ids": [
+            "78c8b25c8761a37f"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "3D Weighted Geometric Graph Neural Networks for Sheep Facial Pain Assessment"
+    },
+    {
+      "id": "bf3b697614af",
+      "slug": "testing-ads-in-chatgpt",
+      "headline": "Testing ads in ChatGPT",
+      "whatHappened": "Testing ads in ChatGPT",
+      "whyItMatters": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy pr…",
+      "category": "model",
+      "entities": [
+        "org:openai",
+        "prod:chatgpt",
+        "prod:gpt"
+      ],
+      "firstSeenAt": "2026-08-11T10:00:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2042,
+      "importanceScore": 0.49,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "964e727b05a9e4f8"
+      ],
+      "primaryItemId": "964e727b05a9e4f8",
+      "claims": [
+        {
+          "text": "Testing ads in ChatGPT",
+          "supporting_item_ids": [
+            "964e727b05a9e4f8"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Testing ads in ChatGPT"
+    },
+    {
+      "id": "f9c8d409f096",
+      "slug": "daybreak-models-are-now-available-on-aws",
+      "headline": "Daybreak models are now available on AWS",
+      "whatHappened": "Daybreak models are now available on AWS",
+      "whyItMatters": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise sec…",
+      "category": "model",
+      "entities": [
+        "org:amazon",
+        "org:openai"
+      ],
+      "firstSeenAt": "2026-08-11T10:00:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2042,
+      "importanceScore": 0.49,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "886ec63d7bb2fbe0"
+      ],
+      "primaryItemId": "886ec63d7bb2fbe0",
+      "claims": [
+        {
+          "text": "Daybreak models are now available on AWS",
+          "supporting_item_ids": [
+            "886ec63d7bb2fbe0"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Daybreak models are now available on AWS"
+    },
+    {
+      "id": "11cd69e01c4d",
+      "slug": "langchain-releases-发布-langchain-anthropic-1-5-5",
+      "headline": "LangChain Releases 发布 langchain-anthropic==1.5.5",
+      "whatHappened": "LangChain Releases 发布 langchain-anthropic==1.5.5",
+      "whyItMatters": "Changes since langchain-anthropic==1.5.4 release(anthropic): 1.5.5 ( #39597 ) fix(anthropic): report reasoning tokens in…",
+      "category": "developer",
+      "entities": [
+        "org:anthropic",
+        "org:meta",
+        "prod:claude",
+        "prod:langchain",
+        "ver:1.5.4",
+        "ver:1.5.5"
+      ],
+      "firstSeenAt": "2026-08-11T19:16:57Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2677,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "包含 GitHub Release / 官方发布",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "b7c1eb403cf26484"
+      ],
+      "primaryItemId": "b7c1eb403cf26484",
+      "claims": [
+        {
+          "text": "LangChain Releases 发布 langchain-anthropic==1.5.5",
+          "supporting_item_ids": [
+            "b7c1eb403cf26484"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "LangChain Releases 发布 langchain-anthropic==1.5.5"
+    },
+    {
+      "id": "c15c962f47bf",
+      "slug": "langchain-releases-发布-langchain-1-3-15",
+      "headline": "LangChain Releases 发布 langchain==1.3.15",
+      "whatHappened": "LangChain Releases 发布 langchain==1.3.15",
+      "whyItMatters": "Changes since langchain==1.3.14 release(langchain): 1.3.15 ( #39595 ) feat(langchain): expose trace_policy on AgentMiddl…",
+      "category": "developer",
+      "entities": [
+        "prod:langchain",
+        "ver:1.3.14",
+        "ver:1.3.15",
+        "ver:4.3.0",
+        "ver:4.4.1"
+      ],
+      "firstSeenAt": "2026-08-11T19:11:11Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2674,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "包含 GitHub Release / 官方发布",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "096c45d67192212e"
+      ],
+      "primaryItemId": "096c45d67192212e",
+      "claims": [
+        {
+          "text": "LangChain Releases 发布 langchain==1.3.15",
+          "supporting_item_ids": [
+            "096c45d67192212e"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "LangChain Releases 发布 langchain==1.3.15"
+    },
+    {
+      "id": "cfb432db841a",
+      "slug": "langchain-releases-发布-langchain-core-1-5-4",
+      "headline": "LangChain Releases 发布 langchain-core==1.5.4",
+      "whatHappened": "LangChain Releases 发布 langchain-core==1.5.4",
+      "whyItMatters": "Changes since langchain-core==1.5.3 release(core): 1.5.4 ( #39592 ) fix(core): compat with pydantic 2.14 ( #39328 ) fix(…",
+      "category": "developer",
+      "entities": [
+        "prod:langchain",
+        "ver:1.5.3",
+        "ver:1.5.4",
+        "ver:2.14"
+      ],
+      "firstSeenAt": "2026-08-11T18:03:12Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2632,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "包含 GitHub Release / 官方发布",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "8e77e28347b34a0a"
+      ],
+      "primaryItemId": "8e77e28347b34a0a",
+      "claims": [
+        {
+          "text": "LangChain Releases 发布 langchain-core==1.5.4",
+          "supporting_item_ids": [
+            "8e77e28347b34a0a"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "LangChain Releases 发布 langchain-core==1.5.4"
+    },
+    {
+      "id": "c1512d40f7a9",
+      "slug": "llama-cpp-releases-发布-b10361",
+      "headline": "llama.cpp Releases 发布 b10361",
+      "whatHappened": "llama.cpp Releases 发布 b10361",
+      "whyItMatters": "model : fix SWA not being enabled for EXAONE 4.5 ( #26848 ) model : fix SWA not being enabled for EXAONE 4.5 load_arch_h…",
+      "category": "developer",
+      "entities": [
+        "prod:llama",
+        "prod:llama.cpp",
+        "ver:4.5"
+      ],
+      "firstSeenAt": "2026-08-11T17:14:55Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2603,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "包含 GitHub Release / 官方发布",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "3290417ed9cf0c75"
+      ],
+      "primaryItemId": "3290417ed9cf0c75",
+      "claims": [
+        {
+          "text": "llama.cpp Releases 发布 b10361",
+          "supporting_item_ids": [
+            "3290417ed9cf0c75"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "llama.cpp Releases 发布 b10361"
+    },
+    {
+      "id": "6afa570595f5",
+      "slug": "the-ultimate-guide-to-contributing-to-open-source-projects",
+      "headline": "The Ultimate Guide to Contributing to Open Source Projects",
+      "whatHappened": "The Ultimate Guide to Contributing to Open Source Projects",
+      "whyItMatters": "This guide walks through what contributing to open source projects actually covers, how to pick a project that will actu…",
+      "category": "developer",
+      "entities": [],
+      "firstSeenAt": "2026-08-11T14:00:17Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.249,
+      "importanceScore": 0.47,
+      "confidenceScore": 0.27,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "ded7c985f37f8d06"
+      ],
+      "primaryItemId": "ded7c985f37f8d06",
+      "claims": [
+        {
+          "text": "The Ultimate Guide to Contributing to Open Source Projects",
+          "supporting_item_ids": [
+            "ded7c985f37f8d06"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "The Ultimate Guide to Contributing to Open Source Projects"
+    },
+    {
+      "id": "c107acd0b182",
+      "slug": "3-visual-proofs-of-the-central-limit-theorem-to-build-your-i",
+      "headline": "3 Visual Proofs of the Central Limit Theorem to Build Your Intuition",
+      "whatHappened": "3 Visual Proofs of the Central Limit Theorem to Build Your I…",
+      "whyItMatters": "To build your intuition, this article shows three visual proofs that the classic bell curve appears in myriad situations…",
+      "category": "developer",
+      "entities": [],
+      "firstSeenAt": "2026-08-11T12:00:45Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2426,
+      "importanceScore": 0.47,
+      "confidenceScore": 0.27,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "1161ad4a6ed0db6e"
+      ],
+      "primaryItemId": "1161ad4a6ed0db6e",
+      "claims": [
+        {
+          "text": "3 Visual Proofs of the Central Limit Theorem to Build Your Intuition",
+          "supporting_item_ids": [
+            "1161ad4a6ed0db6e"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "3 Visual Proofs of the Central Limit Theorem to Build Your Intuition"
+    },
+    {
+      "id": "fc8dcdd9e793",
+      "slug": "ollama-releases-发布-v0-32-9",
+      "headline": "Ollama Releases 发布 v0.32.9",
+      "whatHappened": "Ollama Releases 发布 v0.32.9",
+      "whyItMatters": "NVIDIA Nemotron 3.5 Lightning NVIDIA Nemotron 3.5 Lightning is an open 30B mixture-of-experts (MoE) model with 3B active…",
+      "category": "developer",
+      "entities": [
+        "org:nvidia",
+        "prod:llama",
+        "prod:nemotron",
+        "prod:ollama",
+        "ver:0.32.9",
+        "ver:3.5"
+      ],
+      "firstSeenAt": "2026-08-11T13:24:14Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2471,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "包含 GitHub Release / 官方发布",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "399f779ce18dfda2"
+      ],
+      "primaryItemId": "399f779ce18dfda2",
+      "claims": [
+        {
+          "text": "Ollama Releases 发布 v0.32.9",
+          "supporting_item_ids": [
+            "399f779ce18dfda2"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Ollama Releases 发布 v0.32.9"
+    },
+    {
+      "id": "45e9fcf4fb2f",
+      "slug": "llama-cpp-releases-发布-b10360",
+      "headline": "llama.cpp Releases 发布 b10360",
+      "whatHappened": "llama.cpp Releases 发布 b10360",
+      "whyItMatters": "common/peg : suppress incomplete escape sequences ( #26780 ) Website: https://llama.app macOS/iOS: macOS Apple Silicon (…",
+      "category": "developer",
+      "entities": [
+        "org:apple",
+        "org:intel",
+        "prod:llama",
+        "prod:llama.cpp",
+        "ver:7.14"
+      ],
+      "firstSeenAt": "2026-08-11T13:19:20Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2468,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "包含 GitHub Release / 官方发布",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "668db1b5c0d1cb0e"
+      ],
+      "primaryItemId": "668db1b5c0d1cb0e",
+      "claims": [
+        {
+          "text": "llama.cpp Releases 发布 b10360",
+          "supporting_item_ids": [
+            "668db1b5c0d1cb0e"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "llama.cpp Releases 发布 b10360"
+    },
+    {
+      "id": "3044abd6892c",
+      "slug": "llama-cpp-releases-发布-b10359",
+      "headline": "llama.cpp Releases 发布 b10359",
+      "whatHappened": "llama.cpp Releases 发布 b10359",
+      "whyItMatters": "ggml-webgpu: fix CI errors from #25025 and #25262 ( #26566 ) test new flash_attn test rebase and fix to disable subgrou …",
+      "category": "developer",
+      "entities": [
+        "org:apple",
+        "prod:llama",
+        "prod:llama.cpp"
+      ],
+      "firstSeenAt": "2026-08-11T10:51:07Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2389,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "包含 GitHub Release / 官方发布",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "44242ac257be96d1"
+      ],
+      "primaryItemId": "44242ac257be96d1",
+      "claims": [
+        {
+          "text": "llama.cpp Releases 发布 b10359",
+          "supporting_item_ids": [
+            "44242ac257be96d1"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "llama.cpp Releases 发布 b10359"
+    },
+    {
+      "id": "bf87dac89354",
+      "slug": "llama-cpp-releases-发布-b10358",
+      "headline": "llama.cpp Releases 发布 b10358",
+      "whatHappened": "llama.cpp Releases 发布 b10358",
+      "whyItMatters": "Address review comment of PR 25532 ( #26852 ) Website: https://llama.app macOS/iOS: macOS Apple Silicon (arm64) macOS Ap…",
+      "category": "developer",
+      "entities": [
+        "org:apple",
+        "org:intel",
+        "prod:llama",
+        "prod:llama.cpp",
+        "ver:7.14"
+      ],
+      "firstSeenAt": "2026-08-11T09:06:33Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2336,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "包含 GitHub Release / 官方发布",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "70973b5e1c35cc78"
+      ],
+      "primaryItemId": "70973b5e1c35cc78",
+      "claims": [
+        {
+          "text": "llama.cpp Releases 发布 b10358",
+          "supporting_item_ids": [
+            "70973b5e1c35cc78"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "llama.cpp Releases 发布 b10358"
+    },
+    {
+      "id": "336081f5474f",
+      "slug": "ollama-releases-发布-v0-32-8",
+      "headline": "Ollama Releases 发布 v0.32.8",
+      "whatHappened": "Ollama Releases 发布 v0.32.8",
+      "whyItMatters": "Muse Glimmer Muse Glimmer is now available on all platforms. Muse Glimmer can power coding agent applications such as Cl…",
+      "category": "developer",
+      "entities": [
+        "org:apple",
+        "prod:claude",
+        "prod:llama",
+        "prod:ollama",
+        "ver:0.32.7",
+        "ver:0.32.8"
+      ],
+      "firstSeenAt": "2026-08-11T06:39:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2265,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "包含 GitHub Release / 官方发布",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "93a67daf9772b785"
+      ],
+      "primaryItemId": "93a67daf9772b785",
+      "claims": [
+        {
+          "text": "Ollama Releases 发布 v0.32.8",
+          "supporting_item_ids": [
+            "93a67daf9772b785"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Ollama Releases 发布 v0.32.8"
+    },
+    {
+      "id": "9f67eee328f3",
+      "slug": "what-building-an-ai-native-finance-function-taught-me",
+      "headline": "What building an AI-native finance function taught me",
+      "whatHappened": "What building an AI-native finance function taught me",
+      "whyItMatters": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to str…",
+      "category": "model",
+      "entities": [
+        "org:openai"
+      ],
+      "firstSeenAt": "2026-08-10T17:00:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.1565,
+      "importanceScore": 0.49,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "c7fd0b7601399c48"
+      ],
+      "primaryItemId": "c7fd0b7601399c48",
+      "claims": [
+        {
+          "text": "What building an AI-native finance function taught me",
+          "supporting_item_ids": [
+            "c7fd0b7601399c48"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "What building an AI-native finance function taught me"
+    },
+    {
+      "id": "744b0ce55aa8",
+      "slug": "llama-cpp-releases-发布-b10357",
+      "headline": "llama.cpp Releases 发布 b10357",
+      "whatHappened": "llama.cpp Releases 发布 b10357",
+      "whyItMatters": "opencl: transpose the K tile in local memory for FA prefill kernels ( #26428 ) Website: https://llama.app macOS/iOS: mac…",
+      "category": "developer",
+      "entities": [
+        "org:apple",
+        "org:intel",
+        "prod:llama",
+        "prod:llama.cpp",
+        "ver:7.14"
+      ],
+      "firstSeenAt": "2026-08-11T05:19:30Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2229,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "包含 GitHub Release / 官方发布",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "89f62493a5710e19"
+      ],
+      "primaryItemId": "89f62493a5710e19",
+      "claims": [
+        {
+          "text": "llama.cpp Releases 发布 b10357",
+          "supporting_item_ids": [
+            "89f62493a5710e19"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "llama.cpp Releases 发布 b10357"
+    },
+    {
+      "id": "dce80891e6a7",
+      "slug": "evolve-your-marketing-with-new-ai-tools",
+      "headline": "Evolve your marketing with new AI tools",
+      "whatHappened": "Evolve your marketing with new AI tools",
+      "whyItMatters": "Advisor UI in Google Ads and Google Analytics",
+      "category": "model",
+      "entities": [
+        "org:google"
+      ],
+      "firstSeenAt": "2026-08-10T14:30:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.1518,
+      "importanceScore": 0.49,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "2d00903c806d0a56"
+      ],
+      "primaryItemId": "2d00903c806d0a56",
+      "claims": [
+        {
+          "text": "Evolve your marketing with new AI tools",
+          "supporting_item_ids": [
+            "2d00903c806d0a56"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Evolve your marketing with new AI tools"
+    },
+    {
+      "id": "b218dd8496b0",
+      "slug": "openai-s-letter-to-governor-abbott-on-responsible-ai-infrast",
+      "headline": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "whatHappened": "OpenAI’s letter to Governor Abbott on responsible AI infrast…",
+      "whyItMatters": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter…",
+      "category": "model",
+      "entities": [
+        "org:openai"
+      ],
+      "firstSeenAt": "2026-08-10T14:00:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.1509,
+      "importanceScore": 0.49,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "02a2f702fa019f7b"
+      ],
+      "primaryItemId": "02a2f702fa019f7b",
+      "claims": [
+        {
+          "text": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+          "supporting_item_ids": [
+            "02a2f702fa019f7b"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas"
+    },
+    {
+      "id": "1333d544dbbc",
+      "slug": "model-ml-completes-finance-work-more-efficiently-with-gpt-5-",
+      "headline": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "whatHappened": "Model ML completes finance work more efficiently with GPT-5.…",
+      "whyItMatters": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks …",
+      "category": "model",
+      "entities": [
+        "prod:gpt",
+        "prod:gpt-5",
+        "ver:5.6"
+      ],
+      "firstSeenAt": "2026-08-10T12:00:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.1475,
+      "importanceScore": 0.49,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "71c931b0f1098f60"
+      ],
+      "primaryItemId": "71c931b0f1098f60",
+      "claims": [
+        {
+          "text": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+          "supporting_item_ids": [
+            "71c931b0f1098f60"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Model ML completes finance work more efficiently with GPT-5.6 Sol"
+    },
+    {
+      "id": "8d6104beedff",
+      "slug": "llama-cpp-releases-发布-b10356",
+      "headline": "llama.cpp Releases 发布 b10356",
+      "whatHappened": "llama.cpp Releases 发布 b10356",
+      "whyItMatters": "ci : target ROCm 7.14 for build and release ( #25775 ) Switch ROCm from 7.2.1 to 7.14 ROCm 7.14 is the first production …",
+      "category": "developer",
+      "entities": [
+        "prod:llama",
+        "prod:llama.cpp",
+        "ver:7.14",
+        "ver:7.2.1"
+      ],
+      "firstSeenAt": "2026-08-11T02:47:58Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.2162,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "包含 GitHub Release / 官方发布",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "6af10d75df82474b"
+      ],
+      "primaryItemId": "6af10d75df82474b",
+      "claims": [
+        {
+          "text": "llama.cpp Releases 发布 b10356",
+          "supporting_item_ids": [
+            "6af10d75df82474b"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "llama.cpp Releases 发布 b10356"
+    },
+    {
+      "id": "ac3b9a7f8c00",
+      "slug": "expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "headline": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "whatHappened": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "whyItMatters": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability re…",
+      "category": "model",
+      "entities": [
+        "org:openai",
+        "prod:gpt",
+        "prod:gpt-5",
+        "ver:5.6"
+      ],
+      "firstSeenAt": "2026-08-10T10:00:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.1444,
+      "importanceScore": 0.49,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "ed5b9708368d34b9"
+      ],
+      "primaryItemId": "ed5b9708368d34b9",
+      "claims": [
+        {
+          "text": "Expanding Daybreak as the Cyber Defense Window Narrows",
+          "supporting_item_ids": [
+            "ed5b9708368d34b9"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Expanding Daybreak as the Cyber Defense Window Narrows"
+    },
+    {
+      "id": "f02895a87c57",
+      "slug": "putting-frontier-cyber-models-in-more-trusted-hands",
+      "headline": "Putting frontier cyber models in more trusted hands",
+      "whatHappened": "Putting frontier cyber models in more trusted hands",
+      "whyItMatters": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services…",
+      "category": "model",
+      "entities": [
+        "org:openai"
+      ],
+      "firstSeenAt": "2026-08-10T10:00:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.1444,
+      "importanceScore": 0.49,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "ef7cc2bcc4ecc686"
+      ],
+      "primaryItemId": "ef7cc2bcc4ecc686",
+      "claims": [
+        {
+          "text": "Putting frontier cyber models in more trusted hands",
+          "supporting_item_ids": [
+            "ef7cc2bcc4ecc686"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Putting frontier cyber models in more trusted hands"
+    },
+    {
+      "id": "292576446d19",
+      "slug": "llama-cpp-releases-发布-b10355",
+      "headline": "llama.cpp Releases 发布 b10355",
+      "whatHappened": "llama.cpp Releases 发布 b10355",
+      "whyItMatters": "llama : support multi-output backend sampling ( #25532 ) Enable backend sampling with token speculation Clamp the mask s…",
+      "category": "developer",
+      "entities": [
+        "prod:llama",
+        "prod:llama.cpp",
+        "prod:sam"
+      ],
+      "firstSeenAt": "2026-08-10T23:17:02Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.2075,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "包含 GitHub Release / 官方发布",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "d054828805cf8558"
+      ],
+      "primaryItemId": "d054828805cf8558",
+      "claims": [
+        {
+          "text": "llama.cpp Releases 发布 b10355",
+          "supporting_item_ids": [
+            "d054828805cf8558"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "llama.cpp Releases 发布 b10355"
+    },
+    {
+      "id": "19b0806bf0c7",
+      "slug": "ollama-releases-发布-v0-32-8-rc0",
+      "headline": "Ollama Releases 发布 v0.32.8-rc0",
+      "whatHappened": "Ollama Releases 发布 v0.32.8-rc0",
+      "whyItMatters": "llama.cpp update ( #17659 )",
+      "category": "developer",
+      "entities": [
+        "prod:llama",
+        "prod:llama.cpp",
+        "prod:ollama",
+        "ver:0.32.8"
+      ],
+      "firstSeenAt": "2026-08-10T22:48:32Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.2064,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "包含 GitHub Release / 官方发布",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "97aa1ab2422158aa"
+      ],
+      "primaryItemId": "97aa1ab2422158aa",
+      "claims": [
+        {
+          "text": "Ollama Releases 发布 v0.32.8-rc0",
+          "supporting_item_ids": [
+            "97aa1ab2422158aa"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Ollama Releases 发布 v0.32.8-rc0"
+    },
+    {
+      "id": "aa82782d9353",
+      "slug": "llama-cpp-releases-发布-b10354",
+      "headline": "llama.cpp Releases 发布 b10354",
+      "whatHappened": "llama.cpp Releases 发布 b10354",
+      "whyItMatters": "ggml-cpu : fix CPU affinity mask being ignored on Android ( #26838 ) Website: https://llama.app macOS/iOS: macOS Apple S…",
+      "category": "developer",
+      "entities": [
+        "org:apple",
+        "org:intel",
+        "prod:llama",
+        "prod:llama.cpp",
+        "ver:7.2"
+      ],
+      "firstSeenAt": "2026-08-10T22:40:24Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.2061,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "包含 GitHub Release / 官方发布",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "e7b2ce4ea89ea60e"
+      ],
+      "primaryItemId": "e7b2ce4ea89ea60e",
+      "claims": [
+        {
+          "text": "llama.cpp Releases 发布 b10354",
+          "supporting_item_ids": [
+            "e7b2ce4ea89ea60e"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "llama.cpp Releases 发布 b10354"
+    },
+    {
+      "id": "88d7bdc82d42",
+      "slug": "llama-cpp-releases-发布-b10353",
+      "headline": "llama.cpp Releases 发布 b10353",
+      "whatHappened": "llama.cpp Releases 发布 b10353",
+      "whyItMatters": "ggml : require contiguous src for ROLL on CUDA and Metal ( #25928 ) ggml_roll only asserts nb[0] == ggml_type_size, so a…",
+      "category": "developer",
+      "entities": [
+        "org:meta",
+        "prod:llama",
+        "prod:llama.cpp"
+      ],
+      "firstSeenAt": "2026-08-10T22:02:53Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.2046,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "包含 GitHub Release / 官方发布",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "7f369fc318d98927"
+      ],
+      "primaryItemId": "7f369fc318d98927",
+      "claims": [
+        {
+          "text": "llama.cpp Releases 发布 b10353",
+          "supporting_item_ids": [
+            "7f369fc318d98927"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "llama.cpp Releases 发布 b10353"
+    },
+    {
+      "id": "48075dd509c9",
+      "slug": "premium-seats-are-coming-to-chatgpt-business",
+      "headline": "Premium seats are coming to ChatGPT Business",
+      "whatHappened": "Premium seats are coming to ChatGPT Business",
+      "whyItMatters": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher us…",
+      "category": "model",
+      "entities": [
+        "prod:chatgpt",
+        "prod:gpt"
+      ],
+      "firstSeenAt": "2026-08-10T00:00:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.1318,
+      "importanceScore": 0.49,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "aa379158bfe0e698"
+      ],
+      "primaryItemId": "aa379158bfe0e698",
+      "claims": [
+        {
+          "text": "Premium seats are coming to ChatGPT Business",
+          "supporting_item_ids": [
+            "aa379158bfe0e698"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Premium seats are coming to ChatGPT Business"
+    },
+    {
+      "id": "754ba70f1b19",
+      "slug": "how-zapier-transformed-core-marketing-processes-with-chatgpt",
+      "headline": "How Zapier transformed core marketing processes with ChatGPT Work",
+      "whatHappened": "How Zapier transformed core marketing processes with ChatGPT…",
+      "whyItMatters": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build ca…",
+      "category": "model",
+      "entities": [
+        "prod:chatgpt",
+        "prod:gpt"
+      ],
+      "firstSeenAt": "2026-08-10T00:00:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.1318,
+      "importanceScore": 0.49,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "ea39fb1a680ea07a"
+      ],
+      "primaryItemId": "ea39fb1a680ea07a",
+      "claims": [
+        {
+          "text": "How Zapier transformed core marketing processes with ChatGPT Work",
+          "supporting_item_ids": [
+            "ea39fb1a680ea07a"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "How Zapier transformed core marketing processes with ChatGPT Work"
+    },
+    {
+      "id": "6610c76ac303",
+      "slug": "virgin-atlantic-sharpens-customer-journeys-with-chatgpt-work",
+      "headline": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "whatHappened": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "whyItMatters": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect…",
+      "category": "model",
+      "entities": [
+        "prod:chatgpt",
+        "prod:gpt"
+      ],
+      "firstSeenAt": "2026-08-10T00:00:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.1318,
+      "importanceScore": 0.49,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "b7f803fa6e97e6ff"
+      ],
+      "primaryItemId": "b7f803fa6e97e6ff",
+      "claims": [
+        {
+          "text": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+          "supporting_item_ids": [
+            "b7f803fa6e97e6ff"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Virgin Atlantic sharpens customer journeys with ChatGPT Work"
+    },
+    {
+      "id": "4ff21e1ab834",
+      "slug": "new-free-ebook-understanding-agentic-ai-an-executive-briefin",
+      "headline": "New Free eBook: Understanding Agentic AI, an Executive Briefing",
+      "whatHappened": "New Free eBook: Understanding Agentic AI, an Executive Brief…",
+      "whyItMatters": "Written for CEOs, CTOs, CIOs, and technology executives, our new free ebook \"Understanding Agentic AI: An Executive Brie…",
+      "category": "developer",
+      "entities": [],
+      "firstSeenAt": "2026-08-10T16:00:13Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.1916,
+      "importanceScore": 0.47,
+      "confidenceScore": 0.27,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "1800ac5db9422811"
+      ],
+      "primaryItemId": "1800ac5db9422811",
+      "claims": [
+        {
+          "text": "New Free eBook: Understanding Agentic AI, an Executive Briefing",
+          "supporting_item_ids": [
+            "1800ac5db9422811"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "New Free eBook: Understanding Agentic AI, an Executive Briefing"
+    },
+    {
+      "id": "43f03dfc6ff2",
+      "slug": "specification-engineering-the-new-skill-after-prompt-enginee",
+      "headline": "Specification Engineering: The New Skill After Prompt Engineering",
+      "whatHappened": "Specification Engineering: The New Skill After Prompt Engine…",
+      "whyItMatters": "Prompt engineering taught us how to ask better questions. Specification engineering teaches us how to define better work…",
+      "category": "developer",
+      "entities": [],
+      "firstSeenAt": "2026-08-10T14:00:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.1877,
+      "importanceScore": 0.47,
+      "confidenceScore": 0.27,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "1c87c8bda257501a"
+      ],
+      "primaryItemId": "1c87c8bda257501a",
+      "claims": [
+        {
+          "text": "Specification Engineering: The New Skill After Prompt Engineering",
+          "supporting_item_ids": [
+            "1c87c8bda257501a"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Specification Engineering: The New Skill After Prompt Engineering"
+    },
+    {
+      "id": "cc29ace05563",
+      "slug": "top-10-ai-influencers-of-2026",
+      "headline": "Top 10 AI Influencers of 2026",
+      "whatHappened": "Top 10 AI Influencers of 2026",
+      "whyItMatters": "Ten AI influencers who are actually shaping 2026, from safe superintelligence to AI-native search. Here is who to follow…",
+      "category": "developer",
+      "entities": [
+        "org:intel"
+      ],
+      "firstSeenAt": "2026-08-10T12:00:58Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.184,
+      "importanceScore": 0.47,
+      "confidenceScore": 0.27,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "4e7d08396a56898e"
+      ],
+      "primaryItemId": "4e7d08396a56898e",
+      "claims": [
+        {
+          "text": "Top 10 AI Influencers of 2026",
+          "supporting_item_ids": [
+            "4e7d08396a56898e"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Top 10 AI Influencers of 2026"
+    },
+    {
+      "id": "cf5d08657244",
+      "slug": "langchain-releases-发布-langchain-openai-1-4-3",
+      "headline": "LangChain Releases 发布 langchain-openai==1.4.3",
+      "whatHappened": "LangChain Releases 发布 langchain-openai==1.4.3",
+      "whyItMatters": "Changes since langchain-openai==1.4.2 release(openai): 1.4.3 ( #39485 ) fix(openai): filter invalid tool calls from cont…",
+      "category": "developer",
+      "entities": [
+        "org:openai",
+        "prod:langchain",
+        "ver:1.4.2",
+        "ver:1.4.3"
+      ],
+      "firstSeenAt": "2026-08-10T13:23:36Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.1866,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "包含 GitHub Release / 官方发布",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "647cf2ff0c1a6668"
+      ],
+      "primaryItemId": "647cf2ff0c1a6668",
+      "claims": [
+        {
+          "text": "LangChain Releases 发布 langchain-openai==1.4.3",
+          "supporting_item_ids": [
+            "647cf2ff0c1a6668"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "LangChain Releases 发布 langchain-openai==1.4.3"
+    },
+    {
+      "id": "ff01c61eb5bc",
+      "slug": "ollama-releases-发布-v0-32-7",
+      "headline": "Ollama Releases 发布 v0.32.7",
+      "whatHappened": "Ollama Releases 发布 v0.32.7",
+      "whyItMatters": "Muse Glimmer Note: Muse Glimmer is currently available via initial support via Ollama's MLX engine on Apple Silicon. Add…",
+      "category": "developer",
+      "entities": [
+        "org:amd",
+        "org:apple",
+        "org:intel",
+        "org:meta",
+        "org:nvidia",
+        "prod:llama",
+        "prod:ollama",
+        "ver:0.32.7"
+      ],
+      "firstSeenAt": "2026-08-10T11:13:46Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.1826,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "包含 GitHub Release / 官方发布",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "0dd78925b9ca370e"
+      ],
+      "primaryItemId": "0dd78925b9ca370e",
+      "claims": [
+        {
+          "text": "Ollama Releases 发布 v0.32.7",
+          "supporting_item_ids": [
+            "0dd78925b9ca370e"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Ollama Releases 发布 v0.32.7"
+    },
+    {
+      "id": "540ac46bdffb",
+      "slug": "transformers-releases-发布-release-v5-15-0",
+      "headline": "Transformers Releases 发布 Release: v5.15.0",
+      "whatHappened": "Transformers Releases 发布 Release: v5.15.0",
+      "whyItMatters": "Release v5.15.0 New Model additions Meta Muse Glimmer Muse Glimmer, released today, is Meta’s new multimodal model, espe…",
+      "category": "developer",
+      "entities": [
+        "org:meta",
+        "prod:transformers",
+        "ver:2.0",
+        "ver:5.15.0"
+      ],
+      "firstSeenAt": "2026-08-10T10:28:13Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.1812,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "包含 GitHub Release / 官方发布",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "59ea8340bdb5af84"
+      ],
+      "primaryItemId": "59ea8340bdb5af84",
+      "claims": [
+        {
+          "text": "Transformers Releases 发布 Release: v5.15.0",
+          "supporting_item_ids": [
+            "59ea8340bdb5af84"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Transformers Releases 发布 Release: v5.15.0"
+    },
+    {
+      "id": "b8749aafeb4a",
+      "slug": "刚刚-manus恢复独立运营",
+      "headline": "刚刚，Manus恢复独立运营",
+      "whatHappened": "刚刚，Manus恢复独立运营",
+      "whyItMatters": "Manus，完成复活赛了！",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-12T02:51:44Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2999,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "9824c4f02b8c49d6"
+      ],
+      "primaryItemId": "9824c4f02b8c49d6",
+      "claims": [
+        {
+          "text": "刚刚，Manus恢复独立运营",
+          "supporting_item_ids": [
+            "9824c4f02b8c49d6"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "刚刚，Manus恢复独立运营"
+    },
+    {
+      "id": "b9010f74a593",
+      "slug": "saber-denies-replacing-rideshare-stimulator-8217-s-writers-w",
+      "headline": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+      "whatHappened": "Saber denies replacing Rideshare Stimulator&#8217;s writers …",
+      "whyItMatters": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Un…",
+      "category": "industry",
+      "entities": [
+        "prod:chatgpt",
+        "prod:gpt"
+      ],
+      "firstSeenAt": "2026-08-12T00:39:26Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2918,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "867d015fa4901d32"
+      ],
+      "primaryItemId": "867d015fa4901d32",
+      "claims": [
+        {
+          "text": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+          "supporting_item_ids": [
+            "867d015fa4901d32"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT"
+    },
+    {
+      "id": "52c7db04df4a",
+      "slug": "how-the-censorship-industrial-complex-is-changing-the-intern",
+      "headline": "How the “censorship-industrial complex” is changing the Internet and US policy",
+      "whatHappened": "How the “censorship-industrial complex” is changing the Inte…",
+      "whyItMatters": "I first heard the term “censorship-industrial complex” on April 15, 2025.&#160; That’s when I got the tip that a small o…",
+      "category": "research",
+      "entities": [],
+      "firstSeenAt": "2026-08-11T17:58:57Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2862,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "681b9f3ee1679a23"
+      ],
+      "primaryItemId": "681b9f3ee1679a23",
+      "claims": [
+        {
+          "text": "How the “censorship-industrial complex” is changing the Internet and US policy",
+          "supporting_item_ids": [
+            "681b9f3ee1679a23"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "How the “censorship-industrial complex” is changing the Internet and US policy"
+    },
+    {
+      "id": "e84a6da6e3bf",
+      "slug": "accel-closes-oversubscribed-550m-india-fund-within-weeks-19-",
+      "headline": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "whatHappened": "Accel closes oversubscribed $550M India fund within weeks, 1…",
+      "whyItMatters": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-11T21:39:11Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2813,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "9231f52c279d4b4e"
+      ],
+      "primaryItemId": "9231f52c279d4b4e",
+      "claims": [
+        {
+          "text": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+          "supporting_item_ids": [
+            "9231f52c279d4b4e"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last"
+    },
+    {
+      "id": "f0705b0d783f",
+      "slug": "why-software-factories-are-back-and-how-they-work-in-the-age",
+      "headline": "Why software factories are back - and how they work in the age of AI",
+      "whatHappened": "Why software factories are back - and how they work in the a…",
+      "whyItMatters": "Imagine submitting your vibe-coded app to a service that validates, tests, and then mass-produces it in a repeatable, au…",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-11T21:23:33Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2804,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "b920e673e5ad5d56"
+      ],
+      "primaryItemId": "b920e673e5ad5d56",
+      "claims": [
+        {
+          "text": "Why software factories are back - and how they work in the age of AI",
+          "supporting_item_ids": [
+            "b920e673e5ad5d56"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Why software factories are back - and how they work in the age of AI"
+    },
+    {
+      "id": "ef41fd377308",
+      "slug": "spacexai-s-grok-bot-turns-agents-into-persistent-digital-cow",
+      "headline": "SpaceXAI's Grok Bot turns agents into persistent digital coworkers that can operate your apps for $120-per-month",
+      "whatHappened": "SpaceXAI's Grok Bot turns agents into persistent digital cow…",
+      "whyItMatters": "SpaceXAI, the division of SpaceX f ormerly known as xAI , is launching an early beta version of Grok Bot , a new agent d…",
+      "category": "industry",
+      "entities": [
+        "org:xai",
+        "prod:grok"
+      ],
+      "firstSeenAt": "2026-08-11T21:07:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2795,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "f89195d3362155e1"
+      ],
+      "primaryItemId": "f89195d3362155e1",
+      "claims": [
+        {
+          "text": "SpaceXAI's Grok Bot turns agents into persistent digital coworkers that can operate your apps for $120-per-month",
+          "supporting_item_ids": [
+            "f89195d3362155e1"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "SpaceXAI's Grok Bot turns agents into persistent digital coworkers that can operate your apps for $120-per-month"
+    },
+    {
+      "id": "7c0ddfa4f64b",
+      "slug": "how-to-create-flyers-with-ai-that-people-won-t-hate-8-tips-a",
+      "headline": "How to create flyers with AI that people won't hate: 8 tips (and prompts) that really work",
+      "whatHappened": "How to create flyers with AI that people won't hate: 8 tips …",
+      "whyItMatters": "Most AI flyers are still a mess, but the right prompts can make all the difference.",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-11T20:53:19Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2787,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "c067e91ae84ec22c"
+      ],
+      "primaryItemId": "c067e91ae84ec22c",
+      "claims": [
+        {
+          "text": "How to create flyers with AI that people won't hate: 8 tips (and prompts) that really work",
+          "supporting_item_ids": [
+            "c067e91ae84ec22c"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "How to create flyers with AI that people won't hate: 8 tips (and prompts) that really work"
+    },
+    {
+      "id": "b8486a2ce511",
+      "slug": "the-download-the-next-big-thing-in-llms-and-how-ai-academic-",
+      "headline": "The Download: the next big thing in LLMs and how AI academic research is shifting",
+      "whatHappened": "The Download: the next big thing in LLMs and how AI academic…",
+      "whyItMatters": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o…",
+      "category": "research",
+      "entities": [
+        "org:google"
+      ],
+      "firstSeenAt": "2026-08-11T12:10:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2764,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "405136e9f0e82b86"
+      ],
+      "primaryItemId": "405136e9f0e82b86",
+      "claims": [
+        {
+          "text": "The Download: the next big thing in LLMs and how AI academic research is shifting",
+          "supporting_item_ids": [
+            "405136e9f0e82b86"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "The Download: the next big thing in LLMs and how AI academic research is shifting"
+    },
+    {
+      "id": "bee525361315",
+      "slug": "the-video-production-stack-now-fits-on-one-desk-ltx-2-5-laun",
+      "headline": "The Video Production Stack Now Fits on One Desk: LTX-2.5 Launches as NVIDIA-Accelerated Open Weights World Model",
+      "whatHappened": "The Video Production Stack Now Fits on One Desk: LTX-2.5 Lau…",
+      "whyItMatters": "LTX-2.5 brings frontier video generation to local NVIDIA hardware: 6.8-second clips, native multishot, day-one ComfyUI, …",
+      "category": "industry",
+      "entities": [
+        "org:nvidia",
+        "ver:2.5",
+        "ver:6.8"
+      ],
+      "firstSeenAt": "2026-08-11T20:02:03Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2759,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "bdb2c10328797efd"
+      ],
+      "primaryItemId": "bdb2c10328797efd",
+      "claims": [
+        {
+          "text": "The Video Production Stack Now Fits on One Desk: LTX-2.5 Launches as NVIDIA-Accelerated Open Weights World Model",
+          "supporting_item_ids": [
+            "bdb2c10328797efd"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "The Video Production Stack Now Fits on One Desk: LTX-2.5 Launches as NVIDIA-Accelerated Open Weights World Model"
+    },
+    {
+      "id": "508f58e5db94",
+      "slug": "openai-launches-chatgpt-desktop-app-for-linux",
+      "headline": "OpenAI launches ChatGPT desktop app for Linux",
+      "whatHappened": "OpenAI launches ChatGPT desktop app for Linux",
+      "whyItMatters": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+      "category": "industry",
+      "entities": [
+        "org:openai",
+        "prod:chatgpt",
+        "prod:gpt"
+      ],
+      "firstSeenAt": "2026-08-11T19:15:35Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2733,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "2d9882f0b7ffd230"
+      ],
+      "primaryItemId": "2d9882f0b7ffd230",
+      "claims": [
+        {
+          "text": "OpenAI launches ChatGPT desktop app for Linux",
+          "supporting_item_ids": [
+            "2d9882f0b7ffd230"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "OpenAI launches ChatGPT desktop app for Linux"
+    },
+    {
+      "id": "781597286bca",
+      "slug": "another-openai-executive-takes-off",
+      "headline": "Another OpenAI executive takes off",
+      "whatHappened": "Another OpenAI executive takes off",
+      "whyItMatters": "Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year …",
+      "category": "industry",
+      "entities": [
+        "org:openai"
+      ],
+      "firstSeenAt": "2026-08-11T17:50:01Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2688,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "390ec21a38e5889c"
+      ],
+      "primaryItemId": "390ec21a38e5889c",
+      "claims": [
+        {
+          "text": "Another OpenAI executive takes off",
+          "supporting_item_ids": [
+            "390ec21a38e5889c"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Another OpenAI executive takes off"
+    },
+    {
+      "id": "337e96e6fbd5",
+      "slug": "brad-lightcap-openai-s-longtime-coo-is-leaving-to-start-some",
+      "headline": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+      "whatHappened": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start s…",
+      "whyItMatters": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"exc…",
+      "category": "industry",
+      "entities": [
+        "org:openai"
+      ],
+      "firstSeenAt": "2026-08-11T17:41:34Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2683,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "46bfb5f438b57f40"
+      ],
+      "primaryItemId": "46bfb5f438b57f40",
+      "claims": [
+        {
+          "text": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+          "supporting_item_ids": [
+            "46bfb5f438b57f40"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’"
+    },
+    {
+      "id": "43d79a23436f",
+      "slug": "general-catalyst-leads-1-1b-round-into-2-month-old-river-ai",
+      "headline": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "whatHappened": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "whyItMatters": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured …",
+      "category": "industry",
+      "entities": [
+        "org:xai",
+        "ver:1.1"
+      ],
+      "firstSeenAt": "2026-08-11T17:41:22Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2683,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "a16b72fa42e6f10a"
+      ],
+      "primaryItemId": "a16b72fa42e6f10a",
+      "claims": [
+        {
+          "text": "General Catalyst leads $1.1B round into 2-month-old River AI",
+          "supporting_item_ids": [
+            "a16b72fa42e6f10a"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "General Catalyst leads $1.1B round into 2-month-old River AI"
+    },
+    {
+      "id": "533693bf4ad8",
+      "slug": "made-by-google-2026-all-the-pixel-news-and-announcements",
+      "headline": "Made by Google 2026: all the Pixel news and announcements",
+      "whatHappened": "Made by Google 2026: all the Pixel news and announcements",
+      "whyItMatters": "Google is gearing up to reveal a bunch of new Pixel devices on August 12th. A series of leaks leading up to the event su…",
+      "category": "industry",
+      "entities": [
+        "org:google"
+      ],
+      "firstSeenAt": "2026-08-11T17:00:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2662,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "7068066a6e776dc0"
+      ],
+      "primaryItemId": "7068066a6e776dc0",
+      "claims": [
+        {
+          "text": "Made by Google 2026: all the Pixel news and announcements",
+          "supporting_item_ids": [
+            "7068066a6e776dc0"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Made by Google 2026: all the Pixel news and announcements"
+    },
+    {
+      "id": "f33dcffafb90",
+      "slug": "a-developer-got-word-1-1a-from-1990-to-run-on-windows-11-try",
+      "headline": "A developer got Word 1.1a from 1990 to run on Windows 11 - try it yourself",
+      "whatHappened": "A developer got Word 1.1a from 1990 to run on Windows 11 - t…",
+      "whyItMatters": "Longing for a plain, old-fashioned version of Microsoft Word without all the bells, whistles, and AI slop? One developer…",
+      "category": "industry",
+      "entities": [
+        "org:microsoft"
+      ],
+      "firstSeenAt": "2026-08-11T16:55:09Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2659,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "1c47db3ba916e0ea"
+      ],
+      "primaryItemId": "1c47db3ba916e0ea",
+      "claims": [
+        {
+          "text": "A developer got Word 1.1a from 1990 to run on Windows 11 - try it yourself",
+          "supporting_item_ids": [
+            "1c47db3ba916e0ea"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "A developer got Word 1.1a from 1990 to run on Windows 11 - try it yourself"
+    },
+    {
+      "id": "3c1c38a91aff",
+      "slug": "an-unreleased-anthropic-model-made-progress-on-one-of-math-s",
+      "headline": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+      "whatHappened": "An unreleased Anthropic model made progress on one of math’s…",
+      "whyItMatters": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropi…",
+      "category": "industry",
+      "entities": [
+        "org:anthropic"
+      ],
+      "firstSeenAt": "2026-08-11T16:25:20Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2644,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "包含 GitHub Release / 官方发布",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "3fbc859341462050"
+      ],
+      "primaryItemId": "3fbc859341462050",
+      "claims": [
+        {
+          "text": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+          "supporting_item_ids": [
+            "3fbc859341462050"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems"
+    },
+    {
+      "id": "a0db4621ef74",
+      "slug": "apple-could-help-you-prove-your-iphone-photos-aren-t-deepfak",
+      "headline": "Apple could help you prove your iPhone photos aren’t deepfakes",
+      "whatHappened": "Apple could help you prove your iPhone photos aren’t deepfak…",
+      "whyItMatters": "Apple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera. 9to5Mac…",
+      "category": "industry",
+      "entities": [
+        "org:apple",
+        "org:meta"
+      ],
+      "firstSeenAt": "2026-08-11T16:19:15Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2641,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "3145afb78cee630c"
+      ],
+      "primaryItemId": "3145afb78cee630c",
+      "claims": [
+        {
+          "text": "Apple could help you prove your iPhone photos aren’t deepfakes",
+          "supporting_item_ids": [
+            "3145afb78cee630c"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Apple could help you prove your iPhone photos aren’t deepfakes"
+    },
+    {
+      "id": "7a79e78d33cd",
+      "slug": "building-and-validating-a-quantitative-trading-strategy-with",
+      "headline": "Building and Validating a Quantitative Trading Strategy with OctoBot, Walk-Forward Backtesting, Parameter Optimization, and Interactive Analysis",
+      "whatHappened": "Building and Validating a Quantitative Trading Strategy with…",
+      "whyItMatters": "In this tutorial, we build a complete quantitative backtesting workflow with OctoBot and OctoBot-Script while keeping th…",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-11T15:17:29Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.261,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "17ae3bbf4e5668bf"
+      ],
+      "primaryItemId": "17ae3bbf4e5668bf",
+      "claims": [
+        {
+          "text": "Building and Validating a Quantitative Trading Strategy with OctoBot, Walk-Forward Backtesting, Parameter Optimization, and Interactive Analysis",
+          "supporting_item_ids": [
+            "17ae3bbf4e5668bf"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Building and Validating a Quantitative Trading Strategy with OctoBot, Walk-Forward Backtesting, Parameter Optimization, and Interactive Analysis"
+    },
+    {
+      "id": "33245630b53c",
+      "slug": "why-ai-driven-purchase-intent-so-rarely-becomes-a-completed-",
+      "headline": "Why AI-driven purchase intent so rarely becomes a completed sale",
+      "whatHappened": "Why AI-driven purchase intent so rarely becomes a completed …",
+      "whyItMatters": "Presented by Rezolve Ai When an AI assistant recommends a product or brand, it generates something valuable: a purchase-…",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-11T15:00:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2601,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "cd330352c56cd476"
+      ],
+      "primaryItemId": "cd330352c56cd476",
+      "claims": [
+        {
+          "text": "Why AI-driven purchase intent so rarely becomes a completed sale",
+          "supporting_item_ids": [
+            "cd330352c56cd476"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Why AI-driven purchase intent so rarely becomes a completed sale"
+    },
+    {
+      "id": "09a2eaf7d2ba",
+      "slug": "zoomsday-hack-uncovered-using-fewer-than-20-ai-prompts",
+      "headline": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+      "whatHappened": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+      "whyItMatters": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting.…",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-11T14:45:44Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2594,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "d339b355e718903e"
+      ],
+      "primaryItemId": "d339b355e718903e",
+      "claims": [
+        {
+          "text": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+          "supporting_item_ids": [
+            "d339b355e718903e"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts"
+    },
+    {
+      "id": "858b719c7035",
+      "slug": "mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-",
+      "headline": "Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.",
+      "whatHappened": "Mistral AI wants to build 1 gigawatt of European compute by …",
+      "whyItMatters": "Mistral AI wants to turn European AI sovereignty from a talking point into a product — one with a service-level agreemen…",
+      "category": "industry",
+      "entities": [
+        "org:intel",
+        "org:mistral ai",
+        "prod:mistral"
+      ],
+      "firstSeenAt": "2026-08-11T13:59:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2571,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "52a49acab1e16c56"
+      ],
+      "primaryItemId": "52a49acab1e16c56",
+      "claims": [
+        {
+          "text": "Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.",
+          "supporting_item_ids": [
+            "52a49acab1e16c56"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now."
+    },
+    {
+      "id": "d1a0b9811fa0",
+      "slug": "蚂蚁首次投向机器人-指尖-数亿元押注-全球首个物理交互脑发布",
+      "headline": "蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布",
+      "whatHappened": "蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布",
+      "whyItMatters": "资本正从具身本体集体涌向触觉",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-11T13:57:46Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.257,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "4bcafa515f5c4f58"
+      ],
+      "primaryItemId": "4bcafa515f5c4f58",
+      "claims": [
+        {
+          "text": "蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布",
+          "supporting_item_ids": [
+            "4bcafa515f5c4f58"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布"
+    },
+    {
+      "id": "f5dbcb37e5a4",
+      "slug": "linux-desktop-use-surged-to-22-on-one-workday-cloudflare-dat",
+      "headline": "Linux desktop use surged to 22% on one workday, Cloudflare data shows",
+      "whatHappened": "Linux desktop use surged to 22% on one workday, Cloudflare d…",
+      "whyItMatters": "The Linux desktop's popularity is growing fast, and there are a few reasons why.",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-11T13:55:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2569,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "8a84cd2ac3001b12"
+      ],
+      "primaryItemId": "8a84cd2ac3001b12",
+      "claims": [
+        {
+          "text": "Linux desktop use surged to 22% on one workday, Cloudflare data shows",
+          "supporting_item_ids": [
+            "8a84cd2ac3001b12"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Linux desktop use surged to 22% on one workday, Cloudflare data shows"
+    },
+    {
+      "id": "329006170a42",
+      "slug": "why-your-amazon-order-confirmation-emails-have-become-so-unh",
+      "headline": "Why your Amazon order confirmation emails have become so unhelpful",
+      "whatHappened": "Why your Amazon order confirmation emails have become so unh…",
+      "whyItMatters": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order con…",
+      "category": "industry",
+      "entities": [
+        "org:amazon"
+      ],
+      "firstSeenAt": "2026-08-11T13:27:20Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2555,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "36e1d0b318f3ba21"
+      ],
+      "primaryItemId": "36e1d0b318f3ba21",
+      "claims": [
+        {
+          "text": "Why your Amazon order confirmation emails have become so unhelpful",
+          "supporting_item_ids": [
+            "36e1d0b318f3ba21"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Why your Amazon order confirmation emails have become so unhelpful"
+    },
+    {
+      "id": "23886569665f",
+      "slug": "i-tried-opera-s-new-vertical-tabs-and-it-might-be-the-best-i",
+      "headline": "I tried Opera's new vertical tabs - and it might be the best implementation yet",
+      "whatHappened": "I tried Opera's new vertical tabs - and it might be the best…",
+      "whyItMatters": "If the lack of vertical tabs has kept you from adopting the Opera browser, you might want to take another look.",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-11T13:09:23Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2547,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "4ec8530bee0ea402"
+      ],
+      "primaryItemId": "4ec8530bee0ea402",
+      "claims": [
+        {
+          "text": "I tried Opera's new vertical tabs - and it might be the best implementation yet",
+          "supporting_item_ids": [
+            "4ec8530bee0ea402"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "I tried Opera's new vertical tabs - and it might be the best implementation yet"
+    },
+    {
+      "id": "646b87a97a9a",
+      "slug": "spotify-says-it-won-8217-t-recommend-music-from-8216-ai-pers",
+      "headline": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
+      "whatHappened": "Spotify says it won&#8217;t recommend music from &#8216;AI P…",
+      "whyItMatters": "Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rollin…",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-11T13:00:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2542,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "0979505e550430b8"
+      ],
+      "primaryItemId": "0979505e550430b8",
+      "claims": [
+        {
+          "text": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
+          "supporting_item_ids": [
+            "0979505e550430b8"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;"
+    },
+    {
+      "id": "ae7fd63f53a9",
+      "slug": "spotify-will-label-ai-persona-profiles-and-exclude-their-mus",
+      "headline": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
+      "whatHappened": "Spotify will label ‘AI Persona’ profiles and exclude their m…",
+      "whyItMatters": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude t…",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-11T13:00:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2542,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "d4ff4dca688ab00d"
+      ],
+      "primaryItemId": "d4ff4dca688ab00d",
+      "claims": [
+        {
+          "text": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
+          "supporting_item_ids": [
+            "d4ff4dca688ab00d"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations"
+    },
+    {
+      "id": "b6f9789c0935",
+      "slug": "nvidia-s-open-nemotron-3-5-lightning-model-is-all-about-spec",
+      "headline": "Nvidia's open Nemotron 3.5 Lightning model is all about specialized, local agentic AI",
+      "whatHappened": "Nvidia's open Nemotron 3.5 Lightning model is all about spec…",
+      "whyItMatters": "Our AI Model Release Tracker keeps new models in context with their peers, so you know which are worth your time.",
+      "category": "industry",
+      "entities": [
+        "org:nvidia",
+        "prod:nemotron",
+        "ver:3.5"
+      ],
+      "firstSeenAt": "2026-08-11T13:00:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2542,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "包含 GitHub Release / 官方发布",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "cdecc53900b02020"
+      ],
+      "primaryItemId": "cdecc53900b02020",
+      "claims": [
+        {
+          "text": "Nvidia's open Nemotron 3.5 Lightning model is all about specialized, local agentic AI",
+          "supporting_item_ids": [
+            "cdecc53900b02020"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Nvidia's open Nemotron 3.5 Lightning model is all about specialized, local agentic AI"
+    },
+    {
+      "id": "c0f59c1a90ab",
+      "slug": "ltx-2-5-can-generate-a-10-second-ai-video-from-an-image-in-j",
+      "headline": "LTX-2.5 can generate a 10-second AI video from an image in just 6.8 seconds on Nvidia superchips — and it's open weights",
+      "whatHappened": "LTX-2.5 can generate a 10-second AI video from an image in j…",
+      "whyItMatters": "LTX , the open world model company spun out of Lightricks, today released LTX-2.5, the newest version of its open-weight…",
+      "category": "industry",
+      "entities": [
+        "org:nvidia",
+        "ver:2.5",
+        "ver:6.8"
+      ],
+      "firstSeenAt": "2026-08-11T13:00:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2542,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "5f8f182c07b7fbbc"
+      ],
+      "primaryItemId": "5f8f182c07b7fbbc",
+      "claims": [
+        {
+          "text": "LTX-2.5 can generate a 10-second AI video from an image in just 6.8 seconds on Nvidia superchips — and it's open weights",
+          "supporting_item_ids": [
+            "5f8f182c07b7fbbc"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "LTX-2.5 can generate a 10-second AI video from an image in just 6.8 seconds on Nvidia superchips — and it's open weights"
+    },
+    {
+      "id": "c76bf154eb8a",
+      "slug": "nvidia-s-switchyard-router-reshuffles-ai-models-mid-task-cut",
+      "headline": "Nvidia's Switchyard router reshuffles AI models mid-task, cutting task costs to a third in its own tests",
+      "whatHappened": "Nvidia's Switchyard router reshuffles AI models mid-task, cu…",
+      "whyItMatters": "Enterprises running always-on AI agents keep hitting the same tradeoff. Send every task to a frontier model and the bill…",
+      "category": "industry",
+      "entities": [
+        "org:nvidia",
+        "prod:sam"
+      ],
+      "firstSeenAt": "2026-08-11T13:00:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2542,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "88d64739b2c14323"
+      ],
+      "primaryItemId": "88d64739b2c14323",
+      "claims": [
+        {
+          "text": "Nvidia's Switchyard router reshuffles AI models mid-task, cutting task costs to a third in its own tests",
+          "supporting_item_ids": [
+            "88d64739b2c14323"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Nvidia's Switchyard router reshuffles AI models mid-task, cutting task costs to a third in its own tests"
+    },
+    {
+      "id": "8bea2c33f0bf",
+      "slug": "your-ai-agent-may-be-ready-your-sales-motion-probably-isn-t",
+      "headline": "Your AI agent may be ready. Your sales motion probably isn’t.",
+      "whatHappened": "Your AI agent may be ready. Your sales motion probably isn’t…",
+      "whyItMatters": "Presented by Salesforce Interested buyers don&#x27;t generate revenue. Live customers do. That&#x27;s the lesson I keep …",
+      "category": "industry",
+      "entities": [
+        "org:salesforce"
+      ],
+      "firstSeenAt": "2026-08-11T13:00:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2542,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "de890460200c7b14"
+      ],
+      "primaryItemId": "de890460200c7b14",
+      "claims": [
+        {
+          "text": "Your AI agent may be ready. Your sales motion probably isn’t.",
+          "supporting_item_ids": [
+            "de890460200c7b14"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Your AI agent may be ready. Your sales motion probably isn’t."
+    },
+    {
+      "id": "32bcafb47c7c",
+      "slug": "this-50-power-bank-is-safer-than-my-lithium-ion-battery-and-",
+      "headline": "This $50 power bank is safer than my lithium-ion battery - and it's coming on my next flight",
+      "whatHappened": "This $50 power bank is safer than my lithium-ion battery - a…",
+      "whyItMatters": "Lithium-ion power banks keep catching fire. Is semi-solid-state the safer solution?",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-11T12:53:53Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2539,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "0dd8fa0c90a7ee0b"
+      ],
+      "primaryItemId": "0dd8fa0c90a7ee0b",
+      "claims": [
+        {
+          "text": "This $50 power bank is safer than my lithium-ion battery - and it's coming on my next flight",
+          "supporting_item_ids": [
+            "0dd8fa0c90a7ee0b"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "This $50 power bank is safer than my lithium-ion battery - and it's coming on my next flight"
+    },
+    {
+      "id": "80e3414679b6",
+      "slug": "a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices",
+      "headline": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
+      "whatHappened": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices…",
+      "whyItMatters": "Researchers say it took fewer than 20 prompts for a public AI tool to find a flaw (now fixed) allowing anyone on a Zoom …",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-11T12:37:12Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2531,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "05df5ab443a99df2"
+      ],
+      "primaryItemId": "05df5ab443a99df2",
+      "claims": [
+        {
+          "text": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
+          "supporting_item_ids": [
+            "05df5ab443a99df2"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call"
+    },
+    {
+      "id": "70f09cec8965",
+      "slug": "claude-will-apply-invisible-watermarks-to-ai-text-and-images",
+      "headline": "Claude will apply invisible watermarks to AI text and images",
+      "whatHappened": "Claude will apply invisible watermarks to AI text and images",
+      "whyItMatters": "Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comp…",
+      "category": "industry",
+      "entities": [
+        "org:anthropic",
+        "org:meta",
+        "prod:claude"
+      ],
+      "firstSeenAt": "2026-08-11T12:22:20Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2524,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "73afb5f875c1aea5"
+      ],
+      "primaryItemId": "73afb5f875c1aea5",
+      "claims": [
+        {
+          "text": "Claude will apply invisible watermarks to AI text and images",
+          "supporting_item_ids": [
+            "73afb5f875c1aea5"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Claude will apply invisible watermarks to AI text and images"
+    },
+    {
+      "id": "8b2125761abc",
+      "slug": "anthropic-says-it-will-watermark-text-generated-by-its-ai-mo",
+      "headline": "Anthropic says it will watermark text generated by its AI models",
+      "whatHappened": "Anthropic says it will watermark text generated by its AI mo…",
+      "whyItMatters": "Anthropic will extend support for watermarking AI generations for older models as well.",
+      "category": "industry",
+      "entities": [
+        "org:anthropic"
+      ],
+      "firstSeenAt": "2026-08-11T12:13:47Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.252,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "71ec158479abfab3"
+      ],
+      "primaryItemId": "71ec158479abfab3",
+      "claims": [
+        {
+          "text": "Anthropic says it will watermark text generated by its AI models",
+          "supporting_item_ids": [
+            "71ec158479abfab3"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Anthropic says it will watermark text generated by its AI models"
+    },
+    {
+      "id": "aaab4ee5df3e",
+      "slug": "ai-professors-are-negotiating-the-new-realities-of-academic-",
+      "headline": "AI professors are negotiating the new realities of academic research",
+      "whatHappened": "AI professors are negotiating the new realities of academic …",
+      "whyItMatters": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox fir…",
+      "category": "research",
+      "entities": [],
+      "firstSeenAt": "2026-08-10T20:00:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.2517,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "fd757f0dbe4f0bde"
+      ],
+      "primaryItemId": "fd757f0dbe4f0bde",
+      "claims": [
+        {
+          "text": "AI professors are negotiating the new realities of academic research",
+          "supporting_item_ids": [
+            "fd757f0dbe4f0bde"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "AI professors are negotiating the new realities of academic research"
+    },
+    {
+      "id": "87644143f270",
+      "slug": "一家新能源大厂-如何撑起全球最大ai算力超级单体",
+      "headline": "一家新能源大厂，如何撑起全球最大AI算力超级单体？",
+      "whatHappened": "一家新能源大厂，如何撑起全球最大AI算力超级单体？",
+      "whyItMatters": "算力竞赛的天平，正在向电力倾斜",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-11T11:36:42Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2503,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "72c7a76e20a63502"
+      ],
+      "primaryItemId": "72c7a76e20a63502",
+      "claims": [
+        {
+          "text": "一家新能源大厂，如何撑起全球最大AI算力超级单体？",
+          "supporting_item_ids": [
+            "72c7a76e20a63502"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "一家新能源大厂，如何撑起全球最大AI算力超级单体？"
+    },
+    {
+      "id": "a9c67715bc41",
+      "slug": "the-ai-takeover-of-mathematics-has-begun",
+      "headline": "The AI takeover of mathematics has begun",
+      "whatHappened": "The AI takeover of mathematics has begun",
+      "whyItMatters": "Mathematician James Maynard has spent a lot of time this past year \"soul searching.\" A professor at the University of Ox…",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-11T11:00:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2486,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "4f51d3852e15559d"
+      ],
+      "primaryItemId": "4f51d3852e15559d",
+      "claims": [
+        {
+          "text": "The AI takeover of mathematics has begun",
+          "supporting_item_ids": [
+            "4f51d3852e15559d"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "The AI takeover of mathematics has begun"
+    },
+    {
+      "id": "1a8576430cd9",
+      "slug": "a-new-trick-reveals-ai-models-inner-thoughts",
+      "headline": "A New Trick Reveals AI Models’ Inner Thoughts",
+      "whatHappened": "A New Trick Reveals AI Models’ Inner Thoughts",
+      "whyItMatters": "Researchers devised a way to extract “reasoning traces” from Claude, GPT, and Gemini. What they found, they say, indicat…",
+      "category": "industry",
+      "entities": [
+        "prod:claude",
+        "prod:gemini",
+        "prod:gpt"
+      ],
+      "firstSeenAt": "2026-08-11T11:00:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2486,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "6ac201d828771f58"
+      ],
+      "primaryItemId": "6ac201d828771f58",
+      "claims": [
+        {
+          "text": "A New Trick Reveals AI Models’ Inner Thoughts",
+          "supporting_item_ids": [
+            "6ac201d828771f58"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "A New Trick Reveals AI Models’ Inner Thoughts"
+    },
+    {
+      "id": "fadd31001116",
+      "slug": "ai-is-dead-organoids-are-alive",
+      "headline": "AI Is Dead. Organoids Are Alive",
+      "whatHappened": "AI Is Dead. Organoids Are Alive",
+      "whyItMatters": "Mini human brains are being grown in labs all over the world. Soon, they could outthink neural networks.",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-11T10:00:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2459,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "e5ba944b7fcd3a57"
+      ],
+      "primaryItemId": "e5ba944b7fcd3a57",
+      "claims": [
+        {
+          "text": "AI Is Dead. Organoids Are Alive",
+          "supporting_item_ids": [
+            "e5ba944b7fcd3a57"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "AI Is Dead. Organoids Are Alive"
+    },
+    {
+      "id": "d2cba0bc4cb4",
+      "slug": "best-robot-mowers-of-2026-expert-tested",
+      "headline": "Best robot mowers of 2026: Expert tested",
+      "whatHappened": "Best robot mowers of 2026: Expert tested",
+      "whyItMatters": "I went hands-on with the best robot mowers that can cut your lawn regularly, so you can kick back and relax this summer.",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-11T10:00:57Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2459,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "9dc47cc1616954be"
+      ],
+      "primaryItemId": "9dc47cc1616954be",
+      "claims": [
+        {
+          "text": "Best robot mowers of 2026: Expert tested",
+          "supporting_item_ids": [
+            "9dc47cc1616954be"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Best robot mowers of 2026: Expert tested"
+    },
+    {
+      "id": "fdfe6fef83e2",
+      "slug": "7-simple-gadgets-that-can-make-your-home-smarter-for-under-1",
+      "headline": "7 simple gadgets that can make your home smarter for under $100",
+      "whatHappened": "7 simple gadgets that can make your home smarter for under $…",
+      "whyItMatters": "You don't have to spend lots of money to make your home smarter. Here are the best affordable gadgets to upgrade your sp…",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-11T09:30:46Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2445,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "6e12a029fe71f79e"
+      ],
+      "primaryItemId": "6e12a029fe71f79e",
+      "claims": [
+        {
+          "text": "7 simple gadgets that can make your home smarter for under $100",
+          "supporting_item_ids": [
+            "6e12a029fe71f79e"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "7 simple gadgets that can make your home smarter for under $100"
+    },
+    {
+      "id": "7992700a0248",
+      "slug": "谷歌创始人布林紧急接管gemini团队-但-3-5-pro已被取消",
+      "headline": "谷歌创始人布林紧急接管Gemini团队，但“3.5 Pro已被取消”",
+      "whatHappened": "谷歌创始人布林紧急接管Gemini团队，但“3.5 Pro已被取消”",
+      "whyItMatters": "谷歌算力分配内耗严重",
+      "category": "industry",
+      "entities": [
+        "prod:gemini",
+        "ver:3.5"
+      ],
+      "firstSeenAt": "2026-08-11T09:24:44Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2443,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "5402a700aeea4df1"
+      ],
+      "primaryItemId": "5402a700aeea4df1",
+      "claims": [
+        {
+          "text": "谷歌创始人布林紧急接管Gemini团队，但“3.5 Pro已被取消”",
+          "supporting_item_ids": [
+            "5402a700aeea4df1"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "谷歌创始人布林紧急接管Gemini团队，但“3.5 Pro已被取消”"
+    },
+    {
+      "id": "c68c1a80c1b5",
+      "slug": "ai-is-helping-solve-the-intricate-genetic-puzzle-of-schizoph",
+      "headline": "AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia",
+      "whatHappened": "AI Is Helping Solve the Intricate Genetic Puzzle of Schizoph…",
+      "whyItMatters": "Recent findings provide one of the most detailed pictures to date of the genetic architecture of schizophrenia, opening …",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-11T09:00:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2432,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "722e2cc5096b4d81"
+      ],
+      "primaryItemId": "722e2cc5096b4d81",
+      "claims": [
+        {
+          "text": "AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia",
+          "supporting_item_ids": [
+            "722e2cc5096b4d81"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia"
+    },
+    {
+      "id": "e6c65ddf9475",
+      "slug": "the-download-ai-agents-for-science-and-the-censorship-indust",
+      "headline": "The Download: AI agents for science, and the “censorship-industrial complex”",
+      "whatHappened": "The Download: AI agents for science, and the “censorship-ind…",
+      "whyItMatters": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o…",
+      "category": "research",
+      "entities": [
+        "org:google"
+      ],
+      "firstSeenAt": "2026-08-10T12:10:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.241,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "9b7e4bb0f9a649ce"
+      ],
+      "primaryItemId": "9b7e4bb0f9a649ce",
+      "claims": [
+        {
+          "text": "The Download: AI agents for science, and the “censorship-industrial complex”",
+          "supporting_item_ids": [
+            "9b7e4bb0f9a649ce"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "The Download: AI agents for science, and the “censorship-industrial complex”"
+    },
+    {
+      "id": "ac48b1529659",
+      "slug": "ai-for-science-needs-reasoning-not-just-data",
+      "headline": "AI for science needs reasoning, not just data",
+      "whatHappened": "AI for science needs reasoning, not just data",
+      "whyItMatters": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson w…",
+      "category": "research",
+      "entities": [
+        "org:intel",
+        "prod:bert"
+      ],
+      "firstSeenAt": "2026-08-10T09:00:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.2369,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "eeebabbc2b42a2eb"
+      ],
+      "primaryItemId": "eeebabbc2b42a2eb",
+      "claims": [
+        {
+          "text": "AI for science needs reasoning, not just data",
+          "supporting_item_ids": [
+            "eeebabbc2b42a2eb"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "AI for science needs reasoning, not just data"
+    },
+    {
+      "id": "63ba34e4dbf3",
+      "slug": "these-startups-are-chasing-the-next-big-thing-in-llms",
+      "headline": "These startups are chasing the next big thing in LLMs",
+      "whatHappened": "These startups are chasing the next big thing in LLMs",
+      "whyItMatters": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at…",
+      "category": "research",
+      "entities": [
+        "org:google"
+      ],
+      "firstSeenAt": "2026-08-10T09:00:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.2369,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "fed1ec702fcfa168"
+      ],
+      "primaryItemId": "fed1ec702fcfa168",
+      "claims": [
+        {
+          "text": "These startups are chasing the next big thing in LLMs",
+          "supporting_item_ids": [
+            "fed1ec702fcfa168"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "These startups are chasing the next big thing in LLMs"
+    },
+    {
+      "id": "b6091880118d",
+      "slug": "webai-releases-twil-lm-a-1-7b-and-3b-formal-logic-model-fami",
+      "headline": "webAI Releases TwIL-LM: A 1.7B and 3B Formal-Logic Model Family for Autoformalization on Local Hardware",
+      "whatHappened": "webAI Releases TwIL-LM: A 1.7B and 3B Formal-Logic Model Fam…",
+      "whyItMatters": "webAI has released TwIL-LM, a family of formal-logic models at 1.7B and 3B parameters that translate English into first-…",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-11T06:20:09Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2363,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "包含 GitHub Release / 官方发布",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "63cb0410066bc3da"
+      ],
+      "primaryItemId": "63cb0410066bc3da",
+      "claims": [
+        {
+          "text": "webAI Releases TwIL-LM: A 1.7B and 3B Formal-Logic Model Family for Autoformalization on Local Hardware",
+          "supporting_item_ids": [
+            "63cb0410066bc3da"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "webAI Releases TwIL-LM: A 1.7B and 3B Formal-Logic Model Family for Autoformalization on Local Hardware"
+    },
+    {
+      "id": "6a915450720f",
+      "slug": "implementing-a-minimax-h3-multimodal-video-and-audio-generat",
+      "headline": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+      "whatHappened": "Implementing a MiniMax-H3 Multimodal Video and Audio Generat…",
+      "whyItMatters": "In this comprehensive guide, we demonstrate how to implement a complete, programmable MiniMax-H3 multimodal generation p…",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-11T05:44:38Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2348,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "33dfd9ae651874b6"
+      ],
+      "primaryItemId": "33dfd9ae651874b6",
+      "claims": [
+        {
+          "text": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+          "supporting_item_ids": [
+            "33dfd9ae651874b6"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs"
+    },
+    {
+      "id": "8287cf709b1c",
+      "slug": "百年黎曼猜想被claude破了新纪录-是个未公开新模型",
+      "headline": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
+      "whatHappened": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
+      "whyItMatters": "把下界推高了一大截",
+      "category": "industry",
+      "entities": [
+        "prod:claude"
+      ],
+      "firstSeenAt": "2026-08-11T05:12:20Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2334,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "298461c54442b849"
+      ],
+      "primaryItemId": "298461c54442b849",
+      "claims": [
+        {
+          "text": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
+          "supporting_item_ids": [
+            "298461c54442b849"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型"
+    },
+    {
+      "id": "693db53af32f",
+      "slug": "宇树会破发吗-王兴兴回应了",
+      "headline": "宇树会破发吗？王兴兴回应了",
+      "whatHappened": "宇树会破发吗？王兴兴回应了",
+      "whyItMatters": "200问回应一切",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-11T04:42:50Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2322,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "00a5775c70f7cb87"
+      ],
+      "primaryItemId": "00a5775c70f7cb87",
+      "claims": [
+        {
+          "text": "宇树会破发吗？王兴兴回应了",
+          "supporting_item_ids": [
+            "00a5775c70f7cb87"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "宇树会破发吗？王兴兴回应了"
+    },
+    {
+      "id": "ddda3991f0e1",
+      "slug": "gpu开始金融化-黄仁勋拉上华尔街搞5000亿美元融资",
+      "headline": "GPU开始金融化！黄仁勋拉上华尔街搞5000亿美元融资",
+      "whatHappened": "GPU开始金融化！黄仁勋拉上华尔街搞5000亿美元融资",
+      "whyItMatters": "真就把GPU当理财产品了～",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-11T04:31:39Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2318,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "38259aef13dd2bca"
+      ],
+      "primaryItemId": "38259aef13dd2bca",
+      "claims": [
+        {
+          "text": "GPU开始金融化！黄仁勋拉上华尔街搞5000亿美元融资",
+          "supporting_item_ids": [
+            "38259aef13dd2bca"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "GPU开始金融化！黄仁勋拉上华尔街搞5000亿美元融资"
+    },
+    {
+      "id": "0bc7e6ded481",
+      "slug": "claude骂声中启动-隐形水印-新模型全量嵌入-标记所有文字",
+      "headline": "Claude骂声中启动「隐形水印」：新模型全量嵌入，标记所有文字",
+      "whatHappened": "Claude骂声中启动「隐形水印」：新模型全量嵌入，标记所有文字",
+      "whyItMatters": "大水印时代来了",
+      "category": "industry",
+      "entities": [
+        "prod:claude"
+      ],
+      "firstSeenAt": "2026-08-11T03:51:24Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.2301,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "ff018de68103592c"
+      ],
+      "primaryItemId": "ff018de68103592c",
+      "claims": [
+        {
+          "text": "Claude骂声中启动「隐形水印」：新模型全量嵌入，标记所有文字",
+          "supporting_item_ids": [
+            "ff018de68103592c"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Claude骂声中启动「隐形水印」：新模型全量嵌入，标记所有文字"
+    },
+    {
+      "id": "43efbdb23126",
+      "slug": "机器人赛道新岗位-月入6000元的-骨科大夫-专治缺胳膊断腿",
+      "headline": "机器人赛道新岗位：月入6000元的“骨科大夫”，专治缺胳膊断腿",
+      "whatHappened": "机器人赛道新岗位：月入6000元的“骨科大夫”，专治缺胳膊断腿",
+      "whyItMatters": "来源已发布相关信息，需关注后续进展。",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-11T03:37:31Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.2296,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "392be56448bdf555"
+      ],
+      "primaryItemId": "392be56448bdf555",
+      "claims": [
+        {
+          "text": "机器人赛道新岗位：月入6000元的“骨科大夫”，专治缺胳膊断腿",
+          "supporting_item_ids": [
+            "392be56448bdf555"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "机器人赛道新岗位：月入6000元的“骨科大夫”，专治缺胳膊断腿"
+    },
+    {
+      "id": "54c25a402b7f",
+      "slug": "当ai开始-自作主张-谁来为智能体戴上-项圈-全球ai安全实战化大考-中国方案打入前三",
+      "headline": "当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三",
+      "whatHappened": "当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三",
+      "whyItMatters": "全球AI安全实战化测评，中国方案DoGNAVY位列前三",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-11T03:11:12Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.2285,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "1a4545d3955668f6"
+      ],
+      "primaryItemId": "1a4545d3955668f6",
+      "claims": [
+        {
+          "text": "当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三",
+          "supporting_item_ids": [
+            "1a4545d3955668f6"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三"
+    },
+    {
+      "id": "317fa13c4bd4",
+      "slug": "openai-reportedly-completed-a-7-billion-employee-tender-offe",
+      "headline": "OpenAI reportedly completed a $7 billion employee tender offer",
+      "whatHappened": "OpenAI reportedly completed a $7 billion employee tender off…",
+      "whyItMatters": "San Francisco's housing market is in trouble again.",
+      "category": "industry",
+      "entities": [
+        "org:openai"
+      ],
+      "firstSeenAt": "2026-08-11T00:03:18Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.2213,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "edb59d63226688df"
+      ],
+      "primaryItemId": "edb59d63226688df",
+      "claims": [
+        {
+          "text": "OpenAI reportedly completed a $7 billion employee tender offer",
+          "supporting_item_ids": [
+            "edb59d63226688df"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "OpenAI reportedly completed a $7 billion employee tender offer"
+    },
+    {
+      "id": "b6b328d2ffb7",
+      "slug": "as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model",
+      "headline": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "whatHappened": "As AI-led attacks multiply, OpenAI launches a new cyber mode…",
+      "whyItMatters": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+      "category": "industry",
+      "entities": [
+        "org:openai"
+      ],
+      "firstSeenAt": "2026-08-10T23:56:15Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.221,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "7bb183617c9aa0ad"
+      ],
+      "primaryItemId": "7bb183617c9aa0ad",
+      "claims": [
+        {
+          "text": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+          "supporting_item_ids": [
+            "7bb183617c9aa0ad"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "As AI-led attacks multiply, OpenAI launches a new cyber model"
+    },
+    {
+      "id": "b620eb6066ed",
+      "slug": "openai-launches-gpt-5-6-cyber-with-reduced-refusals-95-compl",
+      "headline": "OpenAI launches GPT-5.6-Cyber with reduced refusals, 95% completion on advanced cybersecurity tasks",
+      "whatHappened": "OpenAI launches GPT-5.6-Cyber with reduced refusals, 95% com…",
+      "whyItMatters": "Earlier today, OpenAI launched GPT-5.6-Cyber , a specialized model designed to perform advanced vulnerability research a…",
+      "category": "industry",
+      "entities": [
+        "org:openai",
+        "prod:gpt",
+        "prod:gpt-5",
+        "ver:5.6"
+      ],
+      "firstSeenAt": "2026-08-10T23:53:23Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.2209,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "6305bef81fe767c0"
+      ],
+      "primaryItemId": "6305bef81fe767c0",
+      "claims": [
+        {
+          "text": "OpenAI launches GPT-5.6-Cyber with reduced refusals, 95% completion on advanced cybersecurity tasks",
+          "supporting_item_ids": [
+            "6305bef81fe767c0"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "OpenAI launches GPT-5.6-Cyber with reduced refusals, 95% completion on advanced cybersecurity tasks"
+    },
+    {
+      "id": "ff4e121d347f",
+      "slug": "i-tried-google-wallet-s-new-allowance-feature-and-my-kid-alr",
+      "headline": "I tried Google Wallet's new allowance feature, and my kid already ditched their debit card",
+      "whatHappened": "I tried Google Wallet's new allowance feature, and my kid al…",
+      "whyItMatters": "The new feature lets you send money to your children without them needing a card or separate account.",
+      "category": "industry",
+      "entities": [
+        "org:google"
+      ],
+      "firstSeenAt": "2026-08-10T21:57:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.2167,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "dbe2032483f833c9"
+      ],
+      "primaryItemId": "dbe2032483f833c9",
+      "claims": [
+        {
+          "text": "I tried Google Wallet's new allowance feature, and my kid already ditched their debit card",
+          "supporting_item_ids": [
+            "dbe2032483f833c9"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "I tried Google Wallet's new allowance feature, and my kid already ditched their debit card"
+    },
+    {
+      "id": "58ca417ac883",
+      "slug": "mark-zuckerberg-s-ai-manifesto-is-exactly-why-people-don-t-l",
+      "headline": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+      "whatHappened": "Mark Zuckerberg’s AI manifesto is exactly why people don’t l…",
+      "whyItMatters": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"…",
+      "category": "industry",
+      "entities": [
+        "org:intel",
+        "org:meta"
+      ],
+      "firstSeenAt": "2026-08-10T20:53:02Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.2144,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "afb32f03b8b0a39d"
+      ],
+      "primaryItemId": "afb32f03b8b0a39d",
+      "claims": [
+        {
+          "text": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+          "supporting_item_ids": [
+            "afb32f03b8b0a39d"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI"
+    },
+    {
+      "id": "0b859419bb45",
+      "slug": "tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-",
+      "headline": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "whatHappened": "Tech industry is buzzing after a Claude agent hacked into a …",
+      "whyItMatters": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tec…",
+      "category": "industry",
+      "entities": [
+        "prod:claude"
+      ],
+      "firstSeenAt": "2026-08-10T20:04:24Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.2127,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "1efc0bb5b3994114"
+      ],
+      "primaryItemId": "1efc0bb5b3994114",
+      "claims": [
+        {
+          "text": "Tech industry is buzzing after a Claude agent hacked into a gym",
+          "supporting_item_ids": [
+            "1efc0bb5b3994114"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Tech industry is buzzing after a Claude agent hacked into a gym"
+    },
+    {
+      "id": "feb4d3841f80",
+      "slug": "this-pocket-sized-gadget-helped-cut-down-our-editor-s-screen",
+      "headline": "This pocket-sized gadget helped cut down our editor's screen time - and it's on sale",
+      "whatHappened": "This pocket-sized gadget helped cut down our editor's screen…",
+      "whyItMatters": "Brick can curb your screen time, and it's on sale for a limited time.",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-10T19:50:28Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.2122,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "13c4bacab9f94317"
+      ],
+      "primaryItemId": "13c4bacab9f94317",
+      "claims": [
+        {
+          "text": "This pocket-sized gadget helped cut down our editor's screen time - and it's on sale",
+          "supporting_item_ids": [
+            "13c4bacab9f94317"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "This pocket-sized gadget helped cut down our editor's screen time - and it's on sale"
+    },
+    {
+      "id": "3d2b1ef1df4e",
+      "slug": "why-recovery-readiness-has-become-the-new-standard-for-cyber",
+      "headline": "Why recovery readiness has become the new standard for cyber resilience",
+      "whatHappened": "Why recovery readiness has become the new standard for cyber…",
+      "whyItMatters": "As outages become more expensive and frequent, recovery readiness is emerging as the true measure of resilience.",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-10T18:56:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.2104,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "0cbb77ef18440df5"
+      ],
+      "primaryItemId": "0cbb77ef18440df5",
+      "claims": [
+        {
+          "text": "Why recovery readiness has become the new standard for cyber resilience",
+          "supporting_item_ids": [
+            "0cbb77ef18440df5"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Why recovery readiness has become the new standard for cyber resilience"
+    },
+    {
+      "id": "d29205a044ea",
+      "slug": "meta-s-new-glimmer-ai-model-offers-a-hint-at-zuckerberg-s-pe",
+      "headline": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+      "whatHappened": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s pe…",
+      "whyItMatters": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as we…",
+      "category": "industry",
+      "entities": [
+        "org:intel",
+        "org:meta"
+      ],
+      "firstSeenAt": "2026-08-10T16:20:13Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.2052,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "7a2fbf89af42d6e0"
+      ],
+      "primaryItemId": "7a2fbf89af42d6e0",
+      "claims": [
+        {
+          "text": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+          "supporting_item_ids": [
+            "7a2fbf89af42d6e0"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision"
+    },
+    {
+      "id": "28b95f4fdb63",
+      "slug": "why-managers-are-ransomware-s-top-targets-now-and-6-ways-to-",
+      "headline": "Why managers are ransomware's top targets now - and 6 ways to stay safe",
+      "whatHappened": "Why managers are ransomware's top targets now - and 6 ways t…",
+      "whyItMatters": "Almost two-thirds of the victims targeted in a single ransomware campaign held managerial positions or higher.",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-10T16:08:17Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.2049,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "0e49c07d401b706b"
+      ],
+      "primaryItemId": "0e49c07d401b706b",
+      "claims": [
+        {
+          "text": "Why managers are ransomware's top targets now - and 6 ways to stay safe",
+          "supporting_item_ids": [
+            "0e49c07d401b706b"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Why managers are ransomware's top targets now - and 6 ways to stay safe"
+    },
+    {
+      "id": "1e3ca56a172a",
+      "slug": "this-blazing-fast-super-private-browser-delivers-a-brand-new",
+      "headline": "This blazing-fast, super-private browser delivers a brand new beta - try it for free",
+      "whatHappened": "This blazing-fast, super-private browser delivers a brand ne…",
+      "whyItMatters": "The zero-telemetry Orion browser finally makes its way to Linux as a beta release. It's also available for MacOS, iOS, a…",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-10T15:56:48Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.2045,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "9bb79c41cd43316c"
+      ],
+      "primaryItemId": "9bb79c41cd43316c",
+      "claims": [
+        {
+          "text": "This blazing-fast, super-private browser delivers a brand new beta - try it for free",
+          "supporting_item_ids": [
+            "9bb79c41cd43316c"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "This blazing-fast, super-private browser delivers a brand new beta - try it for free"
+    },
+    {
+      "id": "9be0db280830",
+      "slug": "meta-ai-releases-muse-glimmer-a-30b-open-weights-agentic-mod",
+      "headline": "Meta AI Releases Muse Glimmer: A 30B Open-Weights Agentic Model That Runs on One Consumer GPU",
+      "whatHappened": "Meta AI Releases Muse Glimmer: A 30B Open-Weights Agentic Mo…",
+      "whyItMatters": "Meta's Muse Glimmer is a 30B open-weights agentic model under Apache 2.0. It fits 24 GB VRAM and decodes 3.1x faster wit…",
+      "category": "industry",
+      "entities": [
+        "org:meta",
+        "ver:2.0"
+      ],
+      "firstSeenAt": "2026-08-10T15:11:51Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.2031,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "包含 GitHub Release / 官方发布",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "41afd772dd7ddc37"
+      ],
+      "primaryItemId": "41afd772dd7ddc37",
+      "claims": [
+        {
+          "text": "Meta AI Releases Muse Glimmer: A 30B Open-Weights Agentic Model That Runs on One Consumer GPU",
+          "supporting_item_ids": [
+            "41afd772dd7ddc37"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Meta AI Releases Muse Glimmer: A 30B Open-Weights Agentic Model That Runs on One Consumer GPU"
+    },
+    {
+      "id": "aa997075d91d",
+      "slug": "i-tried-a-solar-powered-airtag-alternative-that-lasts-2-year",
+      "headline": "I tried a solar-powered AirTag alternative that lasts 2 years - and looks like my Apple Watch",
+      "whatHappened": "I tried a solar-powered AirTag alternative that lasts 2 year…",
+      "whyItMatters": "This finder tag has excellent range, and it's built for the outdoors.",
+      "category": "industry",
+      "entities": [
+        "org:apple"
+      ],
+      "firstSeenAt": "2026-08-10T14:25:56Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.2016,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "5db6bd2df848b889"
+      ],
+      "primaryItemId": "5db6bd2df848b889",
+      "claims": [
+        {
+          "text": "I tried a solar-powered AirTag alternative that lasts 2 years - and looks like my Apple Watch",
+          "supporting_item_ids": [
+            "5db6bd2df848b889"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "I tried a solar-powered AirTag alternative that lasts 2 years - and looks like my Apple Watch"
+    },
+    {
+      "id": "9229bd5b491d",
+      "slug": "this-mac-dock-gives-me-lag-free-dual-displays-with-no-sketch",
+      "headline": "This Mac dock gives me lag-free dual displays with no sketchy drivers - for $150",
+      "whatHappened": "This Mac dock gives me lag-free dual displays with no sketch…",
+      "whyItMatters": "I finally get full support for two displays - without paying Thunderbolt prices. But there is a catch.",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-10T14:24:15Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.2016,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "8ff4600a6a7fbd68"
+      ],
+      "primaryItemId": "8ff4600a6a7fbd68",
+      "claims": [
+        {
+          "text": "This Mac dock gives me lag-free dual displays with no sketchy drivers - for $150",
+          "supporting_item_ids": [
+            "8ff4600a6a7fbd68"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "This Mac dock gives me lag-free dual displays with no sketchy drivers - for $150"
+    },
+    {
+      "id": "fa7fb9f785fe",
+      "slug": "we-lab-tested-ecovac-s-next-gen-robot-mop-here-s-where-it-sh",
+      "headline": "We lab-tested Ecovac's next-gen robot mop - here's where it shines (and struggles)",
+      "whatHappened": "We lab-tested Ecovac's next-gen robot mop - here's where it …",
+      "whyItMatters": "The Ecovacs Deebot X12 OmniCyclone is not just a mouthful; it's a market leader in features and intelligence.",
+      "category": "industry",
+      "entities": [
+        "org:intel"
+      ],
+      "firstSeenAt": "2026-08-10T13:45:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.2004,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "f48be5b998b51518"
+      ],
+      "primaryItemId": "f48be5b998b51518",
+      "claims": [
+        {
+          "text": "We lab-tested Ecovac's next-gen robot mop - here's where it shines (and struggles)",
+          "supporting_item_ids": [
+            "f48be5b998b51518"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "We lab-tested Ecovac's next-gen robot mop - here's where it shines (and struggles)"
+    },
+    {
+      "id": "92c991e2b213",
+      "slug": "claude-s-record-a-skill-cut-my-research-from-hours-to-30-min",
+      "headline": "Claude's Record-a-Skill cut my research from hours to 30 minutes - but the magic has limits",
+      "whatHappened": "Claude's Record-a-Skill cut my research from hours to 30 min…",
+      "whyItMatters": "I used Claude Cowork to automate a workflow, and the result was remarkably effective, but it exposed four drawbacks.",
+      "category": "industry",
+      "entities": [
+        "prod:claude"
+      ],
+      "firstSeenAt": "2026-08-10T12:26:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.198,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "c8ada05d0e82ea97"
+      ],
+      "primaryItemId": "c8ada05d0e82ea97",
+      "claims": [
+        {
+          "text": "Claude's Record-a-Skill cut my research from hours to 30 minutes - but the magic has limits",
+          "supporting_item_ids": [
+            "c8ada05d0e82ea97"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Claude's Record-a-Skill cut my research from hours to 30 minutes - but the magic has limits"
+    },
+    {
+      "id": "59c051f19127",
+      "slug": "discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cool",
+      "headline": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "whatHappened": "Discovered Materials is playing AI whack-a-mole to hunt cool…",
+      "whyItMatters": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-10T12:00:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.1972,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "66869a44d4701111"
+      ],
+      "primaryItemId": "66869a44d4701111",
+      "claims": [
+        {
+          "text": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+          "supporting_item_ids": [
+            "66869a44d4701111"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips"
+    },
+    {
+      "id": "c529551a2c66",
+      "slug": "the-ai-slop-backlash-is-actually-having-an-impact",
+      "headline": "The AI Slop Backlash Is Actually Having an Impact",
+      "whatHappened": "The AI Slop Backlash Is Actually Having an Impact",
+      "whyItMatters": "Platforms are finally recognizing that people don’t want to consume AI slop. A growing number of sites and apps now have…",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-10T11:30:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.1963,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "6f436178a66fbc72"
+      ],
+      "primaryItemId": "6f436178a66fbc72",
+      "claims": [
+        {
+          "text": "The AI Slop Backlash Is Actually Having an Impact",
+          "supporting_item_ids": [
+            "6f436178a66fbc72"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "The AI Slop Backlash Is Actually Having an Impact"
+    },
+    {
+      "id": "2061a6d4883c",
+      "slug": "the-rise-of-the-1-am-job-interview",
+      "headline": "The Rise of the 1 am Job Interview",
+      "whatHappened": "The Rise of the 1 am Job Interview",
+      "whyItMatters": "An AI interview is increasingly the first step of a hiring process. Since there’s no human on the other end, candidates …",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-10T10:30:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.1946,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "f09742cb8f210b34"
+      ],
+      "primaryItemId": "f09742cb8f210b34",
+      "claims": [
+        {
+          "text": "The Rise of the 1 am Job Interview",
+          "supporting_item_ids": [
+            "f09742cb8f210b34"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "The Rise of the 1 am Job Interview"
+    },
+    {
+      "id": "1eeb85f1f814",
+      "slug": "bytedance-seed-introduces-seedrealtime-a-native-audio-visual",
+      "headline": "ByteDance Seed Introduces SeedRealtime: a Native Audio-Visual Full-Duplex LLM That Watches, Listens and Speaks in One Model",
+      "whatHappened": "ByteDance Seed Introduces SeedRealtime: a Native Audio-Visua…",
+      "whyItMatters": "ByteDance&#8217;s Seed team has introduced SeedRealtime, a native audio-visual full-duplex LLM. The model fuses audio, v…",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-10T05:48:17Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.1868,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "bdf3de3573370fe4"
+      ],
+      "primaryItemId": "bdf3de3573370fe4",
+      "claims": [
+        {
+          "text": "ByteDance Seed Introduces SeedRealtime: a Native Audio-Visual Full-Duplex LLM That Watches, Listens and Speaks in One Model",
+          "supporting_item_ids": [
+            "bdf3de3573370fe4"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "ByteDance Seed Introduces SeedRealtime: a Native Audio-Visual Full-Duplex LLM That Watches, Listens and Speaks in One Model"
+    },
+    {
+      "id": "947ead482594",
+      "slug": "nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-dupl",
+      "headline": "NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+      "whatHappened": "NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Dup…",
+      "whyItMatters": "NVIDIA releases NemotronLabs VoiceChat 11B, an open full-duplex speech-to-speech model with 448 ms latency and live tool…",
+      "category": "industry",
+      "entities": [
+        "org:nvidia",
+        "prod:nemotron"
+      ],
+      "firstSeenAt": "2026-08-09T23:58:34Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.1782,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "包含 GitHub Release / 官方发布",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "96ac752686699f68"
+      ],
+      "primaryItemId": "96ac752686699f68",
+      "claims": [
+        {
+          "text": "NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "supporting_item_ids": [
+            "96ac752686699f68"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling"
+    },
+    {
+      "id": "2e7817f510df",
+      "slug": "embattled-hedge-fund-situational-awareness-invests-400m-in-c",
+      "headline": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "whatHappened": "Embattled hedge fund Situational Awareness invests $400M in …",
+      "whyItMatters": "The AI-focused hedge fund is still making some big bets.",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-09T20:35:17Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.1735,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "f52e4595a23bba0b"
+      ],
+      "primaryItemId": "f52e4595a23bba0b",
+      "claims": [
+        {
+          "text": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+          "supporting_item_ids": [
+            "f52e4595a23bba0b"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry"
+    },
+    {
+      "id": "979a92cae9e5",
+      "slug": "anthropic-is-turning-claude-code-s-auto-mode-on-by-default",
+      "headline": "Anthropic is turning Claude Code’s auto mode on by default",
+      "whatHappened": "Anthropic is turning Claude Code’s auto mode on by default",
+      "whyItMatters": "Programming with Claude Code will soon require even less human oversight.",
+      "category": "industry",
+      "entities": [
+        "org:anthropic",
+        "prod:claude"
+      ],
+      "firstSeenAt": "2026-08-09T19:20:32Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.1719,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "51880ed6c666b431"
+      ],
+      "primaryItemId": "51880ed6c666b431",
+      "claims": [
+        {
+          "text": "Anthropic is turning Claude Code’s auto mode on by default",
+          "supporting_item_ids": [
+            "51880ed6c666b431"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Anthropic is turning Claude Code’s auto mode on by default"
+    },
+    {
+      "id": "1f86606b38c7",
+      "slug": "top-llm-observability-and-evaluation-platforms-in-2026-langf",
+      "headline": "Top LLM Observability and Evaluation Platforms in 2026: Langfuse, LangSmith, Braintrust, Arize, and More Compared",
+      "whatHappened": "Top LLM Observability and Evaluation Platforms in 2026: Lang…",
+      "whyItMatters": "A verified 2026 comparison of LLM observability platforms covering tracing depth, evaluation capability, production moni…",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-09T18:15:30Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.1705,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "43bc300624ed23dd"
+      ],
+      "primaryItemId": "43bc300624ed23dd",
+      "claims": [
+        {
+          "text": "Top LLM Observability and Evaluation Platforms in 2026: Langfuse, LangSmith, Braintrust, Arize, and More Compared",
+          "supporting_item_ids": [
+            "43bc300624ed23dd"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Top LLM Observability and Evaluation Platforms in 2026: Langfuse, LangSmith, Braintrust, Arize, and More Compared"
+    },
+    {
+      "id": "9652ecd7fff4",
+      "slug": "historian-jill-lepore-says-silicon-valley-misreads-science-f",
+      "headline": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+      "whatHappened": "Historian Jill Lepore says Silicon Valley misreads science f…",
+      "whyItMatters": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad scien…",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-09T15:00:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.1665,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "7359cd8c663f6907"
+      ],
+      "primaryItemId": "7359cd8c663f6907",
+      "claims": [
+        {
+          "text": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+          "supporting_item_ids": [
+            "7359cd8c663f6907"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy"
+    },
+    {
+      "id": "1e752c906a60",
+      "slug": "the-ai-safety-test-is-becoming-a-safety-risk",
+      "headline": "The AI safety test is becoming a safety risk",
+      "whatHappened": "The AI safety test is becoming a safety risk",
+      "whyItMatters": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about wheth…",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-09T14:30:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.166,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "dea7a95bad436b44"
+      ],
+      "primaryItemId": "dea7a95bad436b44",
+      "claims": [
+        {
+          "text": "The AI safety test is becoming a safety risk",
+          "supporting_item_ids": [
+            "dea7a95bad436b44"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "The AI safety test is becoming a safety risk"
+    },
+    {
+      "id": "bb81bb29f3ee",
+      "slug": "meetily-lets-you-transcribe-and-summarize-meetings-without-a",
+      "headline": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
+      "whatHappened": "Meetily Lets You Transcribe and Summarize Meetings Without a…",
+      "whyItMatters": "There are endless ways to record and transcribe your virtual meetings with AI. Here’s an option that’s free and open sou…",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-09T10:30:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.1614,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "8f6acc7217e6b807"
+      ],
+      "primaryItemId": "8f6acc7217e6b807",
+      "claims": [
+        {
+          "text": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
+          "supporting_item_ids": [
+            "8f6acc7217e6b807"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How"
+    },
+    {
+      "id": "37192bd4e3dc",
+      "slug": "made-by-google-2026-how-to-watch-and-what-to-expect-from-the",
+      "headline": "Made by Google 2026: How to watch and what to expect from the Pixel 11 event",
+      "whatHappened": "Made by Google 2026: How to watch and what to expect from th…",
+      "whyItMatters": "Google is set to announce its Pixel 11 series phones - here's what we know.",
+      "category": "industry",
+      "entities": [
+        "org:google"
+      ],
+      "firstSeenAt": "2026-08-09T10:15:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.1612,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "73b9c099a1e0cedd"
+      ],
+      "primaryItemId": "73b9c099a1e0cedd",
+      "claims": [
+        {
+          "text": "Made by Google 2026: How to watch and what to expect from the Pixel 11 event",
+          "supporting_item_ids": [
+            "73b9c099a1e0cedd"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Made by Google 2026: How to watch and what to expect from the Pixel 11 event"
+    },
+    {
+      "id": "ecde44eec84b",
+      "slug": "these-ai-barons-are-ready-to-give-away-their-fortunes",
+      "headline": "These AI Barons Are Ready to Give Away Their Fortunes",
+      "whatHappened": "These AI Barons Are Ready to Give Away Their Fortunes",
+      "whyItMatters": "A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. W…",
+      "category": "industry",
+      "entities": [
+        "org:intel",
+        "prod:phi"
+      ],
+      "firstSeenAt": "2026-08-09T09:30:00Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.1604,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "39e8dd38f8c9dec3"
+      ],
+      "primaryItemId": "39e8dd38f8c9dec3",
+      "claims": [
+        {
+          "text": "These AI Barons Are Ready to Give Away Their Fortunes",
+          "supporting_item_ids": [
+            "39e8dd38f8c9dec3"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "These AI Barons Are Ready to Give Away Their Fortunes"
+    },
+    {
+      "id": "eca52c7d3bcd",
+      "slug": "imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baseline",
+      "headline": "IMDb Sentiment Analysis with DistilBERT LoRA, TF-IDF Baselines, Calibration, Interpretability, Robustness Testing, and Semi-Supervised Learning",
+      "whatHappened": "IMDb Sentiment Analysis with DistilBERT LoRA, TF-IDF Baselin…",
+      "whyItMatters": "This tutorial provides a comprehensive guide to building a robust sentiment analysis workflow. By combining classical TF…",
+      "category": "industry",
+      "entities": [
+        "prod:bert"
+      ],
+      "firstSeenAt": "2026-08-09T07:17:35Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "cooling",
+      "heatScore": 0.1581,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "662ef05f36d44891"
+      ],
+      "primaryItemId": "662ef05f36d44891",
+      "claims": [
+        {
+          "text": "IMDb Sentiment Analysis with DistilBERT LoRA, TF-IDF Baselines, Calibration, Interpretability, Robustness Testing, and Semi-Supervised Learning",
+          "supporting_item_ids": [
+            "662ef05f36d44891"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "IMDb Sentiment Analysis with DistilBERT LoRA, TF-IDF Baselines, Calibration, Interpretability, Robustness Testing, and Semi-Supervised Learning"
+    }
+  ]
+}
