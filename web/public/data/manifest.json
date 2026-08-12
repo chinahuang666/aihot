@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-08-12T04:12:31Z",
+  "window": {
+    "start": "2026-08-09T04:12:31Z",
+    "end": "2026-08-12T04:12:31Z",
+    "hours": 72
+  },
+  "algoVersion": "rule-1.0.0",
+  "data": {
+    "files": [
+      "manifest.json",
+      "latest-selected.json",
+      "latest-all.json",
+      "hot.json",
+      "stories.json",
+      "daily/2026-08-12.json",
+      "source-status.json",
+      "search-index.json"
+    ],
+    "sourceCount": 21,
+    "storyCount": 142,
+    "itemCount": 143
+  }
+}
