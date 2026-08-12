@@ -1,0 +1,552 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-08-12T04:12:31Z",
+  "window": {
+    "start": "2026-08-09T04:12:31Z",
+    "end": "2026-08-12T04:12:31Z"
+  },
+  "storyCount": 15,
+  "data": [
+    {
+      "id": "0d27f5ca5f4f",
+      "slug": "google-s-gemini-app-surges-to-1-billion-users",
+      "headline": "Google’s Gemini app surges to 1 billion users",
+      "whatHappened": "Google’s Gemini app surges to 1 billion users",
+      "whyItMatters": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to th…",
+      "category": "industry",
+      "entities": [
+        "org:google",
+        "org:openai",
+        "prod:chatgpt",
+        "prod:gemini",
+        "prod:gpt"
+      ],
+      "firstSeenAt": "2026-08-11T18:49:12Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.5669,
+      "importanceScore": 0.4425,
+      "confidenceScore": 0.42,
+      "rankingReasons": [
+        "2 小时内出现 2 个独立来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "a7da00d346c25ca8",
+        "c725b62d5d61c59f"
+      ],
+      "primaryItemId": "a7da00d346c25ca8",
+      "claims": [
+        {
+          "text": "Google’s Gemini app surges to 1 billion users",
+          "supporting_item_ids": [
+            "a7da00d346c25ca8"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Google’s Gemini app surges to 1 billion users"
+    },
+    {
+      "id": "b8749aafeb4a",
+      "slug": "刚刚-manus恢复独立运营",
+      "headline": "刚刚，Manus恢复独立运营",
+      "whatHappened": "刚刚，Manus恢复独立运营",
+      "whyItMatters": "Manus，完成复活赛了！",
+      "category": "industry",
+      "entities": [],
+      "firstSeenAt": "2026-08-12T02:51:44Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2999,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "9824c4f02b8c49d6"
+      ],
+      "primaryItemId": "9824c4f02b8c49d6",
+      "claims": [
+        {
+          "text": "刚刚，Manus恢复独立运营",
+          "supporting_item_ids": [
+            "9824c4f02b8c49d6"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "刚刚，Manus恢复独立运营"
+    },
+    {
+      "id": "b9010f74a593",
+      "slug": "saber-denies-replacing-rideshare-stimulator-8217-s-writers-w",
+      "headline": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+      "whatHappened": "Saber denies replacing Rideshare Stimulator&#8217;s writers …",
+      "whyItMatters": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Un…",
+      "category": "industry",
+      "entities": [
+        "prod:chatgpt",
+        "prod:gpt"
+      ],
+      "firstSeenAt": "2026-08-12T00:39:26Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2918,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "867d015fa4901d32"
+      ],
+      "primaryItemId": "867d015fa4901d32",
+      "claims": [
+        {
+          "text": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+          "supporting_item_ids": [
+            "867d015fa4901d32"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT"
+    },
+    {
+      "id": "5bc6655b6c00",
+      "slug": "surgical-wam-a-world-action-model-for-data-efficient-surgica",
+      "headline": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning",
+      "whatHappened": "Surgical WAM: A World-Action Model for Data-Efficient Surgic…",
+      "whyItMatters": "Learning reliable surgical manipulation policies is bottlenecked by the scarcity of action-labeled demonstrations: teleo…",
+      "category": "research",
+      "entities": [
+        "cs.AI",
+        "cs.CV",
+        "cs.RO"
+      ],
+      "firstSeenAt": "2026-08-11T17:59:13Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2863,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "7fc667b24c62e80a"
+      ],
+      "primaryItemId": "7fc667b24c62e80a",
+      "claims": [
+        {
+          "text": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning",
+          "supporting_item_ids": [
+            "7fc667b24c62e80a"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning"
+    },
+    {
+      "id": "0c7e9afc9629",
+      "slug": "convawg-a-retrieval-grounded-framework-for-controlled-synthe",
+      "headline": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls",
+      "whatHappened": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synth…",
+      "whyItMatters": "Synthetic dialogue generation offers a way to study conversational dynamics in sensitive domains where real data are dif…",
+      "category": "research",
+      "entities": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG"
+      ],
+      "firstSeenAt": "2026-08-11T17:57:34Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2862,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "0c6c947d1dc99189"
+      ],
+      "primaryItemId": "0c6c947d1dc99189",
+      "claims": [
+        {
+          "text": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls",
+          "supporting_item_ids": [
+            "0c6c947d1dc99189"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls"
+    },
+    {
+      "id": "29d2e295f9b6",
+      "slug": "beyond-a-bag-of-features-set-level-instability-in-sparse-aut",
+      "headline": "Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders",
+      "whatHappened": "Beyond a Bag of Features: Set-Level Instability in Sparse Au…",
+      "whyItMatters": "Shani et al. (2026) show that LLM representations broadly recover human category boundaries, while failing to reflect fi…",
+      "category": "research",
+      "entities": [
+        "cs.CL",
+        "cs.LG"
+      ],
+      "firstSeenAt": "2026-08-11T17:55:59Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2862,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "9adea61aa56e080c"
+      ],
+      "primaryItemId": "9adea61aa56e080c",
+      "claims": [
+        {
+          "text": "Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders",
+          "supporting_item_ids": [
+            "9adea61aa56e080c"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders"
+    },
+    {
+      "id": "52c7db04df4a",
+      "slug": "how-the-censorship-industrial-complex-is-changing-the-intern",
+      "headline": "How the “censorship-industrial complex” is changing the Internet and US policy",
+      "whatHappened": "How the “censorship-industrial complex” is changing the Inte…",
+      "whyItMatters": "I first heard the term “censorship-industrial complex” on April 15, 2025.&#160; That’s when I got the tip that a small o…",
+      "category": "research",
+      "entities": [],
+      "firstSeenAt": "2026-08-11T17:58:57Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2862,
+      "importanceScore": 0.37,
+      "confidenceScore": 0.17,
+      "rankingReasons": [
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "681b9f3ee1679a23"
+      ],
+      "primaryItemId": "681b9f3ee1679a23",
+      "claims": [
+        {
+          "text": "How the “censorship-industrial complex” is changing the Internet and US policy",
+          "supporting_item_ids": [
+            "681b9f3ee1679a23"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "How the “censorship-industrial complex” is changing the Internet and US policy"
+    },
+    {
+      "id": "30c3e0bb1e4a",
+      "slug": "long-horizon-ai-research-for-grothendieck-constant-a-case-st",
+      "headline": "Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration",
+      "whatHappened": "Long-Horizon AI Research for Grothendieck Constant: A Case S…",
+      "whyItMatters": "AI agents are increasingly used in mathematics research, but it is often unclear how to use them effectively. Towards th…",
+      "category": "research",
+      "entities": [
+        "cs.AI",
+        "cs.CC",
+        "cs.HC",
+        "math.FA"
+      ],
+      "firstSeenAt": "2026-08-11T17:53:48Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2861,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "6fa72760659d1235"
+      ],
+      "primaryItemId": "6fa72760659d1235",
+      "claims": [
+        {
+          "text": "Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration",
+          "supporting_item_ids": [
+            "6fa72760659d1235"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration"
+    },
+    {
+      "id": "2d0c200537af",
+      "slug": "test-time-self-evolving-gui-visual-grounding-via-reflection-",
+      "headline": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation",
+      "whatHappened": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-…",
+      "whyItMatters": "GUI Visual Grounding is a fundamental capability for GUI agents. Existing models typically freeze their parameters after…",
+      "category": "research",
+      "entities": [
+        "cs.AI",
+        "cs.CL",
+        "cs.CV"
+      ],
+      "firstSeenAt": "2026-08-11T17:50:25Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.286,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "c3cbc10956a6c328"
+      ],
+      "primaryItemId": "c3cbc10956a6c328",
+      "claims": [
+        {
+          "text": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation",
+          "supporting_item_ids": [
+            "c3cbc10956a6c328"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation"
+    },
+    {
+      "id": "e2862dfba54a",
+      "slug": "how-to-verify-consistency-of-probabilistic-claims",
+      "headline": "How to Verify Consistency of Probabilistic Claims",
+      "whatHappened": "How to Verify Consistency of Probabilistic Claims",
+      "whyItMatters": "When a probabilistic predictor answers many conditional-probability queries, are its answers self-consistent, and can th…",
+      "category": "research",
+      "entities": [
+        "cs.AI",
+        "cs.CC",
+        "cs.LG"
+      ],
+      "firstSeenAt": "2026-08-11T17:41:39Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2857,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "f337d91f7c88c2dd"
+      ],
+      "primaryItemId": "f337d91f7c88c2dd",
+      "claims": [
+        {
+          "text": "How to Verify Consistency of Probabilistic Claims",
+          "supporting_item_ids": [
+            "f337d91f7c88c2dd"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "How to Verify Consistency of Probabilistic Claims"
+    },
+    {
+      "id": "733cf5ba1b6b",
+      "slug": "from-interpretability-to-control-insights-from-six-years-of-",
+      "headline": "From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop",
+      "whatHappened": "From Interpretability to Control: Insights from Six Years of…",
+      "whyItMatters": "The Workshop on Trustworthy Natural Language Processing (TrustNLP), co-located with major ACL conferences since 2021, ha…",
+      "category": "research",
+      "entities": [
+        "cs.AI",
+        "cs.CL",
+        "cs.CY"
+      ],
+      "firstSeenAt": "2026-08-11T17:30:16Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2854,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "cee97260a36f331c"
+      ],
+      "primaryItemId": "cee97260a36f331c",
+      "claims": [
+        {
+          "text": "From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop",
+          "supporting_item_ids": [
+            "cee97260a36f331c"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop"
+    },
+    {
+      "id": "b3222dfb8497",
+      "slug": "multimodal-code-switching-interleaving-visual-objects-into-l",
+      "headline": "MultiModal Code-Switching: Interleaving Visual Objects into Language for Explicit Object-Level Alignment",
+      "whatHappened": "MultiModal Code-Switching: Interleaving Visual Objects into …",
+      "whyItMatters": "Existing Multimodal Large Language Models (MLLMs) predominantly rely on image-text pairs for modality alignment pretrain…",
+      "category": "research",
+      "entities": [
+        "cs.CL",
+        "cs.CV",
+        "cs.LG"
+      ],
+      "firstSeenAt": "2026-08-11T17:28:52Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2854,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "dd2e52c8fcf503cc"
+      ],
+      "primaryItemId": "dd2e52c8fcf503cc",
+      "claims": [
+        {
+          "text": "MultiModal Code-Switching: Interleaving Visual Objects into Language for Explicit Object-Level Alignment",
+          "supporting_item_ids": [
+            "dd2e52c8fcf503cc"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "MultiModal Code-Switching: Interleaving Visual Objects into Language for Explicit Object-Level Alignment"
+    },
+    {
+      "id": "3f36ff4e418b",
+      "slug": "the-illusion-of-cross-lingual-safety-in-low-resource-languag",
+      "headline": "The Illusion of Cross-Lingual Safety in Low-Resource Languages",
+      "whatHappened": "The Illusion of Cross-Lingual Safety in Low-Resource Languag…",
+      "whyItMatters": "Safety alignment in large language models (LLMs) is largely developed in English, assuming these safeguards generalize a…",
+      "category": "research",
+      "entities": [
+        "cs.CL"
+      ],
+      "firstSeenAt": "2026-08-11T17:05:26Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2847,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "249f70f884813a6a"
+      ],
+      "primaryItemId": "249f70f884813a6a",
+      "claims": [
+        {
+          "text": "The Illusion of Cross-Lingual Safety in Low-Resource Languages",
+          "supporting_item_ids": [
+            "249f70f884813a6a"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "The Illusion of Cross-Lingual Safety in Low-Resource Languages"
+    },
+    {
+      "id": "76fe80986fb9",
+      "slug": "attention-path-fragility-as-an-uncertainty-signal-in-large-l",
+      "headline": "Attention-Path Fragility as an Uncertainty Signal in Large Language Models",
+      "whatHappened": "Attention-Path Fragility as an Uncertainty Signal in Large L…",
+      "whyItMatters": "We propose that a model's uncertainty about a token is reflected not only in the breadth of its output distribution but …",
+      "category": "research",
+      "entities": [
+        "cs.AI",
+        "cs.CL"
+      ],
+      "firstSeenAt": "2026-08-11T16:59:02Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2845,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "780b2015df4c7570"
+      ],
+      "primaryItemId": "780b2015df4c7570",
+      "claims": [
+        {
+          "text": "Attention-Path Fragility as an Uncertainty Signal in Large Language Models",
+          "supporting_item_ids": [
+            "780b2015df4c7570"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "Attention-Path Fragility as an Uncertainty Signal in Large Language Models"
+    },
+    {
+      "id": "1e45b8761139",
+      "slug": "sltn-structural-logic-tensor-networks",
+      "headline": "sLTN: Structural Logic Tensor Networks",
+      "whatHappened": "sLTN: Structural Logic Tensor Networks",
+      "whyItMatters": "Logic Tensor Networks (LTN) provide a neurosymbolic framework in which first-order logic is interpreted through tensor o…",
+      "category": "research",
+      "entities": [
+        "cs.AI"
+      ],
+      "firstSeenAt": "2026-08-11T16:58:38Z",
+      "lastUpdatedAt": "2026-08-12T04:10:43Z",
+      "status": "new",
+      "heatScore": 0.2845,
+      "importanceScore": 0.42,
+      "confidenceScore": 0.35,
+      "rankingReasons": [
+        "包含官方/一手来源",
+        "目前以单一来源为主，可信度待提升"
+      ],
+      "itemIds": [
+        "aff58729f577ff72"
+      ],
+      "primaryItemId": "aff58729f577ff72",
+      "claims": [
+        {
+          "text": "sLTN: Structural Logic Tensor Networks",
+          "supporting_item_ids": [
+            "aff58729f577ff72"
+          ]
+        }
+      ],
+      "summaryVersion": "rule-1.0.0",
+      "headlineZh": "sLTN: Structural Logic Tensor Networks"
+    }
+  ]
+}
