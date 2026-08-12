@@ -1,0 +1,2148 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-08-12T04:12:31Z",
+  "window": {
+    "start": "2026-08-09T04:12:31Z",
+    "end": "2026-08-12T04:12:31Z"
+  },
+  "entryCount": 285,
+  "data": [
+    {
+      "type": "story",
+      "id": "0d27f5ca5f4f",
+      "slug": "google-s-gemini-app-surges-to-1-billion-users",
+      "title": "Google’s Gemini app surges to 1 billion users",
+      "category": "industry",
+      "text": "Google’s Gemini app surges to 1 billion users Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to th…"
+    },
+    {
+      "type": "story",
+      "id": "ba12f3f9d645",
+      "slug": "amie-our-research-medical-ai-system-demonstrates-real-time-c",
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "category": "model",
+      "text": "AMIE, our research medical AI system, demonstrates real-time… AMIE promotional video"
+    },
+    {
+      "type": "story",
+      "id": "5bc6655b6c00",
+      "slug": "surgical-wam-a-world-action-model-for-data-efficient-surgica",
+      "title": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning",
+      "category": "research",
+      "text": "Surgical WAM: A World-Action Model for Data-Efficient Surgic… Learning reliable surgical manipulation policies is bottlenecked by the scarcity of action-labeled demonstrations: teleo…"
+    },
+    {
+      "type": "story",
+      "id": "0c7e9afc9629",
+      "slug": "convawg-a-retrieval-grounded-framework-for-controlled-synthe",
+      "title": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls",
+      "category": "research",
+      "text": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synth… Synthetic dialogue generation offers a way to study conversational dynamics in sensitive domains where real data are dif…"
+    },
+    {
+      "type": "story",
+      "id": "29d2e295f9b6",
+      "slug": "beyond-a-bag-of-features-set-level-instability-in-sparse-aut",
+      "title": "Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders",
+      "category": "research",
+      "text": "Beyond a Bag of Features: Set-Level Instability in Sparse Au… Shani et al. (2026) show that LLM representations broadly recover human category boundaries, while failing to reflect fi…"
+    },
+    {
+      "type": "story",
+      "id": "30c3e0bb1e4a",
+      "slug": "long-horizon-ai-research-for-grothendieck-constant-a-case-st",
+      "title": "Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration",
+      "category": "research",
+      "text": "Long-Horizon AI Research for Grothendieck Constant: A Case S… AI agents are increasingly used in mathematics research, but it is often unclear how to use them effectively. Towards th…"
+    },
+    {
+      "type": "story",
+      "id": "2d0c200537af",
+      "slug": "test-time-self-evolving-gui-visual-grounding-via-reflection-",
+      "title": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation",
+      "category": "research",
+      "text": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-… GUI Visual Grounding is a fundamental capability for GUI agents. Existing models typically freeze their parameters after…"
+    },
+    {
+      "type": "story",
+      "id": "e2862dfba54a",
+      "slug": "how-to-verify-consistency-of-probabilistic-claims",
+      "title": "How to Verify Consistency of Probabilistic Claims",
+      "category": "research",
+      "text": "How to Verify Consistency of Probabilistic Claims When a probabilistic predictor answers many conditional-probability queries, are its answers self-consistent, and can th…"
+    },
+    {
+      "type": "story",
+      "id": "733cf5ba1b6b",
+      "slug": "from-interpretability-to-control-insights-from-six-years-of-",
+      "title": "From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop",
+      "category": "research",
+      "text": "From Interpretability to Control: Insights from Six Years of… The Workshop on Trustworthy Natural Language Processing (TrustNLP), co-located with major ACL conferences since 2021, ha…"
+    },
+    {
+      "type": "story",
+      "id": "b3222dfb8497",
+      "slug": "multimodal-code-switching-interleaving-visual-objects-into-l",
+      "title": "MultiModal Code-Switching: Interleaving Visual Objects into Language for Explicit Object-Level Alignment",
+      "category": "research",
+      "text": "MultiModal Code-Switching: Interleaving Visual Objects into … Existing Multimodal Large Language Models (MLLMs) predominantly rely on image-text pairs for modality alignment pretrain…"
+    },
+    {
+      "type": "story",
+      "id": "3f36ff4e418b",
+      "slug": "the-illusion-of-cross-lingual-safety-in-low-resource-languag",
+      "title": "The Illusion of Cross-Lingual Safety in Low-Resource Languages",
+      "category": "research",
+      "text": "The Illusion of Cross-Lingual Safety in Low-Resource Languag… Safety alignment in large language models (LLMs) is largely developed in English, assuming these safeguards generalize a…"
+    },
+    {
+      "type": "story",
+      "id": "76fe80986fb9",
+      "slug": "attention-path-fragility-as-an-uncertainty-signal-in-large-l",
+      "title": "Attention-Path Fragility as an Uncertainty Signal in Large Language Models",
+      "category": "research",
+      "text": "Attention-Path Fragility as an Uncertainty Signal in Large L… We propose that a model's uncertainty about a token is reflected not only in the breadth of its output distribution but …"
+    },
+    {
+      "type": "story",
+      "id": "1e45b8761139",
+      "slug": "sltn-structural-logic-tensor-networks",
+      "title": "sLTN: Structural Logic Tensor Networks",
+      "category": "research",
+      "text": "sLTN: Structural Logic Tensor Networks Logic Tensor Networks (LTN) provide a neurosymbolic framework in which first-order logic is interpreted through tensor o…"
+    },
+    {
+      "type": "story",
+      "id": "b2cad2eba32e",
+      "slug": "two-stage-odd-residual-flows-for-mean-preserving-probabilist",
+      "title": "Two-stage Odd Residual Flows for Mean-Preserving Probabilistic Time Series Forecasting",
+      "category": "research",
+      "text": "Two-stage Odd Residual Flows for Mean-Preserving Probabilist… Probabilistic forecasting plays an essential role in risk-sensitive decision-making, particularly in long-horizon settin…"
+    },
+    {
+      "type": "story",
+      "id": "6442a4f14148",
+      "slug": "actions-speak-louder-than-words-measuring-cross-lingual-poli",
+      "title": "Actions Speak Louder than Words: Measuring Cross-Lingual Policy Retention in Tool-Using Agents",
+      "category": "research",
+      "text": "Actions Speak Louder than Words: Measuring Cross-Lingual Pol… When a tool-using agent is given the same task in a different language, does it still take the same steps? Multilingual …"
+    },
+    {
+      "type": "story",
+      "id": "0bf25baf2cbf",
+      "slug": "why-does-claude-md-keep-growing-catastrophic-remembering-in-",
+      "title": "Why Does CLAUDE.md Keep Growing? Catastrophic Remembering in Agentic Coding",
+      "category": "research",
+      "text": "Why Does CLAUDE.md Keep Growing? Catastrophic Remembering in… Agentic coding READMEs like CLAUDE.md grow without bound in real repositories, stopping only when the repository retires…"
+    },
+    {
+      "type": "story",
+      "id": "9ce842173333",
+      "slug": "llama-cpp-releases-发布-b10362",
+      "title": "llama.cpp Releases 发布 b10362",
+      "category": "developer",
+      "text": "llama.cpp Releases 发布 b10362 tests : disable backend sampler hip multi output ( #26878 ) test-backend-sampler: skip multi_output_sampling_chain on HI…"
+    },
+    {
+      "type": "story",
+      "id": "760fffb25b35",
+      "slug": "rtskg-building-a-rail-transit-station-knowledge-graph-datase",
+      "title": "RTSKG: Building a Rail Transit Station Knowledge Graph Dataset",
+      "category": "research",
+      "text": "RTSKG: Building a Rail Transit Station Knowledge Graph Datas… Rail transit systems play a vital role in urban mobility and economic development. As key components of such systems, ra…"
+    },
+    {
+      "type": "story",
+      "id": "1c9fe464a59c",
+      "slug": "skillzip-evaluation-free-skill-compression-for-self-evolving",
+      "title": "SkillZip: Evaluation-Free Skill Compression for Self-Evolving Agents by Discovering Reusable Structure",
+      "category": "research",
+      "text": "SkillZip: Evaluation-Free Skill Compression for Self-Evolvin… Self-evolving agents accumulate reusable skills by appending successful procedures and failure fixes. Over time, the sam…"
+    },
+    {
+      "type": "story",
+      "id": "ec58742dc5fa",
+      "slug": "quantum-coordination-advantages-in-ai-state-tracking-tasks-s",
+      "title": "Quantum Coordination Advantages in AI State-Tracking Tasks: Semantic Compilation and Latent Memory",
+      "category": "research",
+      "text": "Quantum Coordination Advantages in AI State-Tracking Tasks: … We prove inference-time quantum coordination advantages for specified AI state-tracking tasks. A solver compresses seman…"
+    },
+    {
+      "type": "story",
+      "id": "d20223c090c5",
+      "slug": "entropy-centric-explainable-ai-for-remote-sensing-image-segm",
+      "title": "Entropy-Centric Explainable AI for Remote Sensing Image Segmentation",
+      "category": "research",
+      "text": "Entropy-Centric Explainable AI for Remote Sensing Image Segm… Artificial intelligence (AI) has become a powerful approach to solving complex problems in critical domains. Many concer…"
+    },
+    {
+      "type": "story",
+      "id": "0da70a17159a",
+      "slug": "a-comparative-evaluation-of-deep-learning-object-detection-m",
+      "title": "A Comparative Evaluation of Deep Learning Object Detection Models on a Real-World Multi-Plant Dataset from Africa",
+      "category": "research",
+      "text": "A Comparative Evaluation of Deep Learning Object Detection M… The application of computer vision in agriculture has shown significant potential for improving crop monitoring and prec…"
+    },
+    {
+      "type": "story",
+      "id": "f9bae492edf5",
+      "slug": "3d-weighted-geometric-graph-neural-networks-for-sheep-facial",
+      "title": "3D Weighted Geometric Graph Neural Networks for Sheep Facial Pain Assessment",
+      "category": "research",
+      "text": "3D Weighted Geometric Graph Neural Networks for Sheep Facial… Deep learning systems perform mainly within the 2D for a single image domain and take the face as a single-dimension rep…"
+    },
+    {
+      "type": "story",
+      "id": "bf3b697614af",
+      "slug": "testing-ads-in-chatgpt",
+      "title": "Testing ads in ChatGPT",
+      "category": "model",
+      "text": "Testing ads in ChatGPT OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy pr…"
+    },
+    {
+      "type": "story",
+      "id": "f9c8d409f096",
+      "slug": "daybreak-models-are-now-available-on-aws",
+      "title": "Daybreak models are now available on AWS",
+      "category": "model",
+      "text": "Daybreak models are now available on AWS OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise sec…"
+    },
+    {
+      "type": "story",
+      "id": "11cd69e01c4d",
+      "slug": "langchain-releases-发布-langchain-anthropic-1-5-5",
+      "title": "LangChain Releases 发布 langchain-anthropic==1.5.5",
+      "category": "developer",
+      "text": "LangChain Releases 发布 langchain-anthropic==1.5.5 Changes since langchain-anthropic==1.5.4 release(anthropic): 1.5.5 ( #39597 ) fix(anthropic): report reasoning tokens in…"
+    },
+    {
+      "type": "story",
+      "id": "c15c962f47bf",
+      "slug": "langchain-releases-发布-langchain-1-3-15",
+      "title": "LangChain Releases 发布 langchain==1.3.15",
+      "category": "developer",
+      "text": "LangChain Releases 发布 langchain==1.3.15 Changes since langchain==1.3.14 release(langchain): 1.3.15 ( #39595 ) feat(langchain): expose trace_policy on AgentMiddl…"
+    },
+    {
+      "type": "story",
+      "id": "cfb432db841a",
+      "slug": "langchain-releases-发布-langchain-core-1-5-4",
+      "title": "LangChain Releases 发布 langchain-core==1.5.4",
+      "category": "developer",
+      "text": "LangChain Releases 发布 langchain-core==1.5.4 Changes since langchain-core==1.5.3 release(core): 1.5.4 ( #39592 ) fix(core): compat with pydantic 2.14 ( #39328 ) fix(…"
+    },
+    {
+      "type": "story",
+      "id": "c1512d40f7a9",
+      "slug": "llama-cpp-releases-发布-b10361",
+      "title": "llama.cpp Releases 发布 b10361",
+      "category": "developer",
+      "text": "llama.cpp Releases 发布 b10361 model : fix SWA not being enabled for EXAONE 4.5 ( #26848 ) model : fix SWA not being enabled for EXAONE 4.5 load_arch_h…"
+    },
+    {
+      "type": "story",
+      "id": "6afa570595f5",
+      "slug": "the-ultimate-guide-to-contributing-to-open-source-projects",
+      "title": "The Ultimate Guide to Contributing to Open Source Projects",
+      "category": "developer",
+      "text": "The Ultimate Guide to Contributing to Open Source Projects This guide walks through what contributing to open source projects actually covers, how to pick a project that will actu…"
+    },
+    {
+      "type": "story",
+      "id": "c107acd0b182",
+      "slug": "3-visual-proofs-of-the-central-limit-theorem-to-build-your-i",
+      "title": "3 Visual Proofs of the Central Limit Theorem to Build Your Intuition",
+      "category": "developer",
+      "text": "3 Visual Proofs of the Central Limit Theorem to Build Your I… To build your intuition, this article shows three visual proofs that the classic bell curve appears in myriad situations…"
+    },
+    {
+      "type": "story",
+      "id": "fc8dcdd9e793",
+      "slug": "ollama-releases-发布-v0-32-9",
+      "title": "Ollama Releases 发布 v0.32.9",
+      "category": "developer",
+      "text": "Ollama Releases 发布 v0.32.9 NVIDIA Nemotron 3.5 Lightning NVIDIA Nemotron 3.5 Lightning is an open 30B mixture-of-experts (MoE) model with 3B active…"
+    },
+    {
+      "type": "story",
+      "id": "45e9fcf4fb2f",
+      "slug": "llama-cpp-releases-发布-b10360",
+      "title": "llama.cpp Releases 发布 b10360",
+      "category": "developer",
+      "text": "llama.cpp Releases 发布 b10360 common/peg : suppress incomplete escape sequences ( #26780 ) Website: https://llama.app macOS/iOS: macOS Apple Silicon (…"
+    },
+    {
+      "type": "story",
+      "id": "3044abd6892c",
+      "slug": "llama-cpp-releases-发布-b10359",
+      "title": "llama.cpp Releases 发布 b10359",
+      "category": "developer",
+      "text": "llama.cpp Releases 发布 b10359 ggml-webgpu: fix CI errors from #25025 and #25262 ( #26566 ) test new flash_attn test rebase and fix to disable subgrou …"
+    },
+    {
+      "type": "story",
+      "id": "bf87dac89354",
+      "slug": "llama-cpp-releases-发布-b10358",
+      "title": "llama.cpp Releases 发布 b10358",
+      "category": "developer",
+      "text": "llama.cpp Releases 发布 b10358 Address review comment of PR 25532 ( #26852 ) Website: https://llama.app macOS/iOS: macOS Apple Silicon (arm64) macOS Ap…"
+    },
+    {
+      "type": "story",
+      "id": "336081f5474f",
+      "slug": "ollama-releases-发布-v0-32-8",
+      "title": "Ollama Releases 发布 v0.32.8",
+      "category": "developer",
+      "text": "Ollama Releases 发布 v0.32.8 Muse Glimmer Muse Glimmer is now available on all platforms. Muse Glimmer can power coding agent applications such as Cl…"
+    },
+    {
+      "type": "story",
+      "id": "9f67eee328f3",
+      "slug": "what-building-an-ai-native-finance-function-taught-me",
+      "title": "What building an AI-native finance function taught me",
+      "category": "model",
+      "text": "What building an AI-native finance function taught me OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to str…"
+    },
+    {
+      "type": "story",
+      "id": "744b0ce55aa8",
+      "slug": "llama-cpp-releases-发布-b10357",
+      "title": "llama.cpp Releases 发布 b10357",
+      "category": "developer",
+      "text": "llama.cpp Releases 发布 b10357 opencl: transpose the K tile in local memory for FA prefill kernels ( #26428 ) Website: https://llama.app macOS/iOS: mac…"
+    },
+    {
+      "type": "story",
+      "id": "dce80891e6a7",
+      "slug": "evolve-your-marketing-with-new-ai-tools",
+      "title": "Evolve your marketing with new AI tools",
+      "category": "model",
+      "text": "Evolve your marketing with new AI tools Advisor UI in Google Ads and Google Analytics"
+    },
+    {
+      "type": "story",
+      "id": "b218dd8496b0",
+      "slug": "openai-s-letter-to-governor-abbott-on-responsible-ai-infrast",
+      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "category": "model",
+      "text": "OpenAI’s letter to Governor Abbott on responsible AI infrast… OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter…"
+    },
+    {
+      "type": "story",
+      "id": "1333d544dbbc",
+      "slug": "model-ml-completes-finance-work-more-efficiently-with-gpt-5-",
+      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "category": "model",
+      "text": "Model ML completes finance work more efficiently with GPT-5.… Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks …"
+    },
+    {
+      "type": "story",
+      "id": "8d6104beedff",
+      "slug": "llama-cpp-releases-发布-b10356",
+      "title": "llama.cpp Releases 发布 b10356",
+      "category": "developer",
+      "text": "llama.cpp Releases 发布 b10356 ci : target ROCm 7.14 for build and release ( #25775 ) Switch ROCm from 7.2.1 to 7.14 ROCm 7.14 is the first production …"
+    },
+    {
+      "type": "story",
+      "id": "ac3b9a7f8c00",
+      "slug": "expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "category": "model",
+      "text": "Expanding Daybreak as the Cyber Defense Window Narrows Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability re…"
+    },
+    {
+      "type": "story",
+      "id": "f02895a87c57",
+      "slug": "putting-frontier-cyber-models-in-more-trusted-hands",
+      "title": "Putting frontier cyber models in more trusted hands",
+      "category": "model",
+      "text": "Putting frontier cyber models in more trusted hands Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services…"
+    },
+    {
+      "type": "story",
+      "id": "292576446d19",
+      "slug": "llama-cpp-releases-发布-b10355",
+      "title": "llama.cpp Releases 发布 b10355",
+      "category": "developer",
+      "text": "llama.cpp Releases 发布 b10355 llama : support multi-output backend sampling ( #25532 ) Enable backend sampling with token speculation Clamp the mask s…"
+    },
+    {
+      "type": "story",
+      "id": "19b0806bf0c7",
+      "slug": "ollama-releases-发布-v0-32-8-rc0",
+      "title": "Ollama Releases 发布 v0.32.8-rc0",
+      "category": "developer",
+      "text": "Ollama Releases 发布 v0.32.8-rc0 llama.cpp update ( #17659 )"
+    },
+    {
+      "type": "story",
+      "id": "aa82782d9353",
+      "slug": "llama-cpp-releases-发布-b10354",
+      "title": "llama.cpp Releases 发布 b10354",
+      "category": "developer",
+      "text": "llama.cpp Releases 发布 b10354 ggml-cpu : fix CPU affinity mask being ignored on Android ( #26838 ) Website: https://llama.app macOS/iOS: macOS Apple S…"
+    },
+    {
+      "type": "story",
+      "id": "88d7bdc82d42",
+      "slug": "llama-cpp-releases-发布-b10353",
+      "title": "llama.cpp Releases 发布 b10353",
+      "category": "developer",
+      "text": "llama.cpp Releases 发布 b10353 ggml : require contiguous src for ROLL on CUDA and Metal ( #25928 ) ggml_roll only asserts nb[0] == ggml_type_size, so a…"
+    },
+    {
+      "type": "story",
+      "id": "48075dd509c9",
+      "slug": "premium-seats-are-coming-to-chatgpt-business",
+      "title": "Premium seats are coming to ChatGPT Business",
+      "category": "model",
+      "text": "Premium seats are coming to ChatGPT Business Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher us…"
+    },
+    {
+      "type": "story",
+      "id": "754ba70f1b19",
+      "slug": "how-zapier-transformed-core-marketing-processes-with-chatgpt",
+      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+      "category": "model",
+      "text": "How Zapier transformed core marketing processes with ChatGPT… The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build ca…"
+    },
+    {
+      "type": "story",
+      "id": "6610c76ac303",
+      "slug": "virgin-atlantic-sharpens-customer-journeys-with-chatgpt-work",
+      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "category": "model",
+      "text": "Virgin Atlantic sharpens customer journeys with ChatGPT Work Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect…"
+    },
+    {
+      "type": "story",
+      "id": "4ff21e1ab834",
+      "slug": "new-free-ebook-understanding-agentic-ai-an-executive-briefin",
+      "title": "New Free eBook: Understanding Agentic AI, an Executive Briefing",
+      "category": "developer",
+      "text": "New Free eBook: Understanding Agentic AI, an Executive Brief… Written for CEOs, CTOs, CIOs, and technology executives, our new free ebook \"Understanding Agentic AI: An Executive Brie…"
+    },
+    {
+      "type": "story",
+      "id": "43f03dfc6ff2",
+      "slug": "specification-engineering-the-new-skill-after-prompt-enginee",
+      "title": "Specification Engineering: The New Skill After Prompt Engineering",
+      "category": "developer",
+      "text": "Specification Engineering: The New Skill After Prompt Engine… Prompt engineering taught us how to ask better questions. Specification engineering teaches us how to define better work…"
+    },
+    {
+      "type": "story",
+      "id": "cc29ace05563",
+      "slug": "top-10-ai-influencers-of-2026",
+      "title": "Top 10 AI Influencers of 2026",
+      "category": "developer",
+      "text": "Top 10 AI Influencers of 2026 Ten AI influencers who are actually shaping 2026, from safe superintelligence to AI-native search. Here is who to follow…"
+    },
+    {
+      "type": "story",
+      "id": "cf5d08657244",
+      "slug": "langchain-releases-发布-langchain-openai-1-4-3",
+      "title": "LangChain Releases 发布 langchain-openai==1.4.3",
+      "category": "developer",
+      "text": "LangChain Releases 发布 langchain-openai==1.4.3 Changes since langchain-openai==1.4.2 release(openai): 1.4.3 ( #39485 ) fix(openai): filter invalid tool calls from cont…"
+    },
+    {
+      "type": "story",
+      "id": "ff01c61eb5bc",
+      "slug": "ollama-releases-发布-v0-32-7",
+      "title": "Ollama Releases 发布 v0.32.7",
+      "category": "developer",
+      "text": "Ollama Releases 发布 v0.32.7 Muse Glimmer Note: Muse Glimmer is currently available via initial support via Ollama's MLX engine on Apple Silicon. Add…"
+    },
+    {
+      "type": "story",
+      "id": "540ac46bdffb",
+      "slug": "transformers-releases-发布-release-v5-15-0",
+      "title": "Transformers Releases 发布 Release: v5.15.0",
+      "category": "developer",
+      "text": "Transformers Releases 发布 Release: v5.15.0 Release v5.15.0 New Model additions Meta Muse Glimmer Muse Glimmer, released today, is Meta’s new multimodal model, espe…"
+    },
+    {
+      "type": "story",
+      "id": "b8749aafeb4a",
+      "slug": "刚刚-manus恢复独立运营",
+      "title": "刚刚，Manus恢复独立运营",
+      "category": "industry",
+      "text": "刚刚，Manus恢复独立运营 Manus，完成复活赛了！"
+    },
+    {
+      "type": "story",
+      "id": "b9010f74a593",
+      "slug": "saber-denies-replacing-rideshare-stimulator-8217-s-writers-w",
+      "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+      "category": "industry",
+      "text": "Saber denies replacing Rideshare Stimulator&#8217;s writers … After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Un…"
+    },
+    {
+      "type": "story",
+      "id": "52c7db04df4a",
+      "slug": "how-the-censorship-industrial-complex-is-changing-the-intern",
+      "title": "How the “censorship-industrial complex” is changing the Internet and US policy",
+      "category": "research",
+      "text": "How the “censorship-industrial complex” is changing the Inte… I first heard the term “censorship-industrial complex” on April 15, 2025.&#160; That’s when I got the tip that a small o…"
+    },
+    {
+      "type": "story",
+      "id": "e84a6da6e3bf",
+      "slug": "accel-closes-oversubscribed-550m-india-fund-within-weeks-19-",
+      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "category": "industry",
+      "text": "Accel closes oversubscribed $550M India fund within weeks, 1… The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment."
+    },
+    {
+      "type": "story",
+      "id": "f0705b0d783f",
+      "slug": "why-software-factories-are-back-and-how-they-work-in-the-age",
+      "title": "Why software factories are back - and how they work in the age of AI",
+      "category": "industry",
+      "text": "Why software factories are back - and how they work in the a… Imagine submitting your vibe-coded app to a service that validates, tests, and then mass-produces it in a repeatable, au…"
+    },
+    {
+      "type": "story",
+      "id": "ef41fd377308",
+      "slug": "spacexai-s-grok-bot-turns-agents-into-persistent-digital-cow",
+      "title": "SpaceXAI's Grok Bot turns agents into persistent digital coworkers that can operate your apps for $120-per-month",
+      "category": "industry",
+      "text": "SpaceXAI's Grok Bot turns agents into persistent digital cow… SpaceXAI, the division of SpaceX f ormerly known as xAI , is launching an early beta version of Grok Bot , a new agent d…"
+    },
+    {
+      "type": "story",
+      "id": "7c0ddfa4f64b",
+      "slug": "how-to-create-flyers-with-ai-that-people-won-t-hate-8-tips-a",
+      "title": "How to create flyers with AI that people won't hate: 8 tips (and prompts) that really work",
+      "category": "industry",
+      "text": "How to create flyers with AI that people won't hate: 8 tips … Most AI flyers are still a mess, but the right prompts can make all the difference."
+    },
+    {
+      "type": "story",
+      "id": "b8486a2ce511",
+      "slug": "the-download-the-next-big-thing-in-llms-and-how-ai-academic-",
+      "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
+      "category": "research",
+      "text": "The Download: the next big thing in LLMs and how AI academic… This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o…"
+    },
+    {
+      "type": "story",
+      "id": "bee525361315",
+      "slug": "the-video-production-stack-now-fits-on-one-desk-ltx-2-5-laun",
+      "title": "The Video Production Stack Now Fits on One Desk: LTX-2.5 Launches as NVIDIA-Accelerated Open Weights World Model",
+      "category": "industry",
+      "text": "The Video Production Stack Now Fits on One Desk: LTX-2.5 Lau… LTX-2.5 brings frontier video generation to local NVIDIA hardware: 6.8-second clips, native multishot, day-one ComfyUI, …"
+    },
+    {
+      "type": "story",
+      "id": "508f58e5db94",
+      "slug": "openai-launches-chatgpt-desktop-app-for-linux",
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "category": "industry",
+      "text": "OpenAI launches ChatGPT desktop app for Linux OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems."
+    },
+    {
+      "type": "story",
+      "id": "781597286bca",
+      "slug": "another-openai-executive-takes-off",
+      "title": "Another OpenAI executive takes off",
+      "category": "industry",
+      "text": "Another OpenAI executive takes off Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year …"
+    },
+    {
+      "type": "story",
+      "id": "337e96e6fbd5",
+      "slug": "brad-lightcap-openai-s-longtime-coo-is-leaving-to-start-some",
+      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+      "category": "industry",
+      "text": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start s… One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"exc…"
+    },
+    {
+      "type": "story",
+      "id": "43d79a23436f",
+      "slug": "general-catalyst-leads-1-1b-round-into-2-month-old-river-ai",
+      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "category": "industry",
+      "text": "General Catalyst leads $1.1B round into 2-month-old River AI River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured …"
+    },
+    {
+      "type": "story",
+      "id": "533693bf4ad8",
+      "slug": "made-by-google-2026-all-the-pixel-news-and-announcements",
+      "title": "Made by Google 2026: all the Pixel news and announcements",
+      "category": "industry",
+      "text": "Made by Google 2026: all the Pixel news and announcements Google is gearing up to reveal a bunch of new Pixel devices on August 12th. A series of leaks leading up to the event su…"
+    },
+    {
+      "type": "story",
+      "id": "f33dcffafb90",
+      "slug": "a-developer-got-word-1-1a-from-1990-to-run-on-windows-11-try",
+      "title": "A developer got Word 1.1a from 1990 to run on Windows 11 - try it yourself",
+      "category": "industry",
+      "text": "A developer got Word 1.1a from 1990 to run on Windows 11 - t… Longing for a plain, old-fashioned version of Microsoft Word without all the bells, whistles, and AI slop? One developer…"
+    },
+    {
+      "type": "story",
+      "id": "3c1c38a91aff",
+      "slug": "an-unreleased-anthropic-model-made-progress-on-one-of-math-s",
+      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+      "category": "industry",
+      "text": "An unreleased Anthropic model made progress on one of math’s… For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropi…"
+    },
+    {
+      "type": "story",
+      "id": "a0db4621ef74",
+      "slug": "apple-could-help-you-prove-your-iphone-photos-aren-t-deepfak",
+      "title": "Apple could help you prove your iPhone photos aren’t deepfakes",
+      "category": "industry",
+      "text": "Apple could help you prove your iPhone photos aren’t deepfak… Apple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera. 9to5Mac…"
+    },
+    {
+      "type": "story",
+      "id": "7a79e78d33cd",
+      "slug": "building-and-validating-a-quantitative-trading-strategy-with",
+      "title": "Building and Validating a Quantitative Trading Strategy with OctoBot, Walk-Forward Backtesting, Parameter Optimization, and Interactive Analysis",
+      "category": "industry",
+      "text": "Building and Validating a Quantitative Trading Strategy with… In this tutorial, we build a complete quantitative backtesting workflow with OctoBot and OctoBot-Script while keeping th…"
+    },
+    {
+      "type": "story",
+      "id": "33245630b53c",
+      "slug": "why-ai-driven-purchase-intent-so-rarely-becomes-a-completed-",
+      "title": "Why AI-driven purchase intent so rarely becomes a completed sale",
+      "category": "industry",
+      "text": "Why AI-driven purchase intent so rarely becomes a completed … Presented by Rezolve Ai When an AI assistant recommends a product or brand, it generates something valuable: a purchase-…"
+    },
+    {
+      "type": "story",
+      "id": "09a2eaf7d2ba",
+      "slug": "zoomsday-hack-uncovered-using-fewer-than-20-ai-prompts",
+      "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+      "category": "industry",
+      "text": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting.…"
+    },
+    {
+      "type": "story",
+      "id": "858b719c7035",
+      "slug": "mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-",
+      "title": "Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.",
+      "category": "industry",
+      "text": "Mistral AI wants to build 1 gigawatt of European compute by … Mistral AI wants to turn European AI sovereignty from a talking point into a product — one with a service-level agreemen…"
+    },
+    {
+      "type": "story",
+      "id": "d1a0b9811fa0",
+      "slug": "蚂蚁首次投向机器人-指尖-数亿元押注-全球首个物理交互脑发布",
+      "title": "蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布",
+      "category": "industry",
+      "text": "蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布 资本正从具身本体集体涌向触觉"
+    },
+    {
+      "type": "story",
+      "id": "f5dbcb37e5a4",
+      "slug": "linux-desktop-use-surged-to-22-on-one-workday-cloudflare-dat",
+      "title": "Linux desktop use surged to 22% on one workday, Cloudflare data shows",
+      "category": "industry",
+      "text": "Linux desktop use surged to 22% on one workday, Cloudflare d… The Linux desktop's popularity is growing fast, and there are a few reasons why."
+    },
+    {
+      "type": "story",
+      "id": "329006170a42",
+      "slug": "why-your-amazon-order-confirmation-emails-have-become-so-unh",
+      "title": "Why your Amazon order confirmation emails have become so unhelpful",
+      "category": "industry",
+      "text": "Why your Amazon order confirmation emails have become so unh… Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order con…"
+    },
+    {
+      "type": "story",
+      "id": "23886569665f",
+      "slug": "i-tried-opera-s-new-vertical-tabs-and-it-might-be-the-best-i",
+      "title": "I tried Opera's new vertical tabs - and it might be the best implementation yet",
+      "category": "industry",
+      "text": "I tried Opera's new vertical tabs - and it might be the best… If the lack of vertical tabs has kept you from adopting the Opera browser, you might want to take another look."
+    },
+    {
+      "type": "story",
+      "id": "646b87a97a9a",
+      "slug": "spotify-says-it-won-8217-t-recommend-music-from-8216-ai-pers",
+      "title": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
+      "category": "industry",
+      "text": "Spotify says it won&#8217;t recommend music from &#8216;AI P… Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rollin…"
+    },
+    {
+      "type": "story",
+      "id": "ae7fd63f53a9",
+      "slug": "spotify-will-label-ai-persona-profiles-and-exclude-their-mus",
+      "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
+      "category": "industry",
+      "text": "Spotify will label ‘AI Persona’ profiles and exclude their m… Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude t…"
+    },
+    {
+      "type": "story",
+      "id": "b6f9789c0935",
+      "slug": "nvidia-s-open-nemotron-3-5-lightning-model-is-all-about-spec",
+      "title": "Nvidia's open Nemotron 3.5 Lightning model is all about specialized, local agentic AI",
+      "category": "industry",
+      "text": "Nvidia's open Nemotron 3.5 Lightning model is all about spec… Our AI Model Release Tracker keeps new models in context with their peers, so you know which are worth your time."
+    },
+    {
+      "type": "story",
+      "id": "c0f59c1a90ab",
+      "slug": "ltx-2-5-can-generate-a-10-second-ai-video-from-an-image-in-j",
+      "title": "LTX-2.5 can generate a 10-second AI video from an image in just 6.8 seconds on Nvidia superchips — and it's open weights",
+      "category": "industry",
+      "text": "LTX-2.5 can generate a 10-second AI video from an image in j… LTX , the open world model company spun out of Lightricks, today released LTX-2.5, the newest version of its open-weight…"
+    },
+    {
+      "type": "story",
+      "id": "c76bf154eb8a",
+      "slug": "nvidia-s-switchyard-router-reshuffles-ai-models-mid-task-cut",
+      "title": "Nvidia's Switchyard router reshuffles AI models mid-task, cutting task costs to a third in its own tests",
+      "category": "industry",
+      "text": "Nvidia's Switchyard router reshuffles AI models mid-task, cu… Enterprises running always-on AI agents keep hitting the same tradeoff. Send every task to a frontier model and the bill…"
+    },
+    {
+      "type": "story",
+      "id": "8bea2c33f0bf",
+      "slug": "your-ai-agent-may-be-ready-your-sales-motion-probably-isn-t",
+      "title": "Your AI agent may be ready. Your sales motion probably isn’t.",
+      "category": "industry",
+      "text": "Your AI agent may be ready. Your sales motion probably isn’t… Presented by Salesforce Interested buyers don&#x27;t generate revenue. Live customers do. That&#x27;s the lesson I keep …"
+    },
+    {
+      "type": "story",
+      "id": "32bcafb47c7c",
+      "slug": "this-50-power-bank-is-safer-than-my-lithium-ion-battery-and-",
+      "title": "This $50 power bank is safer than my lithium-ion battery - and it's coming on my next flight",
+      "category": "industry",
+      "text": "This $50 power bank is safer than my lithium-ion battery - a… Lithium-ion power banks keep catching fire. Is semi-solid-state the safer solution?"
+    },
+    {
+      "type": "story",
+      "id": "80e3414679b6",
+      "slug": "a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices",
+      "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
+      "category": "industry",
+      "text": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices… Researchers say it took fewer than 20 prompts for a public AI tool to find a flaw (now fixed) allowing anyone on a Zoom …"
+    },
+    {
+      "type": "story",
+      "id": "70f09cec8965",
+      "slug": "claude-will-apply-invisible-watermarks-to-ai-text-and-images",
+      "title": "Claude will apply invisible watermarks to AI text and images",
+      "category": "industry",
+      "text": "Claude will apply invisible watermarks to AI text and images Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comp…"
+    },
+    {
+      "type": "story",
+      "id": "8b2125761abc",
+      "slug": "anthropic-says-it-will-watermark-text-generated-by-its-ai-mo",
+      "title": "Anthropic says it will watermark text generated by its AI models",
+      "category": "industry",
+      "text": "Anthropic says it will watermark text generated by its AI mo… Anthropic will extend support for watermarking AI generations for older models as well."
+    },
+    {
+      "type": "story",
+      "id": "aaab4ee5df3e",
+      "slug": "ai-professors-are-negotiating-the-new-realities-of-academic-",
+      "title": "AI professors are negotiating the new realities of academic research",
+      "category": "research",
+      "text": "AI professors are negotiating the new realities of academic … This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox fir…"
+    },
+    {
+      "type": "story",
+      "id": "87644143f270",
+      "slug": "一家新能源大厂-如何撑起全球最大ai算力超级单体",
+      "title": "一家新能源大厂，如何撑起全球最大AI算力超级单体？",
+      "category": "industry",
+      "text": "一家新能源大厂，如何撑起全球最大AI算力超级单体？ 算力竞赛的天平，正在向电力倾斜"
+    },
+    {
+      "type": "story",
+      "id": "a9c67715bc41",
+      "slug": "the-ai-takeover-of-mathematics-has-begun",
+      "title": "The AI takeover of mathematics has begun",
+      "category": "industry",
+      "text": "The AI takeover of mathematics has begun Mathematician James Maynard has spent a lot of time this past year \"soul searching.\" A professor at the University of Ox…"
+    },
+    {
+      "type": "story",
+      "id": "1a8576430cd9",
+      "slug": "a-new-trick-reveals-ai-models-inner-thoughts",
+      "title": "A New Trick Reveals AI Models’ Inner Thoughts",
+      "category": "industry",
+      "text": "A New Trick Reveals AI Models’ Inner Thoughts Researchers devised a way to extract “reasoning traces” from Claude, GPT, and Gemini. What they found, they say, indicat…"
+    },
+    {
+      "type": "story",
+      "id": "fadd31001116",
+      "slug": "ai-is-dead-organoids-are-alive",
+      "title": "AI Is Dead. Organoids Are Alive",
+      "category": "industry",
+      "text": "AI Is Dead. Organoids Are Alive Mini human brains are being grown in labs all over the world. Soon, they could outthink neural networks."
+    },
+    {
+      "type": "story",
+      "id": "d2cba0bc4cb4",
+      "slug": "best-robot-mowers-of-2026-expert-tested",
+      "title": "Best robot mowers of 2026: Expert tested",
+      "category": "industry",
+      "text": "Best robot mowers of 2026: Expert tested I went hands-on with the best robot mowers that can cut your lawn regularly, so you can kick back and relax this summer."
+    },
+    {
+      "type": "story",
+      "id": "fdfe6fef83e2",
+      "slug": "7-simple-gadgets-that-can-make-your-home-smarter-for-under-1",
+      "title": "7 simple gadgets that can make your home smarter for under $100",
+      "category": "industry",
+      "text": "7 simple gadgets that can make your home smarter for under $… You don't have to spend lots of money to make your home smarter. Here are the best affordable gadgets to upgrade your sp…"
+    },
+    {
+      "type": "story",
+      "id": "7992700a0248",
+      "slug": "谷歌创始人布林紧急接管gemini团队-但-3-5-pro已被取消",
+      "title": "谷歌创始人布林紧急接管Gemini团队，但“3.5 Pro已被取消”",
+      "category": "industry",
+      "text": "谷歌创始人布林紧急接管Gemini团队，但“3.5 Pro已被取消” 谷歌算力分配内耗严重"
+    },
+    {
+      "type": "story",
+      "id": "c68c1a80c1b5",
+      "slug": "ai-is-helping-solve-the-intricate-genetic-puzzle-of-schizoph",
+      "title": "AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia",
+      "category": "industry",
+      "text": "AI Is Helping Solve the Intricate Genetic Puzzle of Schizoph… Recent findings provide one of the most detailed pictures to date of the genetic architecture of schizophrenia, opening …"
+    },
+    {
+      "type": "story",
+      "id": "e6c65ddf9475",
+      "slug": "the-download-ai-agents-for-science-and-the-censorship-indust",
+      "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
+      "category": "research",
+      "text": "The Download: AI agents for science, and the “censorship-ind… This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o…"
+    },
+    {
+      "type": "story",
+      "id": "ac48b1529659",
+      "slug": "ai-for-science-needs-reasoning-not-just-data",
+      "title": "AI for science needs reasoning, not just data",
+      "category": "research",
+      "text": "AI for science needs reasoning, not just data Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson w…"
+    },
+    {
+      "type": "story",
+      "id": "63ba34e4dbf3",
+      "slug": "these-startups-are-chasing-the-next-big-thing-in-llms",
+      "title": "These startups are chasing the next big thing in LLMs",
+      "category": "research",
+      "text": "These startups are chasing the next big thing in LLMs MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at…"
+    },
+    {
+      "type": "story",
+      "id": "b6091880118d",
+      "slug": "webai-releases-twil-lm-a-1-7b-and-3b-formal-logic-model-fami",
+      "title": "webAI Releases TwIL-LM: A 1.7B and 3B Formal-Logic Model Family for Autoformalization on Local Hardware",
+      "category": "industry",
+      "text": "webAI Releases TwIL-LM: A 1.7B and 3B Formal-Logic Model Fam… webAI has released TwIL-LM, a family of formal-logic models at 1.7B and 3B parameters that translate English into first-…"
+    },
+    {
+      "type": "story",
+      "id": "6a915450720f",
+      "slug": "implementing-a-minimax-h3-multimodal-video-and-audio-generat",
+      "title": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+      "category": "industry",
+      "text": "Implementing a MiniMax-H3 Multimodal Video and Audio Generat… In this comprehensive guide, we demonstrate how to implement a complete, programmable MiniMax-H3 multimodal generation p…"
+    },
+    {
+      "type": "story",
+      "id": "8287cf709b1c",
+      "slug": "百年黎曼猜想被claude破了新纪录-是个未公开新模型",
+      "title": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
+      "category": "industry",
+      "text": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型 把下界推高了一大截"
+    },
+    {
+      "type": "story",
+      "id": "693db53af32f",
+      "slug": "宇树会破发吗-王兴兴回应了",
+      "title": "宇树会破发吗？王兴兴回应了",
+      "category": "industry",
+      "text": "宇树会破发吗？王兴兴回应了 200问回应一切"
+    },
+    {
+      "type": "story",
+      "id": "ddda3991f0e1",
+      "slug": "gpu开始金融化-黄仁勋拉上华尔街搞5000亿美元融资",
+      "title": "GPU开始金融化！黄仁勋拉上华尔街搞5000亿美元融资",
+      "category": "industry",
+      "text": "GPU开始金融化！黄仁勋拉上华尔街搞5000亿美元融资 真就把GPU当理财产品了～"
+    },
+    {
+      "type": "story",
+      "id": "0bc7e6ded481",
+      "slug": "claude骂声中启动-隐形水印-新模型全量嵌入-标记所有文字",
+      "title": "Claude骂声中启动「隐形水印」：新模型全量嵌入，标记所有文字",
+      "category": "industry",
+      "text": "Claude骂声中启动「隐形水印」：新模型全量嵌入，标记所有文字 大水印时代来了"
+    },
+    {
+      "type": "story",
+      "id": "43efbdb23126",
+      "slug": "机器人赛道新岗位-月入6000元的-骨科大夫-专治缺胳膊断腿",
+      "title": "机器人赛道新岗位：月入6000元的“骨科大夫”，专治缺胳膊断腿",
+      "category": "industry",
+      "text": "机器人赛道新岗位：月入6000元的“骨科大夫”，专治缺胳膊断腿 来源已发布相关信息，需关注后续进展。"
+    },
+    {
+      "type": "story",
+      "id": "54c25a402b7f",
+      "slug": "当ai开始-自作主张-谁来为智能体戴上-项圈-全球ai安全实战化大考-中国方案打入前三",
+      "title": "当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三",
+      "category": "industry",
+      "text": "当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三 全球AI安全实战化测评，中国方案DoGNAVY位列前三"
+    },
+    {
+      "type": "story",
+      "id": "317fa13c4bd4",
+      "slug": "openai-reportedly-completed-a-7-billion-employee-tender-offe",
+      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+      "category": "industry",
+      "text": "OpenAI reportedly completed a $7 billion employee tender off… San Francisco's housing market is in trouble again."
+    },
+    {
+      "type": "story",
+      "id": "b6b328d2ffb7",
+      "slug": "as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model",
+      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "category": "industry",
+      "text": "As AI-led attacks multiply, OpenAI launches a new cyber mode… OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it."
+    },
+    {
+      "type": "story",
+      "id": "b620eb6066ed",
+      "slug": "openai-launches-gpt-5-6-cyber-with-reduced-refusals-95-compl",
+      "title": "OpenAI launches GPT-5.6-Cyber with reduced refusals, 95% completion on advanced cybersecurity tasks",
+      "category": "industry",
+      "text": "OpenAI launches GPT-5.6-Cyber with reduced refusals, 95% com… Earlier today, OpenAI launched GPT-5.6-Cyber , a specialized model designed to perform advanced vulnerability research a…"
+    },
+    {
+      "type": "story",
+      "id": "ff4e121d347f",
+      "slug": "i-tried-google-wallet-s-new-allowance-feature-and-my-kid-alr",
+      "title": "I tried Google Wallet's new allowance feature, and my kid already ditched their debit card",
+      "category": "industry",
+      "text": "I tried Google Wallet's new allowance feature, and my kid al… The new feature lets you send money to your children without them needing a card or separate account."
+    },
+    {
+      "type": "story",
+      "id": "58ca417ac883",
+      "slug": "mark-zuckerberg-s-ai-manifesto-is-exactly-why-people-don-t-l",
+      "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+      "category": "industry",
+      "text": "Mark Zuckerberg’s AI manifesto is exactly why people don’t l… On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"…"
+    },
+    {
+      "type": "story",
+      "id": "0b859419bb45",
+      "slug": "tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-",
+      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "category": "industry",
+      "text": "Tech industry is buzzing after a Claude agent hacked into a … An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tec…"
+    },
+    {
+      "type": "story",
+      "id": "feb4d3841f80",
+      "slug": "this-pocket-sized-gadget-helped-cut-down-our-editor-s-screen",
+      "title": "This pocket-sized gadget helped cut down our editor's screen time - and it's on sale",
+      "category": "industry",
+      "text": "This pocket-sized gadget helped cut down our editor's screen… Brick can curb your screen time, and it's on sale for a limited time."
+    },
+    {
+      "type": "story",
+      "id": "3d2b1ef1df4e",
+      "slug": "why-recovery-readiness-has-become-the-new-standard-for-cyber",
+      "title": "Why recovery readiness has become the new standard for cyber resilience",
+      "category": "industry",
+      "text": "Why recovery readiness has become the new standard for cyber… As outages become more expensive and frequent, recovery readiness is emerging as the true measure of resilience."
+    },
+    {
+      "type": "story",
+      "id": "d29205a044ea",
+      "slug": "meta-s-new-glimmer-ai-model-offers-a-hint-at-zuckerberg-s-pe",
+      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+      "category": "industry",
+      "text": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s pe… Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as we…"
+    },
+    {
+      "type": "story",
+      "id": "28b95f4fdb63",
+      "slug": "why-managers-are-ransomware-s-top-targets-now-and-6-ways-to-",
+      "title": "Why managers are ransomware's top targets now - and 6 ways to stay safe",
+      "category": "industry",
+      "text": "Why managers are ransomware's top targets now - and 6 ways t… Almost two-thirds of the victims targeted in a single ransomware campaign held managerial positions or higher."
+    },
+    {
+      "type": "story",
+      "id": "1e3ca56a172a",
+      "slug": "this-blazing-fast-super-private-browser-delivers-a-brand-new",
+      "title": "This blazing-fast, super-private browser delivers a brand new beta - try it for free",
+      "category": "industry",
+      "text": "This blazing-fast, super-private browser delivers a brand ne… The zero-telemetry Orion browser finally makes its way to Linux as a beta release. It's also available for MacOS, iOS, a…"
+    },
+    {
+      "type": "story",
+      "id": "9be0db280830",
+      "slug": "meta-ai-releases-muse-glimmer-a-30b-open-weights-agentic-mod",
+      "title": "Meta AI Releases Muse Glimmer: A 30B Open-Weights Agentic Model That Runs on One Consumer GPU",
+      "category": "industry",
+      "text": "Meta AI Releases Muse Glimmer: A 30B Open-Weights Agentic Mo… Meta's Muse Glimmer is a 30B open-weights agentic model under Apache 2.0. It fits 24 GB VRAM and decodes 3.1x faster wit…"
+    },
+    {
+      "type": "story",
+      "id": "aa997075d91d",
+      "slug": "i-tried-a-solar-powered-airtag-alternative-that-lasts-2-year",
+      "title": "I tried a solar-powered AirTag alternative that lasts 2 years - and looks like my Apple Watch",
+      "category": "industry",
+      "text": "I tried a solar-powered AirTag alternative that lasts 2 year… This finder tag has excellent range, and it's built for the outdoors."
+    },
+    {
+      "type": "story",
+      "id": "9229bd5b491d",
+      "slug": "this-mac-dock-gives-me-lag-free-dual-displays-with-no-sketch",
+      "title": "This Mac dock gives me lag-free dual displays with no sketchy drivers - for $150",
+      "category": "industry",
+      "text": "This Mac dock gives me lag-free dual displays with no sketch… I finally get full support for two displays - without paying Thunderbolt prices. But there is a catch."
+    },
+    {
+      "type": "story",
+      "id": "fa7fb9f785fe",
+      "slug": "we-lab-tested-ecovac-s-next-gen-robot-mop-here-s-where-it-sh",
+      "title": "We lab-tested Ecovac's next-gen robot mop - here's where it shines (and struggles)",
+      "category": "industry",
+      "text": "We lab-tested Ecovac's next-gen robot mop - here's where it … The Ecovacs Deebot X12 OmniCyclone is not just a mouthful; it's a market leader in features and intelligence."
+    },
+    {
+      "type": "story",
+      "id": "92c991e2b213",
+      "slug": "claude-s-record-a-skill-cut-my-research-from-hours-to-30-min",
+      "title": "Claude's Record-a-Skill cut my research from hours to 30 minutes - but the magic has limits",
+      "category": "industry",
+      "text": "Claude's Record-a-Skill cut my research from hours to 30 min… I used Claude Cowork to automate a workflow, and the result was remarkably effective, but it exposed four drawbacks."
+    },
+    {
+      "type": "story",
+      "id": "59c051f19127",
+      "slug": "discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cool",
+      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "category": "industry",
+      "text": "Discovered Materials is playing AI whack-a-mole to hunt cool… Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips."
+    },
+    {
+      "type": "story",
+      "id": "c529551a2c66",
+      "slug": "the-ai-slop-backlash-is-actually-having-an-impact",
+      "title": "The AI Slop Backlash Is Actually Having an Impact",
+      "category": "industry",
+      "text": "The AI Slop Backlash Is Actually Having an Impact Platforms are finally recognizing that people don’t want to consume AI slop. A growing number of sites and apps now have…"
+    },
+    {
+      "type": "story",
+      "id": "2061a6d4883c",
+      "slug": "the-rise-of-the-1-am-job-interview",
+      "title": "The Rise of the 1 am Job Interview",
+      "category": "industry",
+      "text": "The Rise of the 1 am Job Interview An AI interview is increasingly the first step of a hiring process. Since there’s no human on the other end, candidates …"
+    },
+    {
+      "type": "story",
+      "id": "1eeb85f1f814",
+      "slug": "bytedance-seed-introduces-seedrealtime-a-native-audio-visual",
+      "title": "ByteDance Seed Introduces SeedRealtime: a Native Audio-Visual Full-Duplex LLM That Watches, Listens and Speaks in One Model",
+      "category": "industry",
+      "text": "ByteDance Seed Introduces SeedRealtime: a Native Audio-Visua… ByteDance&#8217;s Seed team has introduced SeedRealtime, a native audio-visual full-duplex LLM. The model fuses audio, v…"
+    },
+    {
+      "type": "story",
+      "id": "947ead482594",
+      "slug": "nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-dupl",
+      "title": "NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+      "category": "industry",
+      "text": "NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Dup… NVIDIA releases NemotronLabs VoiceChat 11B, an open full-duplex speech-to-speech model with 448 ms latency and live tool…"
+    },
+    {
+      "type": "story",
+      "id": "2e7817f510df",
+      "slug": "embattled-hedge-fund-situational-awareness-invests-400m-in-c",
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "category": "industry",
+      "text": "Embattled hedge fund Situational Awareness invests $400M in … The AI-focused hedge fund is still making some big bets."
+    },
+    {
+      "type": "story",
+      "id": "979a92cae9e5",
+      "slug": "anthropic-is-turning-claude-code-s-auto-mode-on-by-default",
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "category": "industry",
+      "text": "Anthropic is turning Claude Code’s auto mode on by default Programming with Claude Code will soon require even less human oversight."
+    },
+    {
+      "type": "story",
+      "id": "1f86606b38c7",
+      "slug": "top-llm-observability-and-evaluation-platforms-in-2026-langf",
+      "title": "Top LLM Observability and Evaluation Platforms in 2026: Langfuse, LangSmith, Braintrust, Arize, and More Compared",
+      "category": "industry",
+      "text": "Top LLM Observability and Evaluation Platforms in 2026: Lang… A verified 2026 comparison of LLM observability platforms covering tracing depth, evaluation capability, production moni…"
+    },
+    {
+      "type": "story",
+      "id": "9652ecd7fff4",
+      "slug": "historian-jill-lepore-says-silicon-valley-misreads-science-f",
+      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+      "category": "industry",
+      "text": "Historian Jill Lepore says Silicon Valley misreads science f… On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad scien…"
+    },
+    {
+      "type": "story",
+      "id": "1e752c906a60",
+      "slug": "the-ai-safety-test-is-becoming-a-safety-risk",
+      "title": "The AI safety test is becoming a safety risk",
+      "category": "industry",
+      "text": "The AI safety test is becoming a safety risk AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about wheth…"
+    },
+    {
+      "type": "story",
+      "id": "bb81bb29f3ee",
+      "slug": "meetily-lets-you-transcribe-and-summarize-meetings-without-a",
+      "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
+      "category": "industry",
+      "text": "Meetily Lets You Transcribe and Summarize Meetings Without a… There are endless ways to record and transcribe your virtual meetings with AI. Here’s an option that’s free and open sou…"
+    },
+    {
+      "type": "story",
+      "id": "37192bd4e3dc",
+      "slug": "made-by-google-2026-how-to-watch-and-what-to-expect-from-the",
+      "title": "Made by Google 2026: How to watch and what to expect from the Pixel 11 event",
+      "category": "industry",
+      "text": "Made by Google 2026: How to watch and what to expect from th… Google is set to announce its Pixel 11 series phones - here's what we know."
+    },
+    {
+      "type": "story",
+      "id": "ecde44eec84b",
+      "slug": "these-ai-barons-are-ready-to-give-away-their-fortunes",
+      "title": "These AI Barons Are Ready to Give Away Their Fortunes",
+      "category": "industry",
+      "text": "These AI Barons Are Ready to Give Away Their Fortunes A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. W…"
+    },
+    {
+      "type": "story",
+      "id": "eca52c7d3bcd",
+      "slug": "imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baseline",
+      "title": "IMDb Sentiment Analysis with DistilBERT LoRA, TF-IDF Baselines, Calibration, Interpretability, Robustness Testing, and Semi-Supervised Learning",
+      "category": "industry",
+      "text": "IMDb Sentiment Analysis with DistilBERT LoRA, TF-IDF Baselin… This tutorial provides a comprehensive guide to building a robust sentiment analysis workflow. By combining classical TF…"
+    },
+    {
+      "type": "item",
+      "id": "964e727b05a9e4f8",
+      "title": "Testing ads in ChatGPT",
+      "sourceId": "openai_blog",
+      "text": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
+    },
+    {
+      "type": "item",
+      "id": "886ec63d7bb2fbe0",
+      "title": "Daybreak models are now available on AWS",
+      "sourceId": "openai_blog",
+      "text": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows."
+    },
+    {
+      "type": "item",
+      "id": "c7fd0b7601399c48",
+      "title": "What building an AI-native finance function taught me",
+      "sourceId": "openai_blog",
+      "text": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI."
+    },
+    {
+      "type": "item",
+      "id": "02a2f702fa019f7b",
+      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "sourceId": "openai_blog",
+      "text": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans."
+    },
+    {
+      "type": "item",
+      "id": "71c931b0f1098f60",
+      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "sourceId": "openai_blog",
+      "text": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks."
+    },
+    {
+      "type": "item",
+      "id": "ed5b9708368d34b9",
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "sourceId": "openai_blog",
+      "text": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing."
+    },
+    {
+      "type": "item",
+      "id": "ef7cc2bcc4ecc686",
+      "title": "Putting frontier cyber models in more trusted hands",
+      "sourceId": "openai_blog",
+      "text": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers."
+    },
+    {
+      "type": "item",
+      "id": "aa379158bfe0e698",
+      "title": "Premium seats are coming to ChatGPT Business",
+      "sourceId": "openai_blog",
+      "text": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work."
+    },
+    {
+      "type": "item",
+      "id": "ea39fb1a680ea07a",
+      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+      "sourceId": "openai_blog",
+      "text": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting."
+    },
+    {
+      "type": "item",
+      "id": "b7f803fa6e97e6ff",
+      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "sourceId": "openai_blog",
+      "text": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey."
+    },
+    {
+      "type": "item",
+      "id": "f603f32464799b24",
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "sourceId": "google_ai",
+      "text": "AMIE promotional video"
+    },
+    {
+      "type": "item",
+      "id": "2d00903c806d0a56",
+      "title": "Evolve your marketing with new AI tools",
+      "sourceId": "google_ai",
+      "text": "Advisor UI in Google Ads and Google Analytics"
+    },
+    {
+      "type": "item",
+      "id": "9824c4f02b8c49d6",
+      "title": "刚刚，Manus恢复独立运营",
+      "sourceId": "qbitai",
+      "text": "Manus，完成复活赛了！"
+    },
+    {
+      "type": "item",
+      "id": "4bcafa515f5c4f58",
+      "title": "蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布",
+      "sourceId": "qbitai",
+      "text": "资本正从具身本体集体涌向触觉"
+    },
+    {
+      "type": "item",
+      "id": "72c7a76e20a63502",
+      "title": "一家新能源大厂，如何撑起全球最大AI算力超级单体？",
+      "sourceId": "qbitai",
+      "text": "算力竞赛的天平，正在向电力倾斜"
+    },
+    {
+      "type": "item",
+      "id": "5402a700aeea4df1",
+      "title": "谷歌创始人布林紧急接管Gemini团队，但“3.5 Pro已被取消”",
+      "sourceId": "qbitai",
+      "text": "谷歌算力分配内耗严重"
+    },
+    {
+      "type": "item",
+      "id": "298461c54442b849",
+      "title": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
+      "sourceId": "qbitai",
+      "text": "把下界推高了一大截"
+    },
+    {
+      "type": "item",
+      "id": "00a5775c70f7cb87",
+      "title": "宇树会破发吗？王兴兴回应了",
+      "sourceId": "qbitai",
+      "text": "200问回应一切"
+    },
+    {
+      "type": "item",
+      "id": "38259aef13dd2bca",
+      "title": "GPU开始金融化！黄仁勋拉上华尔街搞5000亿美元融资",
+      "sourceId": "qbitai",
+      "text": "真就把GPU当理财产品了～"
+    },
+    {
+      "type": "item",
+      "id": "ff018de68103592c",
+      "title": "Claude骂声中启动「隐形水印」：新模型全量嵌入，标记所有文字",
+      "sourceId": "qbitai",
+      "text": "大水印时代来了"
+    },
+    {
+      "type": "item",
+      "id": "392be56448bdf555",
+      "title": "机器人赛道新岗位：月入6000元的“骨科大夫”，专治缺胳膊断腿",
+      "sourceId": "qbitai",
+      "text": ""
+    },
+    {
+      "type": "item",
+      "id": "1a4545d3955668f6",
+      "title": "当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三",
+      "sourceId": "qbitai",
+      "text": "全球AI安全实战化测评，中国方案DoGNAVY位列前三"
+    },
+    {
+      "type": "item",
+      "id": "867d015fa4901d32",
+      "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+      "sourceId": "theverge_ai",
+      "text": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, developed by Unigine. The writer, Stella Sacco, says differently, however, posting on Bluesky that \"I was lead writer on this one! [&#8230;]"
+    },
+    {
+      "type": "item",
+      "id": "c725b62d5d61c59f",
+      "title": "ChatGPT and Gemini both just passed 1 billion users",
+      "sourceId": "theverge_ai",
+      "text": "For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing product ever. A billion users is a huge milestone, but Google isn't the first AI app to hit it. OpenAI's ChatGPT [&#8230;]"
+    },
+    {
+      "type": "item",
+      "id": "390ec21a38e5889c",
+      "title": "Another OpenAI executive takes off",
+      "sourceId": "theverge_ai",
+      "text": "Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab. In an internal memo he later posted to X, Lightcap told colleagues he'd be starting \"something new.\" \"Over the last few months, I've been focused on the next horizon and what would stand [&#8230;]"
+    },
+    {
+      "type": "item",
+      "id": "7068066a6e776dc0",
+      "title": "Made by Google 2026: all the Pixel news and announcements",
+      "sourceId": "theverge_ai",
+      "text": "Google is gearing up to reveal a bunch of new Pixel devices on August 12th. A series of leaks leading up to the event suggest that the Pixel 11 lineup will come in an array of colors, with signs pointing to a built-in light coming to Pro models. Teasers from Google also indicate that it [&#8230;]"
+    },
+    {
+      "type": "item",
+      "id": "3145afb78cee630c",
+      "title": "Apple could help you prove your iPhone photos aren’t deepfakes",
+      "sourceId": "theverge_ai",
+      "text": "Apple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera. 9to5Mac reports that the iOS 27 beta 5 includes code references for an \"Apple Reference Image\" system that can embed provenance metadata into iPhone photographs at the point of capture - enabling users to prove where [&#8230;]"
+    },
+    {
+      "type": "item",
+      "id": "d339b355e718903e",
+      "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+      "sourceId": "theverge_ai",
+      "text": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say they uncovered the flaw using \"fewer than 20 prompts on publicly available AI models,\" as reported earlier by Wired. The exploit involved Zoom's annotation feature, [&#8230;]"
+    },
+    {
+      "type": "item",
+      "id": "36e1d0b318f3ba21",
+      "title": "Why your Amazon order confirmation emails have become so unhelpful",
+      "sourceId": "theverge_ai",
+      "text": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only item categories. \"Your Beauty item is confirmed!\" an email about my retainer cleaning tablets read. Shoppers have posted other iterations of the redacted emails as well: \"Ordered: [&#8230;]"
+    },
+    {
+      "type": "item",
+      "id": "0979505e550430b8",
+      "title": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
+      "sourceId": "theverge_ai",
+      "text": "Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-September, means you'll see an \"AI Persona\" badge on an artist's profile across the app if they do \"not represent a real person.\" The music streaming platform will allow artists to disclose that they're [&#8230;]"
+    },
+    {
+      "type": "item",
+      "id": "73afb5f875c1aea5",
+      "title": "Claude will apply invisible watermarks to AI text and images",
+      "sourceId": "theverge_ai",
+      "text": "Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency. \"Generated text will carry embedded watermarks, and generated files will include digitally signed provenance metadata where supported,\" Anthropic says on a new Claude support page. The changes are invisible to human [&#8230;]"
+    },
+    {
+      "type": "item",
+      "id": "4f51d3852e15559d",
+      "title": "The AI takeover of mathematics has begun",
+      "sourceId": "theverge_ai",
+      "text": "Mathematician James Maynard has spent a lot of time this past year \"soul searching.\" A professor at the University of Oxford and winner of the prestigious Fields Medal, Maynard told The Verge he's been grappling with the future of his field as the traditionally slow-moving discipline hurries to adapt to AI. Days before we spoke, [&#8230;]"
+    },
+    {
+      "type": "item",
+      "id": "9231f52c279d4b4e",
+      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "sourceId": "techcrunch_ai",
+      "text": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment."
+    },
+    {
+      "type": "item",
+      "id": "2d9882f0b7ffd230",
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "sourceId": "techcrunch_ai",
+      "text": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems."
+    },
+    {
+      "type": "item",
+      "id": "a7da00d346c25ca8",
+      "title": "Google’s Gemini app surges to 1 billion users",
+      "sourceId": "techcrunch_ai",
+      "text": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google."
+    },
+    {
+      "type": "item",
+      "id": "46bfb5f438b57f40",
+      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+      "sourceId": "techcrunch_ai",
+      "text": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\""
+    },
+    {
+      "type": "item",
+      "id": "a16b72fa42e6f10a",
+      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "sourceId": "techcrunch_ai",
+      "text": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate."
+    },
+    {
+      "type": "item",
+      "id": "3fbc859341462050",
+      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+      "sourceId": "techcrunch_ai",
+      "text": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect."
+    },
+    {
+      "type": "item",
+      "id": "d4ff4dca688ab00d",
+      "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
+      "sourceId": "techcrunch_ai",
+      "text": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default."
+    },
+    {
+      "type": "item",
+      "id": "71ec158479abfab3",
+      "title": "Anthropic says it will watermark text generated by its AI models",
+      "sourceId": "techcrunch_ai",
+      "text": "Anthropic will extend support for watermarking AI generations for older models as well."
+    },
+    {
+      "type": "item",
+      "id": "edb59d63226688df",
+      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+      "sourceId": "techcrunch_ai",
+      "text": "San Francisco's housing market is in trouble again."
+    },
+    {
+      "type": "item",
+      "id": "7bb183617c9aa0ad",
+      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "sourceId": "techcrunch_ai",
+      "text": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it."
+    },
+    {
+      "type": "item",
+      "id": "afb32f03b8b0a39d",
+      "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+      "sourceId": "techcrunch_ai",
+      "text": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building."
+    },
+    {
+      "type": "item",
+      "id": "1efc0bb5b3994114",
+      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "sourceId": "techcrunch_ai",
+      "text": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice."
+    },
+    {
+      "type": "item",
+      "id": "7a2fbf89af42d6e0",
+      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+      "sourceId": "techcrunch_ai",
+      "text": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as the emerging divide between AI users can own and access."
+    },
+    {
+      "type": "item",
+      "id": "66869a44d4701111",
+      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "sourceId": "techcrunch_ai",
+      "text": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips."
+    },
+    {
+      "type": "item",
+      "id": "f52e4595a23bba0b",
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "sourceId": "techcrunch_ai",
+      "text": "The AI-focused hedge fund is still making some big bets."
+    },
+    {
+      "type": "item",
+      "id": "51880ed6c666b431",
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "sourceId": "techcrunch_ai",
+      "text": "Programming with Claude Code will soon require even less human oversight."
+    },
+    {
+      "type": "item",
+      "id": "7359cd8c663f6907",
+      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+      "sourceId": "techcrunch_ai",
+      "text": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader."
+    },
+    {
+      "type": "item",
+      "id": "dea7a95bad436b44",
+      "title": "The AI safety test is becoming a safety risk",
+      "sourceId": "techcrunch_ai",
+      "text": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards, and regulation can keep pace with increasingly powerful models."
+    },
+    {
+      "type": "item",
+      "id": "05df5ab443a99df2",
+      "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
+      "sourceId": "wired_ai",
+      "text": "Researchers say it took fewer than 20 prompts for a public AI tool to find a flaw (now fixed) allowing anyone on a Zoom call to hijack another participants’ device."
+    },
+    {
+      "type": "item",
+      "id": "6ac201d828771f58",
+      "title": "A New Trick Reveals AI Models’ Inner Thoughts",
+      "sourceId": "wired_ai",
+      "text": "Researchers devised a way to extract “reasoning traces” from Claude, GPT, and Gemini. What they found, they say, indicates that some Chinese AI may be trained on leading US models."
+    },
+    {
+      "type": "item",
+      "id": "e5ba944b7fcd3a57",
+      "title": "AI Is Dead. Organoids Are Alive",
+      "sourceId": "wired_ai",
+      "text": "Mini human brains are being grown in labs all over the world. Soon, they could outthink neural networks."
+    },
+    {
+      "type": "item",
+      "id": "722e2cc5096b4d81",
+      "title": "AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia",
+      "sourceId": "wired_ai",
+      "text": "Recent findings provide one of the most detailed pictures to date of the genetic architecture of schizophrenia, opening up new avenues for research into the disorder."
+    },
+    {
+      "type": "item",
+      "id": "6f436178a66fbc72",
+      "title": "The AI Slop Backlash Is Actually Having an Impact",
+      "sourceId": "wired_ai",
+      "text": "Platforms are finally recognizing that people don’t want to consume AI slop. A growing number of sites and apps now have tools and policies to flag, label, and ban AI-generated content."
+    },
+    {
+      "type": "item",
+      "id": "f09742cb8f210b34",
+      "title": "The Rise of the 1 am Job Interview",
+      "sourceId": "wired_ai",
+      "text": "An AI interview is increasingly the first step of a hiring process. Since there’s no human on the other end, candidates are scheduling them whenever—even deep into the night."
+    },
+    {
+      "type": "item",
+      "id": "8f6acc7217e6b807",
+      "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
+      "sourceId": "wired_ai",
+      "text": "There are endless ways to record and transcribe your virtual meetings with AI. Here’s an option that’s free and open source."
+    },
+    {
+      "type": "item",
+      "id": "39e8dd38f8c9dec3",
+      "title": "These AI Barons Are Ready to Give Away Their Fortunes",
+      "sourceId": "wired_ai",
+      "text": "A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. What should we make of a multi-billion-dollar pinky promise?"
+    },
+    {
+      "type": "item",
+      "id": "b920e673e5ad5d56",
+      "title": "Why software factories are back - and how they work in the age of AI",
+      "sourceId": "zdnet_ai",
+      "text": "Imagine submitting your vibe-coded app to a service that validates, tests, and then mass-produces it in a repeatable, automated fashion for delivery to a wide audience."
+    },
+    {
+      "type": "item",
+      "id": "c067e91ae84ec22c",
+      "title": "How to create flyers with AI that people won't hate: 8 tips (and prompts) that really work",
+      "sourceId": "zdnet_ai",
+      "text": "Most AI flyers are still a mess, but the right prompts can make all the difference."
+    },
+    {
+      "type": "item",
+      "id": "1c47db3ba916e0ea",
+      "title": "A developer got Word 1.1a from 1990 to run on Windows 11 - try it yourself",
+      "sourceId": "zdnet_ai",
+      "text": "Longing for a plain, old-fashioned version of Microsoft Word without all the bells, whistles, and AI slop? One developer managed to coax Word 1.1a to run on today's Windows."
+    },
+    {
+      "type": "item",
+      "id": "8a84cd2ac3001b12",
+      "title": "Linux desktop use surged to 22% on one workday, Cloudflare data shows",
+      "sourceId": "zdnet_ai",
+      "text": "The Linux desktop's popularity is growing fast, and there are a few reasons why."
+    },
+    {
+      "type": "item",
+      "id": "4ec8530bee0ea402",
+      "title": "I tried Opera's new vertical tabs - and it might be the best implementation yet",
+      "sourceId": "zdnet_ai",
+      "text": "If the lack of vertical tabs has kept you from adopting the Opera browser, you might want to take another look."
+    },
+    {
+      "type": "item",
+      "id": "cdecc53900b02020",
+      "title": "Nvidia's open Nemotron 3.5 Lightning model is all about specialized, local agentic AI",
+      "sourceId": "zdnet_ai",
+      "text": "Our AI Model Release Tracker keeps new models in context with their peers, so you know which are worth your time."
+    },
+    {
+      "type": "item",
+      "id": "0dd8fa0c90a7ee0b",
+      "title": "This $50 power bank is safer than my lithium-ion battery - and it's coming on my next flight",
+      "sourceId": "zdnet_ai",
+      "text": "Lithium-ion power banks keep catching fire. Is semi-solid-state the safer solution?"
+    },
+    {
+      "type": "item",
+      "id": "9dc47cc1616954be",
+      "title": "Best robot mowers of 2026: Expert tested",
+      "sourceId": "zdnet_ai",
+      "text": "I went hands-on with the best robot mowers that can cut your lawn regularly, so you can kick back and relax this summer."
+    },
+    {
+      "type": "item",
+      "id": "6e12a029fe71f79e",
+      "title": "7 simple gadgets that can make your home smarter for under $100",
+      "sourceId": "zdnet_ai",
+      "text": "You don't have to spend lots of money to make your home smarter. Here are the best affordable gadgets to upgrade your space."
+    },
+    {
+      "type": "item",
+      "id": "dbe2032483f833c9",
+      "title": "I tried Google Wallet's new allowance feature, and my kid already ditched their debit card",
+      "sourceId": "zdnet_ai",
+      "text": "The new feature lets you send money to your children without them needing a card or separate account."
+    },
+    {
+      "type": "item",
+      "id": "13c4bacab9f94317",
+      "title": "This pocket-sized gadget helped cut down our editor's screen time - and it's on sale",
+      "sourceId": "zdnet_ai",
+      "text": "Brick can curb your screen time, and it's on sale for a limited time."
+    },
+    {
+      "type": "item",
+      "id": "0cbb77ef18440df5",
+      "title": "Why recovery readiness has become the new standard for cyber resilience",
+      "sourceId": "zdnet_ai",
+      "text": "As outages become more expensive and frequent, recovery readiness is emerging as the true measure of resilience."
+    },
+    {
+      "type": "item",
+      "id": "0e49c07d401b706b",
+      "title": "Why managers are ransomware's top targets now - and 6 ways to stay safe",
+      "sourceId": "zdnet_ai",
+      "text": "Almost two-thirds of the victims targeted in a single ransomware campaign held managerial positions or higher."
+    },
+    {
+      "type": "item",
+      "id": "9bb79c41cd43316c",
+      "title": "This blazing-fast, super-private browser delivers a brand new beta - try it for free",
+      "sourceId": "zdnet_ai",
+      "text": "The zero-telemetry Orion browser finally makes its way to Linux as a beta release. It's also available for MacOS, iOS, and iPadOS, with a Windows version coming soon."
+    },
+    {
+      "type": "item",
+      "id": "5db6bd2df848b889",
+      "title": "I tried a solar-powered AirTag alternative that lasts 2 years - and looks like my Apple Watch",
+      "sourceId": "zdnet_ai",
+      "text": "This finder tag has excellent range, and it's built for the outdoors."
+    },
+    {
+      "type": "item",
+      "id": "8ff4600a6a7fbd68",
+      "title": "This Mac dock gives me lag-free dual displays with no sketchy drivers - for $150",
+      "sourceId": "zdnet_ai",
+      "text": "I finally get full support for two displays - without paying Thunderbolt prices. But there is a catch."
+    },
+    {
+      "type": "item",
+      "id": "f48be5b998b51518",
+      "title": "We lab-tested Ecovac's next-gen robot mop - here's where it shines (and struggles)",
+      "sourceId": "zdnet_ai",
+      "text": "The Ecovacs Deebot X12 OmniCyclone is not just a mouthful; it's a market leader in features and intelligence."
+    },
+    {
+      "type": "item",
+      "id": "c8ada05d0e82ea97",
+      "title": "Claude's Record-a-Skill cut my research from hours to 30 minutes - but the magic has limits",
+      "sourceId": "zdnet_ai",
+      "text": "I used Claude Cowork to automate a workflow, and the result was remarkably effective, but it exposed four drawbacks."
+    },
+    {
+      "type": "item",
+      "id": "73b9c099a1e0cedd",
+      "title": "Made by Google 2026: How to watch and what to expect from the Pixel 11 event",
+      "sourceId": "zdnet_ai",
+      "text": "Google is set to announce its Pixel 11 series phones - here's what we know."
+    },
+    {
+      "type": "item",
+      "id": "f89195d3362155e1",
+      "title": "SpaceXAI's Grok Bot turns agents into persistent digital coworkers that can operate your apps for $120-per-month",
+      "sourceId": "venturebeat",
+      "text": "SpaceXAI, the division of SpaceX f ormerly known as xAI , is launching an early beta version of Grok Bot , a new agent designed to move AI assistants beyond answering prompts and toward continuously executing work across the software employees already use. The central idea is straightforward: instead of opening an AI assistant whenever a task arises, users create persistent Bots with specific jobs"
+    },
+    {
+      "type": "item",
+      "id": "cd330352c56cd476",
+      "title": "Why AI-driven purchase intent so rarely becomes a completed sale",
+      "sourceId": "venturebeat",
+      "text": "Presented by Rezolve Ai When an AI assistant recommends a product or brand, it generates something valuable: a purchase-ready consumer with high intent and low friction in their decision. That consumer has already compared options, asked follow-up questions, and arrived at a conclusion. They want to buy. What they encounter next is a commerce infrastructure that was not designed for them. The gap"
+    },
+    {
+      "type": "item",
+      "id": "52a49acab1e16c56",
+      "title": "Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.",
+      "sourceId": "venturebeat",
+      "text": "Mistral AI wants to turn European AI sovereignty from a talking point into a product — one with a service-level agreement attached. The French artificial intelligence company announced Tuesday a three-part expansion of its infrastructure business: regional inference endpoints that let customers choose whether their AI workloads run in Europe or the United States, a new &quot;Priority Tier&quot; ba"
+    },
+    {
+      "type": "item",
+      "id": "5f8f182c07b7fbbc",
+      "title": "LTX-2.5 can generate a 10-second AI video from an image in just 6.8 seconds on Nvidia superchips — and it's open weights",
+      "sourceId": "venturebeat",
+      "text": "LTX , the open world model company spun out of Lightricks, today released LTX-2.5, the newest version of its open-weights video and &quot;world&quot; model and it arrives natively integrated into ComfyUI , the node-based workflow tool that has become the de facto prototyping environment for open generative media, through a strategic day-one launch partnership between the two companies. The model i"
+    },
+    {
+      "type": "item",
+      "id": "88d64739b2c14323",
+      "title": "Nvidia's Switchyard router reshuffles AI models mid-task, cutting task costs to a third in its own tests",
+      "sourceId": "venturebeat",
+      "text": "Enterprises running always-on AI agents keep hitting the same tradeoff. Send every task to a frontier model and the bill climbs fast. Build custom routing logic to send easy tasks to cheaper models and that becomes its own engineering project, one that has to be maintained every time a workflow changes. Nvidia is proposing a fix that touches both ends of that problem at once. The company is out on"
+    },
+    {
+      "type": "item",
+      "id": "de890460200c7b14",
+      "title": "Your AI agent may be ready. Your sales motion probably isn’t.",
+      "sourceId": "venturebeat",
+      "text": "Presented by Salesforce Interested buyers don&#x27;t generate revenue. Live customers do. That&#x27;s the lesson I keep drawing from watching hundreds of ISV partnerships navigate the agent economy over the last 18 months. The companies pulling ahead aren&#x27;t winning on features. They&#x27;re winning because customers can move from discovery to live deployment in hours, while competitors are st"
+    },
+    {
+      "type": "item",
+      "id": "6305bef81fe767c0",
+      "title": "OpenAI launches GPT-5.6-Cyber with reduced refusals, 95% completion on advanced cybersecurity tasks",
+      "sourceId": "venturebeat",
+      "text": "Earlier today, OpenAI launched GPT-5.6-Cyber , a specialized model designed to perform advanced vulnerability research and exploit development for approved defenders — including categories of work that its general-purpose models will often refuse. GPT-5.6-Cyber is a fine-tuned version of OpenAI&#x27;s most advanced general model, GPT-5.6 Sol, unveiled back in June , but trained specifically to imp"
+    },
+    {
+      "type": "item",
+      "id": "bdb2c10328797efd",
+      "title": "The Video Production Stack Now Fits on One Desk: LTX-2.5 Launches as NVIDIA-Accelerated Open Weights World Model",
+      "sourceId": "marktechpost",
+      "text": "LTX-2.5 brings frontier video generation to local NVIDIA hardware: 6.8-second clips, native multishot, day-one ComfyUI, open weights. The post The Video Production Stack Now Fits on One Desk: LTX-2.5 Launches as NVIDIA-Accelerated Open Weights World Model appeared first on MarkTechPost ."
+    },
+    {
+      "type": "item",
+      "id": "17ae3bbf4e5668bf",
+      "title": "Building and Validating a Quantitative Trading Strategy with OctoBot, Walk-Forward Backtesting, Parameter Optimization, and Interactive Analysis",
+      "sourceId": "marktechpost",
+      "text": "In this tutorial, we build a complete quantitative backtesting workflow with OctoBot and OctoBot-Script while keeping the environment isolated from Colab’s preinstalled dependencies. We configure a rule-based trading strategy that combines RSI-based oversold signals, EMA trend confirmation, and ATR-driven adaptive stop-loss and take-profit levels, and we execute it through OctoBot’s native market-"
+    },
+    {
+      "type": "item",
+      "id": "63cb0410066bc3da",
+      "title": "webAI Releases TwIL-LM: A 1.7B and 3B Formal-Logic Model Family for Autoformalization on Local Hardware",
+      "sourceId": "marktechpost",
+      "text": "webAI has released TwIL-LM, a family of formal-logic models at 1.7B and 3B parameters that translate English into first-order logic and check whether conclusions follow from premises. The 3B runs on CPU or 4GB of VRAM; the 1.7B downloads at 1.06GB. Both ship under a non-commercial license. The model card also shows that the headline benchmark scores belong to an unreleased checkpoint, not the weig"
+    },
+    {
+      "type": "item",
+      "id": "33dfd9ae651874b6",
+      "title": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+      "sourceId": "marktechpost",
+      "text": "In this comprehensive guide, we demonstrate how to implement a complete, programmable MiniMax-H3 multimodal generation pipeline. By leveraging ComfyUI as a headless backend, we walk through setting up an automated inference environment that handles hardware profiling, model weight downloading, dynamic graph construction, and joint video-audio decoding. The post Implementing a MiniMax-H3 Multimodal"
+    },
+    {
+      "type": "item",
+      "id": "41afd772dd7ddc37",
+      "title": "Meta AI Releases Muse Glimmer: A 30B Open-Weights Agentic Model That Runs on One Consumer GPU",
+      "sourceId": "marktechpost",
+      "text": "Meta's Muse Glimmer is a 30B open-weights agentic model under Apache 2.0. It fits 24 GB VRAM and decodes 3.1x faster with DFlash speculation. The post Meta AI Releases Muse Glimmer: A 30B Open-Weights Agentic Model That Runs on One Consumer GPU appeared first on MarkTechPost ."
+    },
+    {
+      "type": "item",
+      "id": "bdf3de3573370fe4",
+      "title": "ByteDance Seed Introduces SeedRealtime: a Native Audio-Visual Full-Duplex LLM That Watches, Listens and Speaks in One Model",
+      "sourceId": "marktechpost",
+      "text": "ByteDance&#8217;s Seed team has introduced SeedRealtime, a native audio-visual full-duplex LLM. The model fuses audio, video and text in a single unified architecture. It interacts in real time over continuous multimodal streams, rather than one turn at a time. Seed positions it as a step toward omni-modal interaction, and claims three breakthroughs: joint audio-visual understanding, [&#8230;] The"
+    },
+    {
+      "type": "item",
+      "id": "96ac752686699f68",
+      "title": "NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+      "sourceId": "marktechpost",
+      "text": "NVIDIA releases NemotronLabs VoiceChat 11B, an open full-duplex speech-to-speech model with 448 ms latency and live tool calling. The post NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling appeared first on MarkTechPost ."
+    },
+    {
+      "type": "item",
+      "id": "43bc300624ed23dd",
+      "title": "Top LLM Observability and Evaluation Platforms in 2026: Langfuse, LangSmith, Braintrust, Arize, and More Compared",
+      "sourceId": "marktechpost",
+      "text": "A verified 2026 comparison of LLM observability platforms covering tracing depth, evaluation capability, production monitoring, and pricing. The post Top LLM Observability and Evaluation Platforms in 2026: Langfuse, LangSmith, Braintrust, Arize, and More Compared appeared first on MarkTechPost ."
+    },
+    {
+      "type": "item",
+      "id": "662ef05f36d44891",
+      "title": "IMDb Sentiment Analysis with DistilBERT LoRA, TF-IDF Baselines, Calibration, Interpretability, Robustness Testing, and Semi-Supervised Learning",
+      "sourceId": "marktechpost",
+      "text": "This tutorial provides a comprehensive guide to building a robust sentiment analysis workflow. By combining classical TF-IDF baselines with modern parameter-efficient fine-tuning (DistilBERT + LoRA), we explore deep model interpretability, calibration, and semi-supervised techniques to achieve scalable sentiment inference The post IMDb Sentiment Analysis with DistilBERT LoRA, TF-IDF Baselines, Cal"
+    },
+    {
+      "type": "item",
+      "id": "681b9f3ee1679a23",
+      "title": "How the “censorship-industrial complex” is changing the Internet and US policy",
+      "sourceId": "mit_tech_review",
+      "text": "I first heard the term “censorship-industrial complex” on April 15, 2025.&#160; That’s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering foreign disinformation from the likes of Russia, Iran, and China, was facing imminent shutdown—the next day.&#160; And the reason? R/FIMI, as the office&#8230;"
+    },
+    {
+      "type": "item",
+      "id": "405136e9f0e82b86",
+      "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
+      "sourceId": "mit_tech_review",
+      "text": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine years after Google researchers introduced the transformer, this family of neural networks has become the engine inside every major large&#8230;"
+    },
+    {
+      "type": "item",
+      "id": "fd757f0dbe4f0bde",
+      "title": "AI professors are negotiating the new realities of academic research",
+      "sourceId": "mit_tech_review",
+      "text": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI&#8230;"
+    },
+    {
+      "type": "item",
+      "id": "9b7e4bb0f9a649ce",
+      "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
+      "sourceId": "mit_tech_review",
+      "text": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI for science needs reasoning, not just data —Eric Schmidt, the former CEO of Google and the cofounder of Schmidt Sciences, and Suhas Mahesh, who leads the AI for science work&#8230;"
+    },
+    {
+      "type": "item",
+      "id": "eeebabbc2b42a2eb",
+      "title": "AI for science needs reasoning, not just data",
+      "sourceId": "mit_tech_review",
+      "text": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the&#8230;"
+    },
+    {
+      "type": "item",
+      "id": "fed1ec702fcfa168",
+      "title": "These startups are chasing the next big thing in LLMs",
+      "sourceId": "mit_tech_review",
+      "text": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new&#8230;"
+    },
+    {
+      "type": "item",
+      "id": "ded7c985f37f8d06",
+      "title": "The Ultimate Guide to Contributing to Open Source Projects",
+      "sourceId": "kdnuggets",
+      "text": "This guide walks through what contributing to open source projects actually covers, how to pick a project that will actually respond to you, the exact git mechanics, and more."
+    },
+    {
+      "type": "item",
+      "id": "1161ad4a6ed0db6e",
+      "title": "3 Visual Proofs of the Central Limit Theorem to Build Your Intuition",
+      "sourceId": "kdnuggets",
+      "text": "To build your intuition, this article shows three visual proofs that the classic bell curve appears in myriad situations."
+    },
+    {
+      "type": "item",
+      "id": "1800ac5db9422811",
+      "title": "New Free eBook: Understanding Agentic AI, an Executive Briefing",
+      "sourceId": "kdnuggets",
+      "text": "Written for CEOs, CTOs, CIOs, and technology executives, our new free ebook \"Understanding Agentic AI: An Executive Briefing\" walks through the components every real agentic system is built from."
+    },
+    {
+      "type": "item",
+      "id": "1c87c8bda257501a",
+      "title": "Specification Engineering: The New Skill After Prompt Engineering",
+      "sourceId": "kdnuggets",
+      "text": "Prompt engineering taught us how to ask better questions. Specification engineering teaches us how to define better work."
+    },
+    {
+      "type": "item",
+      "id": "4e7d08396a56898e",
+      "title": "Top 10 AI Influencers of 2026",
+      "sourceId": "kdnuggets",
+      "text": "Ten AI influencers who are actually shaping 2026, from safe superintelligence to AI-native search. Here is who to follow and why."
+    },
+    {
+      "type": "item",
+      "id": "399f779ce18dfda2",
+      "title": "Ollama Releases 发布 v0.32.9",
+      "sourceId": "ollama_rel",
+      "text": "NVIDIA Nemotron 3.5 Lightning NVIDIA Nemotron 3.5 Lightning is an open 30B mixture-of-experts (MoE) model with 3B active parameters built for that execution layer of always-on agents. It is designed for harnesses like OpenClaw and Hermes Agent – all supported by the NVIDIA NemoClaw open source security and management stack for running always-on AI agents. ollama run nemotron-3.5-lightning What's C"
+    },
+    {
+      "type": "item",
+      "id": "93a67daf9772b785",
+      "title": "Ollama Releases 发布 v0.32.8",
+      "sourceId": "ollama_rel",
+      "text": "Muse Glimmer Muse Glimmer is now available on all platforms. Muse Glimmer can power coding agent applications such as Claude Code, Codex, Pi and more, as well as long-running personal assistants such as OpenClaw and Hermes. Ollama's MLX engine provides state-of-the-art performance on Apple Silicon for this model, with support for DFlash and image input as of Ollama 0.32.7. To download and run Muse"
+    },
+    {
+      "type": "item",
+      "id": "97aa1ab2422158aa",
+      "title": "Ollama Releases 发布 v0.32.8-rc0",
+      "sourceId": "ollama_rel",
+      "text": "llama.cpp update ( #17659 )"
+    },
+    {
+      "type": "item",
+      "id": "0dd78925b9ca370e",
+      "title": "Ollama Releases 发布 v0.32.7",
+      "sourceId": "ollama_rel",
+      "text": "Muse Glimmer Note: Muse Glimmer is currently available via initial support via Ollama's MLX engine on Apple Silicon. Additional support and optimizations for Apple Silicon, NVIDIA, AMD, and other platforms will be available in the coming days. Muse Glimmer , Meta's newest open model and the first released by Meta Superintelligence Labs, is now available on Ollama. It's a 30B multimodal model purpo"
+    },
+    {
+      "type": "item",
+      "id": "59ea8340bdb5af84",
+      "title": "Transformers Releases 发布 Release: v5.15.0",
+      "sourceId": "transformers_rel",
+      "text": "Release v5.15.0 New Model additions Meta Muse Glimmer Muse Glimmer, released today, is Meta’s new multimodal model, especially designed for agentic use cases. Distilled from Muse to 30B parameters, and released under the Apache 2.0 license, it can be deployed to local setups for privacy-aware applications such as coding, document analysis, personal assistants, Claw- or Hermes-like setups. Muse Gli"
+    },
+    {
+      "type": "item",
+      "id": "b7c1eb403cf26484",
+      "title": "LangChain Releases 发布 langchain-anthropic==1.5.5",
+      "sourceId": "langchain_rel",
+      "text": "Changes since langchain-anthropic==1.5.4 release(anthropic): 1.5.5 ( #39597 ) fix(anthropic): report reasoning tokens in usage metadata ( #39590 ) fix(anthropic): fix KeyError on rename in Claude file-tool middleware ( #39293 ) chore(model-profiles): refresh model profile data ( #39299 ) fix(anthropic): clearer error when no credentials are configured ( #39285 )"
+    },
+    {
+      "type": "item",
+      "id": "096c45d67192212e",
+      "title": "LangChain Releases 发布 langchain==1.3.15",
+      "sourceId": "langchain_rel",
+      "text": "Changes since langchain==1.3.14 release(langchain): 1.3.15 ( #39595 ) feat(langchain): expose trace_policy on AgentMiddleware ( #38910 ) chore(langchain): fix type errors in tests ( #39589 ) chore: bump h2 from 4.3.0 to 4.4.1 in /libs/langchain_v1 ( #39324 ) fix(langchain): preserve history on SummarizationMiddleware summary failure ( #39268 ) fix(langchain): handle import error in LLMToolEmulator"
+    },
+    {
+      "type": "item",
+      "id": "8e77e28347b34a0a",
+      "title": "LangChain Releases 发布 langchain-core==1.5.4",
+      "sourceId": "langchain_rel",
+      "text": "Changes since langchain-core==1.5.3 release(core): 1.5.4 ( #39592 ) fix(core): compat with pydantic 2.14 ( #39328 ) fix(core): stop StructuredPrompt from mutating caller kwargs ( #39174 ) fix(core): preserve flat tool args schema for RootModel runnables ( #39307 ) fix(core): close internally created event loops in streaming tracers ( #39222 ) chore: bump the minor-and-patch group across 3 director"
+    },
+    {
+      "type": "item",
+      "id": "647cf2ff0c1a6668",
+      "title": "LangChain Releases 发布 langchain-openai==1.4.3",
+      "sourceId": "langchain_rel",
+      "text": "Changes since langchain-openai==1.4.2 release(openai): 1.4.3 ( #39485 ) fix(openai): filter invalid tool calls from content ( #39366 ) chore(openai): update guidance for responses API for OpenAI-compatible providers ( #39327 ) chore(openai): update docstring for include_response_headers ( #39326 )"
+    },
+    {
+      "type": "item",
+      "id": "f140f6a08757db25",
+      "title": "llama.cpp Releases 发布 b10362",
+      "sourceId": "llamacpp_rel",
+      "text": "tests : disable backend sampler hip multi output ( #26878 ) test-backend-sampler: skip multi_output_sampling_chain on HIP The new multi_output_sampling_chain test uses top_k, whose backend probs path needs CUB (unavailable on HIP), so sampled_probs is null and the test aborts. Add it to the existing HIP skip list alongside the other TOP_K tests. ci: keep gpu-rocm logs in a per-run dir keyed by Git"
+    },
+    {
+      "type": "item",
+      "id": "3290417ed9cf0c75",
+      "title": "llama.cpp Releases 发布 b10361",
+      "sourceId": "llamacpp_rel",
+      "text": "model : fix SWA not being enabled for EXAONE 4.5 ( #26848 ) model : fix SWA not being enabled for EXAONE 4.5 load_arch_hparams tests hparams.n_layer() == 64 before LLM_KV_NEXTN_PREDICT_LAYERS has been read. n_layer() returns n_layer_all - n_layer_nextn and n_layer_nextn defaults to 0, so a GGUF carrying the MTP head (block_count=65, nextn=1) evaluates to 65 and the whole SWA block is skipped. The"
+    },
+    {
+      "type": "item",
+      "id": "668db1b5c0d1cb0e",
+      "title": "llama.cpp Releases 发布 b10360",
+      "sourceId": "llamacpp_rel",
+      "text": "common/peg : suppress incomplete escape sequences ( #26780 ) Website: https://llama.app macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework Linux: Ubuntu x64 (CPU) Ubuntu arm64 (CPU) Ubuntu s390x (CPU) Ubuntu x64 (Vulkan) Ubuntu arm64 (Vulkan) Ubuntu x64 (ROCm 7.14) Ubuntu x64 (OpenVINO) Ubuntu x64 (SYCL FP32) Ubuntu x64 ("
+    },
+    {
+      "type": "item",
+      "id": "44242ac257be96d1",
+      "title": "llama.cpp Releases 发布 b10359",
+      "sourceId": "llamacpp_rel",
+      "text": "ggml-webgpu: fix CI errors from #25025 and #25262 ( #26566 ) test new flash_attn test rebase and fix to disable subgrou matrices when max_kv_tile == 0 delete log output Add i32 support to cpy and enables the all ops test restore the non target ci tests comment out of TODO of build-cpu.yml fix format Website: https://llama.app macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, Kleid"
+    },
+    {
+      "type": "item",
+      "id": "70973b5e1c35cc78",
+      "title": "llama.cpp Releases 发布 b10358",
+      "sourceId": "llamacpp_rel",
+      "text": "Address review comment of PR 25532 ( #26852 ) Website: https://llama.app macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework Linux: Ubuntu x64 (CPU) Ubuntu arm64 (CPU) Ubuntu s390x (CPU) Ubuntu x64 (Vulkan) Ubuntu arm64 (Vulkan) Ubuntu x64 (ROCm 7.14) Ubuntu x64 (OpenVINO) Ubuntu x64 (SYCL FP32) Ubuntu x64 (SYCL FP16) Andr"
+    },
+    {
+      "type": "item",
+      "id": "89f62493a5710e19",
+      "title": "llama.cpp Releases 发布 b10357",
+      "sourceId": "llamacpp_rel",
+      "text": "opencl: transpose the K tile in local memory for FA prefill kernels ( #26428 ) Website: https://llama.app macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework Linux: Ubuntu x64 (CPU) Ubuntu arm64 (CPU) Ubuntu s390x (CPU) Ubuntu x64 (Vulkan) Ubuntu arm64 (Vulkan) Ubuntu x64 (ROCm 7.14) Ubuntu x64 (OpenVINO) Ubuntu x64 (SYCL"
+    },
+    {
+      "type": "item",
+      "id": "6af10d75df82474b",
+      "title": "llama.cpp Releases 发布 b10356",
+      "sourceId": "llamacpp_rel",
+      "text": "ci : target ROCm 7.14 for build and release ( #25775 ) Switch ROCm from 7.2.1 to 7.14 ROCm 7.14 is the first production release using TheRock build system. It can be installed using multi-arch deliverables from wheels, debs, rpms, tarballs or runfiles. Adjust ROCm targets for Linux and Windows to use this instead. ci: switch all other Windows ROCm jobs to ROCm 7.14 wheels Move the shared windows-s"
+    },
+    {
+      "type": "item",
+      "id": "d054828805cf8558",
+      "title": "llama.cpp Releases 发布 b10355",
+      "sourceId": "llamacpp_rel",
+      "text": "llama : support multi-output backend sampling ( #25532 ) Enable backend sampling with token speculation Clamp the mask sum before converting it into the sampled index Add a numeric context parameter declaring the maximum outputs one sequence More fixes Don't reuse memory for output views. Match dist between CPU and GPU Fix CPU and backend sampling mismatches Simpify some of the changes Fix tests o"
+    },
+    {
+      "type": "item",
+      "id": "e7b2ce4ea89ea60e",
+      "title": "llama.cpp Releases 发布 b10354",
+      "sourceId": "llamacpp_rel",
+      "text": "ggml-cpu : fix CPU affinity mask being ignored on Android ( #26838 ) Website: https://llama.app macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework Linux: Ubuntu x64 (CPU) Ubuntu arm64 (CPU) Ubuntu s390x (CPU) Ubuntu x64 (Vulkan) Ubuntu arm64 (Vulkan) Ubuntu x64 (ROCm 7.2) Ubuntu x64 (OpenVINO) Ubuntu x64 (SYCL FP32) Ubunt"
+    },
+    {
+      "type": "item",
+      "id": "7f369fc318d98927",
+      "title": "llama.cpp Releases 发布 b10353",
+      "sourceId": "llamacpp_rel",
+      "text": "ggml : require contiguous src for ROLL on CUDA and Metal ( #25928 ) ggml_roll only asserts nb[0] == ggml_type_size, so a permuted src is a valid input, but the CUDA and Metal roll kernels index by ne alone and never read the nb strides. A non-contiguous src therefore produced silently wrong results. Neither backend declared a contiguity requirement in supports_op, so the scheduler did not fall bac"
+    },
+    {
+      "type": "item",
+      "id": "7fc667b24c62e80a",
+      "title": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning",
+      "sourceId": "arxiv_ai",
+      "text": "Learning reliable surgical manipulation policies is bottlenecked by the scarcity of action-labeled demonstrations: teleoperated surgical robot (e.g., dVRK) trajectories with synchronized kinematics are costly to collect, while surgical tasks demand precise contact handling, long-horizon reasoning, and bimanual coordination. Endoscopic video is comparatively inexpensive and abundant relative to syn"
+    },
+    {
+      "type": "item",
+      "id": "0c6c947d1dc99189",
+      "title": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls",
+      "sourceId": "arxiv_ai",
+      "text": "Synthetic dialogue generation offers a way to study conversational dynamics in sensitive domains where real data are difficult to access, release, or annotate. The underlying abuse may occur online or offline: threats and coercion can appear directly in messages, while behaviours such as surveillance, isolation, stalking, and physical violence may be planned, disclosed, or referred to conversation"
+    },
+    {
+      "type": "item",
+      "id": "9adea61aa56e080c",
+      "title": "Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders",
+      "sourceId": "arxiv_ai",
+      "text": "Shani et al. (2026) show that LLM representations broadly recover human category boundaries, while failing to reflect fine-grained typicality structure. Their analysis uses cosine similarity over dense model representations. We revisit their approach using overlap over active sparse autoencoder (SAE) latent sets as a more interpretable similarity measure. We first verify that this set-level measur"
+    },
+    {
+      "type": "item",
+      "id": "6fa72760659d1235",
+      "title": "Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration",
+      "sourceId": "arxiv_ai",
+      "text": "AI agents are increasingly used in mathematics research, but it is often unclear how to use them effectively. Towards this, we present an extensive case study of how AI was used to improve bounds on the Grothendieck constant $K_G$, which captures the hardness between combinatorial problems and their continuous relaxations. Specifically, while the precise value of $K_G$ is not known, we recently ti"
+    },
+    {
+      "type": "item",
+      "id": "c3cbc10956a6c328",
+      "title": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation",
+      "sourceId": "arxiv_ai",
+      "text": "GUI Visual Grounding is a fundamental capability for GUI agents. Existing models typically freeze their parameters after deployment, limiting their ability to adapt to unseen interfaces. Although recent methods attempt to adapt models via test-time reinforcement learning, they cannot reflect upon failed exploration. To overcome this, we propose a Test-Time Self-Evolving framework that enables mode"
+    },
+    {
+      "type": "item",
+      "id": "f337d91f7c88c2dd",
+      "title": "How to Verify Consistency of Probabilistic Claims",
+      "sourceId": "arxiv_ai",
+      "text": "When a probabilistic predictor answers many conditional-probability queries, are its answers self-consistent, and can this be verified in polynomial time? This problem is of interest for AI safety, where safety is derived from honesty about probabilistic predictions of unwanted outcomes potentially caused by an AI action. We construct an interactive PCP as follows. Let a predictive model be specif"
+    },
+    {
+      "type": "item",
+      "id": "cee97260a36f331c",
+      "title": "From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop",
+      "sourceId": "arxiv_ai",
+      "text": "The Workshop on Trustworthy Natural Language Processing (TrustNLP), co-located with major ACL conferences since 2021, has grown from 8 proceedings papers to 41 over six editions, documenting a field-wide transition from post-hoc interpretability of static models to mechanistic understanding and proactive control of generative systems. We synthesize insights from all 144 proceedings papers, classif"
+    },
+    {
+      "type": "item",
+      "id": "dd2e52c8fcf503cc",
+      "title": "MultiModal Code-Switching: Interleaving Visual Objects into Language for Explicit Object-Level Alignment",
+      "sourceId": "arxiv_ai",
+      "text": "Existing Multimodal Large Language Models (MLLMs) predominantly rely on image-text pairs for modality alignment pretraining, mapping global image representations to long textual descriptions. However, this image-level alignment suffers from referential ambiguity: models struggle to infer the correspondences between multiple visual objects and textual entities from the global representation, leadin"
+    },
+    {
+      "type": "item",
+      "id": "249f70f884813a6a",
+      "title": "The Illusion of Cross-Lingual Safety in Low-Resource Languages",
+      "sourceId": "arxiv_ai",
+      "text": "Safety alignment in large language models (LLMs) is largely developed in English, assuming these safeguards generalize across multilingual settings. However, this assumption remains underexplored and exposes a vulnerability in low-resource languages. We investigate cross-lingual safety transfer in four African languages, Twi, Hausa, Amharic, and Swahili, using LoDNA, a new safety dataset that pair"
+    },
+    {
+      "type": "item",
+      "id": "780b2015df4c7570",
+      "title": "Attention-Path Fragility as an Uncertainty Signal in Large Language Models",
+      "sourceId": "arxiv_ai",
+      "text": "We propose that a model's uncertainty about a token is reflected not only in the breadth of its output distribution but also in whether a confident prediction is \\emph{fragile} under perturbation of its attention pathways. We instantiate this as ASMI (Attention-Subnetwork Mutual Information), a training-free estimator that masks attention heads and measures the BALD mutual information among the re"
+    },
+    {
+      "type": "item",
+      "id": "aff58729f577ff72",
+      "title": "sLTN: Structural Logic Tensor Networks",
+      "sourceId": "arxiv_ai",
+      "text": "Logic Tensor Networks (LTN) provide a neurosymbolic framework in which first-order logic is interpreted through tensor operations, enabling logical constraints to be integrated with differentiable learning. However, the original formulation of LTN is primarily suited to data represented as flat collections of individuals, and does not explicitly capture structural organization such as temporal ord"
+    },
+    {
+      "type": "item",
+      "id": "61f2888d14ee505f",
+      "title": "Two-stage Odd Residual Flows for Mean-Preserving Probabilistic Time Series Forecasting",
+      "sourceId": "arxiv_ai",
+      "text": "Probabilistic forecasting plays an essential role in risk-sensitive decision-making, particularly in long-horizon settings. However, existing approaches often face a fundamental trade-off between distributional flexibility and accurate mean prediction. Traditional parametric methods, such as Mean Variance Estimation (MVE), can suffer from degraded point accuracy when trained under joint Negative L"
+    },
+    {
+      "type": "item",
+      "id": "e1e2b54d2ddbb36c",
+      "title": "Actions Speak Louder than Words: Measuring Cross-Lingual Policy Retention in Tool-Using Agents",
+      "sourceId": "arxiv_ai",
+      "text": "When a tool-using agent is given the same task in a different language, does it still take the same steps? Multilingual evaluation rarely asks: it compares final answers and discards the actions. Yet those actions are the product: they fix cost and latency, decide how the system fails, and are the only auditable part of its behaviour. We make the action policy the measured object across 8 models,"
+    },
+    {
+      "type": "item",
+      "id": "6102150fcbc9257e",
+      "title": "Why Does CLAUDE.md Keep Growing? Catastrophic Remembering in Agentic Coding",
+      "sourceId": "arxiv_ai",
+      "text": "Agentic coding READMEs like CLAUDE.md grow without bound in real repositories, stopping only when the repository retires or someone rewrites the file wholesale. We trace this to imperfect recall: appending an instruction is always cheap, but once an instruction's rationale is gone, deleting it without risking a correctness regression costs O(2^|D|) in a prompt of |D| instructions. We name the resu"
+    },
+    {
+      "type": "item",
+      "id": "d274a04049a0f445",
+      "title": "RTSKG: Building a Rail Transit Station Knowledge Graph Dataset",
+      "sourceId": "arxiv_ai",
+      "text": "Rail transit systems play a vital role in urban mobility and economic development. As key components of such systems, rail transit stations function as critical transport hubs that enhance urban accessibility and stimulate development in surrounding areas. City-level rail transit station related tasks (e.g., ridership prediction) require large-scale urban data, but current studies often neglect co"
+    },
+    {
+      "type": "item",
+      "id": "eee50a8599fbae8f",
+      "title": "SkillZip: Evaluation-Free Skill Compression for Self-Evolving Agents by Discovering Reusable Structure",
+      "sourceId": "arxiv_ai",
+      "text": "Self-evolving agents accumulate reusable skills by appending successful procedures and failure fixes. Over time, the same requirement is often restated in several branches, examples, and warnings, while common action sequences are copied rather than reused. The resulting skill becomes expensive to inject and difficult to maintain. Generic prompt compression is ill-suited to this setting because a"
+    },
+    {
+      "type": "item",
+      "id": "2ff17bbae29737ea",
+      "title": "Quantum Coordination Advantages in AI State-Tracking Tasks: Semantic Compilation and Latent Memory",
+      "sourceId": "arxiv_ai",
+      "text": "We prove inference-time quantum coordination advantages for specified AI state-tracking tasks. A solver compresses semantic history into a future-accessible boundary state and later answers a query. We count communication $B$, persistent instance-dependent memory $M$, and local work $D$; classical recurrence, caches, tools, and recomputation are allowed and charged. The central result is a boundar"
+    },
+    {
+      "type": "item",
+      "id": "fc0a138dd7879f0d",
+      "title": "Entropy-Centric Explainable AI for Remote Sensing Image Segmentation",
+      "sourceId": "arxiv_ai",
+      "text": "Artificial intelligence (AI) has become a powerful approach to solving complex problems in critical domains. Many concerns arise regarding the decision-making process of its models, mainly due to deep neural networks outperforming their peers at the cost of ambiguity in feature extraction and prediction. Consequently, in critical domains such as remote sensing, where high-resolution imagery must b"
+    },
+    {
+      "type": "item",
+      "id": "168b159dd60c9961",
+      "title": "A Comparative Evaluation of Deep Learning Object Detection Models on a Real-World Multi-Plant Dataset from Africa",
+      "sourceId": "arxiv_ai",
+      "text": "The application of computer vision in agriculture has shown significant potential for improving crop monitoring and precision farming. However, many existing approaches rely on controlled datasets that do not adequately represent realworld farming conditions, particularly in underrepresented regions such as Africa. This study presents a comparative evaluation of six object detection models YOLOv5,"
+    },
+    {
+      "type": "item",
+      "id": "78c8b25c8761a37f",
+      "title": "3D Weighted Geometric Graph Neural Networks for Sheep Facial Pain Assessment",
+      "sourceId": "arxiv_ai",
+      "text": "Deep learning systems perform mainly within the 2D for a single image domain and take the face as a single-dimension representation, losing sight of the 3D anatomy of sheep and cross-landmark spatial relationships that are intrinsic to the clinically proven Sheep Pain Facial Expression Scale (SPFES). This paper presents the \\textbf{3D Sheep Pain Facial Expression System (3D-SPFES)}, a novel, monoc"
+    }
+  ]
+}
