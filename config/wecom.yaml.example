@@ -1,0 +1,16 @@
+# 企业微信群机器人推送配置（复制本文件为 wecom.yaml 并填写）
+#
+# 获取 webhook_url：
+#   在企业微信任意群 → 右上角「...」→ 添加群机器人 → 新建/选择机器人
+#   → 复制 Webhook 地址（形如 https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=xxxx）
+#
+# 注意：wecom.yaml 含密钥，已被 .gitignore 忽略，不会提交到仓库。
+
+# 群机器人 Webhook 地址（必填）
+webhook_url: "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=YOUR_KEY_HERE"
+
+# 站点地址，用于详情链接与落款（可选，默认 CloudStudio 线上站）
+site_url: "https://f22de598162848ab94a210a212c7fd9d.bj9.agentos-app.net"
+
+# 每次推送的条数（可选，默认 10）
+top_n: 10
